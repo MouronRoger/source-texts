@@ -1,0 +1,121 @@
+# Daphnet Extraction Runner Configuration
+# Execution parameters and runtime settings
+
+runner:
+  name: "DaphnetExtractor"
+  version: "1.0.0"
+  mode: "production"  # development | production
+  
+execution:
+  start_mode: "resume"  # fresh | resume | test
+  test_limit: 10  # items to process in test mode
+  batch_size: 100  # items per batch before checkpoint
+  checkpoint_frequency: 100  # save progress every N items
+  
+crawling:
+  user_agent: "Mozilla/5.0 (Academic Research Bot; Contact: research@example.edu)"
+  headers:
+    Accept: "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+    Accept-Language: "en-US,en;q=0.9,el;q=0.8"
+    Accept-Encoding: "gzip, deflate"
+    Cache-Control: "no-cache"
+  session:
+    persist: true
+    timeout: 30
+    verify_ssl: true
+  rate_limiting:
+    requests_per_second: 0.5  # 1 request every 2 seconds
+    burst_size: 1
+    backoff_factor: 2.0
+    
+extraction_rules:
+  presocratics:
+    url_generator:
+      pattern: "{base_url}/texts/Presocratics/{chapter}-{type},{number}"
+      chapters: 
+        start: 1
+        end: 90
+      types: ["A", "B", "C"]
+      numbers:
+        max_per_type: 200  # Will stop when 404s encountered
+        
+    content_selectors:
+      greek_text:
+        - selector: "div[lang='grc']"
+        - selector: ".greek-text"
+        - selector: "p:contains('ἀ')"
+        - fallback: "body"
+      metadata:
+        - selector: "meta[name='dc.identifier']"
+        - selector: ".reference"
+      apparatus:
+        - selector: ".apparatus"
+        - selector: ".notes"
+        
+    validation:
+      min_greek_ratio: 0.1  # At least 10% Greek characters
+      min_length: 5
+      
+  rdf_extraction:
+    enabled: true
+    url_suffix: ".rdf"
+    namespaces:
+      dc: "http://purl.org/dc/elements/1.1/"
+      rdf: "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      
+error_handling:
+  max_retries: 3
+  retry_codes: [500, 502, 503, 504, 429]
+  retry_delay: 5  # seconds
+  exponential_backoff: true
+  continue_on_error: true
+  log_errors: true
+  
+progress_tracking:
+  enabled: true
+  file: "progress.json"
+  update_frequency: 10  # Update every 10 items
+  include_stats: true
+  
+output_settings:
+  base_directory: "./data/daphnet"
+  create_subdirs: true
+  file_naming:
+    pattern: "{collection}_{chapter}_{type}_{number}"
+    sanitize: true
+  encoding: "utf-8"
+  pretty_print: true
+  
+logging:
+  level: "INFO"  # DEBUG | INFO | WARNING | ERROR
+  file: "extraction.log"
+  console: true
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  rotate:
+    enabled: true
+    max_bytes: 10485760  # 10MB
+    backup_count: 5
+    
+monitoring:
+  enabled: true
+  metrics:
+    - "items_processed"
+    - "success_rate"
+    - "average_response_time"
+    - "greek_text_coverage"
+  report_frequency: 100  # Report every 100 items
+  
+validation_rules:
+  post_extraction:
+    - check: "dk_reference_format"
+      pattern: "^\\d{1,2}-[ABC],\\d{1,3}$"
+    - check: "greek_content_present"
+      min_chars: 5
+    - check: "no_duplicate_references"
+      scope: "global"
+      
+recovery:
+  auto_resume: true
+  max_resume_attempts: 3
+  checkpoint_on_error: true
+  preserve_partial_data: true

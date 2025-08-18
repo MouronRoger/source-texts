@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+	xmlns:ms="http://ancientsource.daphnet.iliesi.cnr.it/"
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:bibo="http://purl.org/ontology/bibo/"
+	xmlns:edm="http://www.europeana.eu/schemas/edm/"
+	xmlns:rdar="http://purl.org/dc/elements/1.1/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:korbo="http://purl.org/net7/korbo/vocab#"
+	>
+
+	<rdf:Description
+		rdf:about="http://ancientsource.daphnet.iliesi.cnr.it/texts/Presocratics/2-B,5">
+                  <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+		  <bibo:transcriptOf rdf:resource="http://ancientsource.daphnet.iliesi.cnr.it/page/2-B%2C5"></bibo:transcriptOf>
+		  <rdfs:label>Transcription of 2-B,5</rdfs:label>
+		  <dc:title>Transcription of 2-B,5</dc:title>
+                  <korbo:hasAnnotableVersionAt rdf:resource="http://ancientsource.daphnet.iliesi.cnr.it/texts/Presocratics/2-B,5.plain.html" />
+	
+	
+		  <edm:isShownAt rdf:resource="http://ancientsource.daphnet.iliesi.cnr.it/texts/Presocratics/2-B,5.html"/>
+		  <edm:isShownBy rdf:resource="http://ancientsource.daphnet.iliesi.cnr.it/texts/Presocratics/2-B,5.plain.html"/>
+	</rdf:Description>
+
+</rdf:RDF>

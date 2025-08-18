@@ -1,0 +1,189 @@
+# Daphnet Presocratics Extraction Configuration
+# Enhanced with better crawling logic and robustness
+
+project:
+  name: "Daphnet Presocratics Extraction"
+  version: "3.0.0"
+  purpose: "RAG-optimized corpus extraction with RDF support"
+  
+source:
+  base_url: "http://ancientsource.daphnet.iliesi.cnr.it"
+  user_agent: "Daphnet-Extractor/3.0 (academic research; james@example.edu)"
+  
+  collections:
+    presocratics:
+      pattern: "/texts/Presocratics/{chapter}-{type},{number}"
+      rdf_pattern: "/texts/Presocratics/{chapter}-{type},{number}.rdf"
+      chapters: [1, 90]
+      types: ["A", "B", "C"]
+      max_number: 200
+      consecutive_miss_threshold: 5  # After first hit
+      letter_suffixes: ["a", "b", "c", "d", "e", "f"]  # For sub-fragments
+      
+    laertius:
+      pattern: "/texts/Laertius/{book},{section}"
+      rdf_pattern: "/texts/Laertius/{book},{section}.rdf"
+      books: [1, 10]
+      max_section: 100  # Raised from 60
+      consecutive_miss_threshold: 15
+      
+    socratics:
+      pattern: "/texts/Socratics/{reference}"
+      rdf_pattern: "/texts/Socratics/{reference}.rdf"
+      consecutive_miss_threshold: 20
+      
+    sextus:
+      pattern: "/texts/Sextus/{work}/{section}"
+      rdf_pattern: "/texts/Sextus/{work}/{section}.rdf"
+      consecutive_miss_threshold: 15
+
+extraction:
+  rate_limit:
+    base_delay: 0.5  # seconds
+    jitter: 0.5  # Random 0-0.5s added
+    max_backoff: 120  # Max retry delay
+    timeout: 30
+    max_retries: 5
+
+  # Emit an INFO-level progress message after this many record attempts
+  progress_log_frequency: 10
+
+  retry_on_status: [429, 500, 502, 503, 504]
+  redirect_status: [301, 302, 303, 307, 308]
+  
+  content_validation:
+    check_rdf: true
+    check_greek: true
+    greek_threshold: 0.3  # 30% Greek character ratio sanity check
+    min_text_length: 3
+    
+  selectors:
+    primary:
+      - 'div[lang="grc"]'
+      - '.greek-text'
+      - '.transcription'
+    fallback:
+      - 'p'
+      - 'div.content'
+
+output:
+  # Store in repo, not system locations
+  directory: "./data/daphnet"
+  checkpoint_dir: "./data/daphnet/checkpoints"
+  
+  formats:
+    json:
+      enabled: true
+      filename: "daphnet_corpus.json"
+      checkpoint_frequency: 200  # Save every 200 records
+      
+    rdf:
+      enabled: true
+      directory: "rdf_fragments"
+      
+    text:
+      enabled: true
+      filename: "daphnet_texts.txt"
+      
+    coverage:
+      enabled: true
+      filename: "coverage.json"
+
+validation:
+  check_encoding: true
+  normalize_unicode: true
+  track_coverage: true
+  min_coverage: 0.85  # 85% minimum
+
+# Philosopher mapping remains the same
+philosopher_map:
+  1: "Orpheus"
+  2: "Musaeus"
+  3: "Epimenides"
+  4: "Hesiod"
+  5: "Phocus"
+  6: "Cleostratus"
+  7: "Pherecydes of Syros"
+  8: "Theagenes"
+  9: "Acusilaus"
+  10: "Early Philosophers"
+  11: "Thales"
+  12: "Anaximander"
+  13: "Anaximenes"
+  14: "Pythagoras"
+  15: "Cercops"
+  16: "Petron"
+  17: "Brotinus"
+  18: "Hippo"
+  19: "Calliphon and Democedes"
+  20: "Parmiscus"
+  21: "Xenophanes"
+  22: "Heraclitus"
+  23: "Epicharmus"
+  24: "Alcmaeon"
+  25: "Hicetas"
+  26: "Ecphantus"
+  27: "Xenus"
+  28: "Parmenides"
+  29: "Zeno"
+  30: "Melissus"
+  31: "Empedocles"
+  32: "Menestor"
+  33: "Xuthus"
+  34: "Boidas"
+  35: "Ion"
+  36: "Damon"
+  37: "Hippon"
+  38: "Phaleas and Hippodamus"
+  39: "Polyclitus"
+  40: "Oenopides"
+  41: "Hippocrates of Chios"
+  42: "Theodorus"
+  43: "Philolaus"
+  44: "Eurytus"
+  45: "Archippus Lysis Opsimus"
+  46: "Archytas"
+  47: "Occellus"
+  48: "Timaeus"
+  49: "Hicetas"
+  50: "Ecphantus"
+  51: "Xeniades"
+  52: "Anaxagoras"
+  53: "Archelaus"
+  54: "Metrodorus of Lampsacus"
+  55: "Clidemus"
+  56: "Idaeus"
+  57: "Diogenes of Apollonia"
+  58: "Pythagoreans"
+  59: "Anaxagoras"
+  60: "Leucippus"
+  61: "Democritus (Ethics)"
+  62: "Nessas"
+  63: "Metrodorus of Chios"
+  64: "Diogenes of Smyrna"
+  65: "Anaxarchus"
+  66: "Hecataeus"
+  67: "Apollodorus"
+  68: "Democritus"
+  69: "Bolus"
+  70: "Nausiphanes"
+  71: "Diotimus"
+  72: "Bion"
+  73: "Bolus"
+  74: "Thrasyllus"
+  75: "Protagoras"
+  76: "Xeniades"
+  77: "Gorgias"
+  78: "Lycophron"
+  79: "Prodicus"
+  80: "Thrasymachus"
+  81: "Hippias"
+  82: "Antiphon"
+  83: "Critias"
+  84: "Antisthenes"
+  85: "Euthydemus and Dionysodorus"
+  86: "Dissoi Logoi"
+  87: "Anonymous Iamblichi"
+  88: "Anonymous Works"
+  89: "Sophists General"
+  90: "Appendix"
