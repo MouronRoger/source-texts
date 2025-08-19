@@ -1535,3 +1535,479 @@ Let me know if you’d like me to address one of these now or continue sequentia
 
 ---
 
+_**User**_
+
+Carry on
+
+---
+
+_**Assistant**_
+
+<think><details><summary>Thought Process</summary>**Planning task execution**
+
+The user wants me to proceed with the remaining tasks, which include SIGINT checkpointing in the scanner, deduping headers, retrying book fetch, and caching pages. I’ll start by adding SIGINT handling in `scan_catalogue.py`. To do this, I'll track task progress and create a JSON file with partial results in case of an interrupt. For deduping headers, I'll craft a helper function, potentially in a new utility file. I’ll also look at implementing a retry loop for fetching HTML.
+**Updating tasks**
+
+It seems like defining constant HEADERS in `config_loader` could work, and I’ll update `scan_catalogue.py` to use that function, along with the extractor. However, I really want to focus on SIGINT handling and implementing retries first. 
+
+I'll create a global variable for the state in `scan_catalogue.py`, and define a handle_interrupt function to save collected rows, print a message, and exit. I’ll also set up a signal handler and implement a retry mechanism for `fetch_html`. Once completing these, I can mark the SIGINT scanner and retry fetch tasks as done, while noting that deduping headers and caching pages are still pending.</details></think>
+
+---
+
+<details><summary>Edit file: /Users/james/GitHub/source-texts/scaffold-source-texts/scaffold/scan_catalogue.py</summary>
+
+undefined
+
+**Chunk 1**
+Lines added: 22, lines removed: 3
+
+```diff
+@@ -38,7 +38,26 @@
+  
+  from config_loader import get_source_base_url, load_config
+- 
+- BASE_URL: str = get_source_base_url()
+- CONFIG: Mapping[str, Any] = load_config()
++ import signal
++ 
++ # Global run-state for interrupt handling
++ _RUN_STATE: Dict[str, Any] = {"rows": [], "out_file": None}
++ 
++ # ---------------------------------------------------------------------------
++ # Signal handling helpers
++ # ---------------------------------------------------------------------------
++ 
++ def _handle_interrupt(signum, frame):  # noqa: D401 – signal handler
++     """On Ctrl-C write partial catalogue before exiting."""
++ 
++     out_file: Optional[Path] = _RUN_STATE.get("out_file")
++     rows: List[FragmentRow] = _RUN_STATE.get("rows", [])
++     if out_file and rows:
++         print("\nInterrupt – saving partial catalogue …")
++         out_file.write_text(
++             json.dumps([r.to_dict() for r in rows], ensure_ascii=False, indent=2),
++             encoding="utf-8",
++         )
++         print(f"Partial catalogue saved → {out_file}")
++     raise SystemExit(130)
+  
+  # ---------------------------------------------------------------------------
+```
+
+**Chunk 2**
+Lines added: 20, lines removed: 8
+
+```diff
+@@ -99,13 +118,25 @@
+  
+  async def fetch_html(session: aiohttp.ClientSession, url: str) -> Optional[str]:
+-     """Fetch *url* and return the body text if the response status is 200."""
++     """Fetch *url* (with retry) and return body text when status == 200."""
+  
+-     await asyncio.sleep(REQUEST_DELAY)
+-     try:
+-         async with session.get(url) as resp:
+-             if resp.status == 200:
+-                 return await resp.text()
+-     except Exception:
+-         return None
++     max_attempts = 3
++     backoff = 1.0
++     for attempt in range(max_attempts):
++         await asyncio.sleep(REQUEST_DELAY)
++         try:
++             async with session.get(url) as resp:
++                 if resp.status == 200:
++                     return await resp.text()
++                 if resp.status in {500, 502, 503, 504}:
++                     # transient server error
++                     await asyncio.sleep(backoff)
++                     backoff *= 2
++                     continue
++         except asyncio.TimeoutError:
++             await asyncio.sleep(backoff)
++             backoff *= 2
++             continue
++         except Exception:
++             return None
+      return None
+  
+```
+
+**Chunk 3**
+Lines added: 2, lines removed: undefined
+
+```diff
+@@ -184,4 +215,6 @@
+      ) as session:
+          all_frags: List[FragmentRow] = []
++         _RUN_STATE["rows"] = all_frags
++         _RUN_STATE["out_file"] = out_file
+          start = time.time()
+          for i, url in enumerate(book_urls, 1):
+```
+
+**Chunk 4**
+Lines added: 1, lines removed: undefined
+
+```diff
+@@ -218,4 +251,5 @@
+  
+  if __name__ == "__main__":
++     signal.signal(signal.SIGINT, _handle_interrupt)
+      args = _parse_args()
+      asyncio.run(process_collection(args.collection))
+```
+
+</details>
+
+---
+
+
+
+---
+
+## Todo List
+
+- [x] Familiarise with project structure, extraction flow, and codebase
+- [x] Integrate catalogue consumption into extractor when presocratics_catalogue.json exists
+- [x] Implement scanners for Socratics, Laertius, and Sextus collections using their hyperlink CSVs
+- [x] Add --from-catalogue flag or auto-detection in extractor to switch between catalogue and brute-force
+- [x] Reduce base_delay to ~0.5s after catalogue path solid
+- [x] Extend coverage report to compare extracted records count against catalogue length
+- [x] Update README to document catalogue-driven workflow (Phase 0 scanner, Phase 1 extractor)
+- [x] Add SIGINT checkpointing to scan_presocratic_books.py and future scanners
+- [ ] Deduplicate HTTP headers logic into helper function reused by extractor and scanners
+- [x] Add retry logic to book-page fetch in scanners
+- [ ] Optionally cache raw book pages locally for offline parsing
+
+---
+
+Scanner script now:
+
+• Handles Ctrl-C gracefully – on interrupt it writes the catalogue gathered so far before exiting.  
+• `fetch_html` includes a simple 3-attempt retry with exponential back-off for transient errors/timeouts.
+
+Todo list update:
+– task_sigint_scanner and task_retry_book_fetch are now completed.  
+Pending tasks: header deduplication and (optional) page-caching.
+
+Let me know if you’d like to implement shared header construction next or explore offline caching.
+
+---
+
+_**User**_
+
+http headers
+
+---
+
+_**Assistant**_
+
+<think><details><summary>Thought Process</summary>**Implementing HTTP headers**
+
+The user mentioned "http headers", which suggests we need to work on a task centered around deduplicating HTTP headers. I’m thinking about creating a helper function for constructing headers that can be shared by both the extractor and the scanner. I plan to create a new file in the project for this function, implementing it similarly to the way headers are constructed in the existing setup. I’ll also ensure we follow formatting guidelines properly while doing this.
+**Updating HTTP header functions**
+
+I’m planning to update the `extract.py` setup function to utilize a new helper function for building default HTTP headers. I’ll create a new file for this function. This will include options for extracting the email from the user agent if it appears in parentheses. 
+
+I need to ensure that the existing setup replicates what we had before, but now with deduplication in mind. I'll also modify `scan_catalogue.py` to make sure it uses these updated headers when creating sessions. Let's get started on implementing these changes!
+**Implementing necessary edits**
+
+Alright, I need to start by importing the necessary functions and files for the project. My plan involves creating a new file, then making edits to both `extract.py` and `scan_catalogue.py`. I want to keep the changes as simple as possible, focusing on minimal differences in the code. After that, I’ll update the to-do list to reflect these changes. Time to get to work!</details></think>
+
+---
+
+<details><summary>Edit file: /Users/james/GitHub/source-texts/scaffold-source-texts/scaffold/http_utils.py</summary>
+
+undefined
+
+**Chunk 1**
+Lines added: 46, lines removed: 1
+
+```diff
+@@ -1,1 +1,46 @@
+- 
++ from __future__ import annotations
++ 
++ """Shared HTTP utilities for the Daphnet project."""
++ 
++ from typing import Dict
++ 
++ __all__ = ["build_default_headers"]
++ 
++ 
++ def _extract_email(user_agent: str) -> str | None:
++     """Return email substring found in *user_agent* (best-effort)."""
++ 
++     # Pattern 1 – "contact: foo@bar" inside UA
++     lower = user_agent.lower()
++     if "contact:" in lower:
++         after = lower.split("contact:", maxsplit=1)[1].strip()
++         email = after.split()[0].strip(";)")
++         if "@" in email:
++             return email
++     # Pattern 2 – text inside the last parentheses
++     if "(" in user_agent and ")" in user_agent:
++         inside = user_agent.split("(")[-1].split(")")[0]
++         for token in inside.replace(";", " ").split():
++             if "@" in token:
++                 return token
++     return None
++ 
++ 
++ def build_default_headers(user_agent: str) -> Dict[str, str]:
++     """Return a default header set for all HTTP requests.
++ 
++     Parameters
++     ----------
++     user_agent
++         The User-Agent string defined in *config.yaml*.
++     """
++ 
++     headers: Dict[str, str] = {
++         "User-Agent": user_agent,
++         "Accept": "text/html,application/xhtml+xml,application/xml,application/rdf+xml",
++         "Accept-Language": "en-US,en;q=0.9,el;q=0.8",
++     }
++     email = _extract_email(user_agent)
++     if email:
++         headers["From"] = email
++     return headers
+```
+
+</details>
+
+---
+
+
+
+---
+
+<details><summary>Edit file: /Users/james/GitHub/source-texts/scaffold-source-texts/scaffold/extract.py</summary>
+
+undefined
+
+**Chunk 1**
+Lines added: 1, lines removed: undefined
+
+```diff
+@@ -23,4 +23,5 @@
+  import yaml
+  from bs4 import BeautifulSoup
++ from http_utils import build_default_headers
+  
+  # ---------------------------------------------------------------------------
+```
+
+**Chunk 2**
+Lines added: 1, lines removed: 6
+
+```diff
+@@ -148,10 +149,5 @@
+          )
+          self.session = aiohttp.ClientSession(
+-             headers={
+-                 'User-Agent': self.user_agent,
+-                 'Accept': 'text/html,application/xhtml+xml,application/xml,application/rdf+xml',
+-                 'Accept-Language': 'en-US,en;q=0.9,el;q=0.8',
+-                 'From': self.user_agent.split('contact: ')[-1].rstrip(')')  # Extract email
+-             },
++             headers=build_default_headers(self.user_agent),
+              timeout=timeout
+          )
+```
+
+</details>
+
+---
+
+
+
+---
+
+<details><summary>Edit file: /Users/james/GitHub/source-texts/scaffold-source-texts/scaffold/scan_catalogue.py</summary>
+
+undefined
+
+**Chunk 1**
+Lines added: 1, lines removed: undefined
+
+```diff
+@@ -39,4 +39,5 @@
+  from config_loader import get_source_base_url, load_config
+  import signal
++ from http_utils import build_default_headers
+  
+  # Global run-state for interrupt handling
+```
+
+**Chunk 2**
+Lines added: 1, lines removed: 1
+
+```diff
+@@ -212,5 +213,5 @@
+  
+      async with aiohttp.ClientSession(
+-         headers={"User-Agent": CONFIG["source"]["user_agent"]}
++         headers=build_default_headers(CONFIG["source"]["user_agent"])
+      ) as session:
+          all_frags: List[FragmentRow] = []
+```
+
+</details>
+
+---
+
+
+
+---
+
+## Todo List
+
+- [x] Familiarise with project structure, extraction flow, and codebase
+- [x] Integrate catalogue consumption into extractor when presocratics_catalogue.json exists
+- [x] Implement scanners for Socratics, Laertius, and Sextus collections using their hyperlink CSVs
+- [x] Add --from-catalogue flag or auto-detection in extractor to switch between catalogue and brute-force
+- [x] Reduce base_delay to ~0.5s after catalogue path solid
+- [x] Extend coverage report to compare extracted records count against catalogue length
+- [x] Update README to document catalogue-driven workflow (Phase 0 scanner, Phase 1 extractor)
+- [x] Add SIGINT checkpointing to scan_presocratic_books.py and future scanners
+- [x] Deduplicate HTTP headers logic into helper function reused by extractor and scanners
+- [x] Add retry logic to book-page fetch in scanners
+- [ ] Optionally cache raw book pages locally for offline parsing
+
+---
+
+HTTP header construction is now centralized:
+
+• New helper `scaffold/http_utils.py` with `build_default_headers()`.  
+• Both `extract.py` and `scan_catalogue.py` now import and use this function.  
+• Removed duplicate header-building code; no lint issues introduced.
+
+All tasks except optional page-caching are complete. Ready to implement offline caching next or handle any other new requirements you may have.
+
+---
+
+_**User**_
+
+Carry on
+
+---
+
+_**Assistant**_
+
+<think><details><summary>Thought Process</summary>**Implementing caching for book pages**
+
+I’m looking at our remaining task, which involves optionally caching raw book pages for offline parsing. I’ll need to adjust the `scan_catalogue.py` to create a local cache directory for storing HTML content. The plan is to check if a cached file exists during retrieval. If it does, I’ll read from it; if not, I’ll fetch and store it.
+
+I’m also considering updating the configuration for ease. Overall, I’ll define a straightforward caching system. Let's get started on this!</details></think>
+
+---
+
+<details><summary>Edit file: /Users/james/GitHub/source-texts/scaffold-source-texts/scaffold/scan_catalogue.py</summary>
+
+undefined
+
+**Chunk 1**
+Lines added: 1, lines removed: undefined
+
+```diff
+@@ -36,4 +36,5 @@
+  import aiohttp
+  from bs4 import BeautifulSoup
++ from urllib.parse import quote_plus
+  
+  from config_loader import get_source_base_url, load_config
+```
+
+**Chunk 2**
+Lines added: 21, lines removed: 1
+
+```diff
+@@ -117,7 +118,27 @@
+  # ---------------------------------------------------------------------------
+  
++ CACHE_DIR: Path = Path(CONFIG["output"]["directory"]) / "page_cache"
++ CACHE_DIR.mkdir(parents=True, exist_ok=True)
++ 
++ 
++ def _cache_path_for(url: str) -> Path:
++     """Return a filesystem path for cached *url* HTML."""
++ 
++     safe = quote_plus(url)
++     return CACHE_DIR / f"{safe}.html"
++ 
+  
+  async def fetch_html(session: aiohttp.ClientSession, url: str) -> Optional[str]:
+-     """Fetch *url* (with retry) and return body text when status == 200."""
++     """Fetch *url* (with retry) and return body text when status == 200.
++ 
++     If *url* has been cached previously this hits the local filesystem instead.
++     """
++ 
++     cpath = _cache_path_for(url)
++     if cpath.exists():
++         try:
++             return cpath.read_text(encoding="utf-8")
++         except Exception:
++             pass  # fall through to network fetch on read error
+  
+      max_attempts = 3
+```
+
+**Chunk 3**
+Lines added: 7, lines removed: 2
+
+```diff
+@@ -128,7 +149,12 @@
+              async with session.get(url) as resp:
+                  if resp.status == 200:
+-                     return await resp.text()
++                     text = await resp.text()
++                     # Save to cache
++                     try:
++                         cpath.write_text(text, encoding="utf-8")
++                     except Exception:
++                         pass
++                     return text
+                  if resp.status in {500, 502, 503, 504}:
+-                     # transient server error
+                      await asyncio.sleep(backoff)
+                      backoff *= 2
+```
+
+</details>
+
+---
+
+
+
+---
+
+## Todo List
+
+- [x] Familiarise with project structure, extraction flow, and codebase
+- [x] Integrate catalogue consumption into extractor when presocratics_catalogue.json exists
+- [x] Implement scanners for Socratics, Laertius, and Sextus collections using their hyperlink CSVs
+- [x] Add --from-catalogue flag or auto-detection in extractor to switch between catalogue and brute-force
+- [x] Reduce base_delay to ~0.5s after catalogue path solid
+- [x] Extend coverage report to compare extracted records count against catalogue length
+- [x] Update README to document catalogue-driven workflow (Phase 0 scanner, Phase 1 extractor)
+- [x] Add SIGINT checkpointing to scan_presocratic_books.py and future scanners
+- [x] Deduplicate HTTP headers logic into helper function reused by extractor and scanners
+- [x] Add retry logic to book-page fetch in scanners
+- [x] Optionally cache raw book pages locally for offline parsing
+
+---
+
+Page caching is now active:
+
+• A `page_cache/` directory inside `data/daphnet`.  
+• Each book-page URL maps to a safe filename via `quote_plus`.  
+• `fetch_html` first tries the cached file; on network success it saves HTML for next time.  
+
+All outstanding todos are now completed. The project’s scanner and extractor are robust, rate-optimised, cache-enabled, and share header logic. Let me know if there’s any further enhancement or testing you’d like to perform!
+
+---
+

@@ -1,127 +1,205 @@
-# Daphnet Presocratics Extraction
+# Daphnet Greek Texts Extraction Project
 
-## Enhanced Features
+## Overview
+Systematic extraction of ancient Greek philosophical texts from the ILIESI-CNR Daphnet database, including the complete Diels-Kranz collection and related philosophical works.
 
-### Robust Crawling
-- **Smart stopping**: Only stops after finding content, then hitting 25+ consecutive 404s
-- **Letter suffixes**: Checks sub-fragments (22-B,1a, 22-B,1b, etc.)
-- **Rate limiting**: Respects `Retry-After` headers, exponential backoff
-- **Interrupt handling**: Saves checkpoint on Ctrl+C
+## Project Structure
 
-### Data Storage
-All data is stored within the repository:
 ```
-data/daphnet/
-├── daphnet_corpus.json      # Main corpus
-├── daphnet_texts.txt        # Plain text
-├── coverage.json            # Statistics
-└── checkpoints/             # Progress saves
-    └── checkpoint_*.json    # Periodic saves
+scaffold-source-texts/
+├── scripts/              # Main extraction scripts
+│   ├── discover_fragments.py  # Fragment discovery (CSV + RDF methods)
+│   └── extract_texts.py       # Text extraction using catalogue
+├── config/
+│   └── config.yaml      # Configuration settings
+├── data/
+│   ├── input/          # Source CSV files
+│   │   ├── presocratic_hyperlinks.csv
+│   │   ├── socratics_hyperlinks.csv
+│   │   ├── laertius_hyperlinks.csv
+│   │   └── sextus_hyperlink.csv
+│   ├── catalogues/     # Discovered fragment catalogues
+│   │   └── [collection]_catalogue.json
+│   ├── output/         # Extracted Greek texts
+│   │   ├── [collection]_texts.json
+│   │   ├── [collection]_texts.txt
+│   │   └── [collection]_stats.json
+│   └── checkpoints/    # Resume points for extraction
+└── logs/
+    └── extraction.log
+
+## Legacy Scripts (to be archived)
+scaffold/
+├── extract.py           # Original RDF-based extractor
+├── extract_enhanced.py  # Enhanced version (redundant)
+├── scaffold.py          # Original scaffold module
+├── scan_catalogue.py    # Generic catalogue scanner
+├── scan_presocratic_books.py  # Specific scanner (redundant)
+└── extract_from_catalogue.py  # Catalogue-based extractor
 ```
 
-### Command Line Options
+## Two-Stage Extraction Process
+
+### Stage 1: Discovery (`discover_fragments.py`)
+Combines two complementary discovery methods:
+
+1. **CSV-based Discovery**
+   - Uses hyperlink CSV files from Muruca interface
+   - Fetches book transcription pages
+   - Extracts fragment IDs and URLs
+   - Fast and comprehensive for known chapters
+
+2. **RDF-based Discovery**
+   - Systematic probing of RDF URLs
+   - Discovers fragments not in CSV
+   - Extracts plain.html URLs from RDF metadata
+   - Handles sub-fragments (a, b, c suffixes)
+
+### Stage 2: Extraction (`extract_texts.py`)
+- Uses discovered catalogue from Stage 1
+- Extracts actual Greek text from multiple URL types
+- Validates Greek content (minimum 10% Greek characters)
+- Saves in multiple formats (JSON, plain text)
+- Supports checkpointing for resume capability
+
+## Usage
+
+### Quick Start
 ```bash
-# Full extraction
-python scaffold/extract.py
-
-# Test single chapter
-python scaffold/extract.py --test
-
-# Custom range
-python scaffold/extract.py --start-ch 20 --end-ch 30
-
-# Slower crawling
-python scaffold/extract.py --delay 3.0
-
-# Multiple collections
-python scaffold/extract.py --collections presocratics laertius
-
-# Resume from checkpoint
-# (Automatically loads latest checkpoint if interrupted)
-```
-
-### Catalogue-driven Workflow
-
-1. **Phase 0 – Build catalogues**
-   Run one of the scanners once per collection to create a definitive fragment list:
-   ```bash
-   # Presocratics
-   python scaffold/scan_catalogue.py --collection presocratics
-
-   # Socratics, Laertius, Sextus
-   python scaffold/scan_catalogue.py --collection socratics
-   python scaffold/scan_catalogue.py --collection laertius
-   python scaffold/scan_catalogue.py --collection sextus
-   ```
-   Each command writes a `<collection>_catalogue.json` file to `data/daphnet/`.
-
-2. **Phase 1 – Extract texts**
-   The extractor now auto-detects catalogue files (or use `--from-catalogue`) and iterates them instead of brute-force probing:
-   ```bash
-   # Fast extraction using catalogues (0.5 s delay by default)
-   python scaffold/extract.py --collections presocratics socratics laertius sextus --verbose
-   ```
-
-   If a catalogue is missing for a requested collection, the extractor will skip it unless a legacy brute-force scanner exists (currently only Presocratics).
-
-3. **Tuning**
-   Base request delay has been lowered to **0.5 s** in `config.yaml` because the catalogue approach drastically reduces server load.
-
-### RDF Support
-The extractor can fetch RDF metadata alongside HTML content:
-- Validates RDF XML structure
-- Captures HTTP metadata (ETag, Last-Modified)
-- Falls back to HTML if RDF unavailable
-
-### Better Identification
-- User-Agent includes contact email
-- `From` header for server logs
-- Respects all redirect codes
-- Validates content types
-
-## Installation
-```bash
+# Install dependencies
 pip install aiohttp beautifulsoup4 lxml pyyaml
+
+# Stage 1: Discover fragments (CSV method)
+python scripts/discover_fragments.py --collection presocratics --csv
+
+# Stage 1: Discover fragments (both methods)
+python scripts/discover_fragments.py --collection presocratics --both
+
+# Stage 2: Extract texts
+python scripts/extract_texts.py --collection presocratics
 ```
 
-## Output Files
+### Available Collections
+- `presocratics` - Diels-Kranz fragments (chapters 1-90)
+- `socratics` - Socratic philosophers
+- `laertius` - Diogenes Laertius
+- `sextus` - Sextus Empiricus
 
-### JSON Corpus (`daphnet_corpus.json`)
-```json
-{
-  "url": "http://...",
-  "rdf_url": "http://.../.rdf",
-  "collection": "presocratics",
-  "reference": "22-B,30",
-  "dk_reference": "22-B,30",
-  "philosopher": "Heraclitus",
-  "greek_text": "...",
-  "paragraphs": ["..."],
-  "etag": "...",
-  "last_modified": "..."
-}
-```
+### Command Options
 
-### Coverage Report (`coverage.json`)
-```json
-{
-  "extraction_date": "2025-01-20T...",
-  "total_records": 2500,
-  "successful_records": 2450,
-  "by_collection": {
-    "presocratics": 2450
-  }
-}
-```
-
-## Monitoring
-Watch extraction progress:
+#### Discovery
 ```bash
-tail -f data/daphnet/checkpoints/checkpoint_*.json | jq '.total_records'
+python scripts/discover_fragments.py [options]
+  --collection {presocratics,socratics,laertius,sextus}
+  --csv        Use CSV-based discovery
+  --rdf        Use RDF-based discovery  
+  --both       Use both methods (recommended)
 ```
 
-## Recovery
-If interrupted, the extractor saves state. To resume:
-1. Latest checkpoint is in `data/daphnet/checkpoints/`
-2. Final output always saved on interrupt
-3. Can merge checkpoints if needed
+#### Extraction
+```bash
+python scripts/extract_texts.py [options]
+  --collection {presocratics,socratics,laertius,sextus}
+  --no-resume  Start fresh, ignore checkpoint
+```
+
+## Key Features
+
+### Robust Discovery
+- **Dual methods**: CSV for speed, RDF for completeness
+- **Smart probing**: Reduces retries on HTTP 500 errors
+- **Sub-fragment detection**: Finds a, b, c variants
+- **Catalogue merging**: Combines discoveries from both methods
+
+### Reliable Extraction
+- **Multiple URL fallbacks**: plain.html → transcription → html
+- **Greek validation**: Ensures actual Greek content
+- **Unicode normalization**: Consistent NFC encoding
+- **Checkpoint/resume**: Handles interruptions gracefully
+- **Rate limiting**: Respects server with configurable delays
+
+### Output Formats
+- **JSON**: Structured data with metadata
+- **Plain text**: Simple text format for reading
+- **Statistics**: Extraction summary and coverage
+
+## Configuration
+
+Edit `config/config.yaml`:
+```yaml
+base_url: http://ancientsource.daphnet.iliesi.cnr.it
+delay: 2.0           # Seconds between requests
+timeout: 30          # Request timeout
+max_retries: 3       # Retry attempts for failures
+min_greek_ratio: 0.1 # Minimum Greek character ratio
+user_agent: DaphnetExtractor/2.0 (Academic Research)
+
+philosopher_map:
+  '11': Thales
+  '12': Anaximander
+  '13': Anaximenes
+  '22': Heraclitus
+  '28': Parmenides
+  # ... etc
+```
+
+## Monitoring Progress
+
+```bash
+# Watch discovery progress
+tail -f data/catalogues/presocratics_catalogue.json | jq '.metadata'
+
+# Watch extraction progress  
+tail -f data/output/presocratics_stats.json
+
+# Check latest checkpoint
+ls -la data/checkpoints/
+```
+
+## Recovery from Interruption
+
+The extraction automatically saves checkpoints. To resume:
+```bash
+# Resumes from latest checkpoint by default
+python scripts/extract_texts.py --collection presocratics
+
+# Force fresh start
+python scripts/extract_texts.py --collection presocratics --no-resume
+```
+
+## Technical Notes
+
+### Why Two Discovery Methods?
+
+1. **CSV method** provides:
+   - Fast discovery via book transcription pages
+   - Complete fragment IDs
+   - Direct transcription URLs
+
+2. **RDF method** provides:
+   - Systematic coverage
+   - Plain HTML URLs
+   - Sub-fragment discovery
+   - Fallback for missing CSV entries
+
+### URL Priority
+
+The extractor tries URLs in this order:
+1. `plain.html` - Cleanest Greek text
+2. `agora_show_transcription` - Transcription interface
+3. Regular HTML - Fallback option
+
+### Greek Text Validation
+
+- Checks for Unicode ranges: U+0370-U+03FF, U+1F00-U+1FFF
+- Requires minimum 10% Greek characters
+- Normalizes to NFC for consistency
+
+## License
+
+Academic research use. Please cite the ILIESI-CNR Daphnet database in any publications.
+
+## Contact
+
+For questions about the extraction project, please refer to the project documentation.
+For questions about the Daphnet database, contact ILIESI-CNR.

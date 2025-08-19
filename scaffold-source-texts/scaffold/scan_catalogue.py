@@ -35,9 +35,11 @@ from typing import Any, Dict, List, Mapping, MutableMapping, Optional
 
 import aiohttp
 from bs4 import BeautifulSoup
+from urllib.parse import quote_plus
 
 from config_loader import get_source_base_url, load_config
 import signal
+from http_utils import build_default_headers
 
 # Global run-state for interrupt handling
 _RUN_STATE: Dict[str, Any] = {"rows": [], "out_file": None}
@@ -115,9 +117,29 @@ class FragmentRow:  # noqa: D101 – simple data container
 # Scraping helpers
 # ---------------------------------------------------------------------------
 
+CACHE_DIR: Path = Path(CONFIG["output"]["directory"]) / "page_cache"
+CACHE_DIR.mkdir(parents=True, exist_ok=True)
+
+
+def _cache_path_for(url: str) -> Path:
+    """Return a filesystem path for cached *url* HTML."""
+
+    safe = quote_plus(url)
+    return CACHE_DIR / f"{safe}.html"
+
 
 async def fetch_html(session: aiohttp.ClientSession, url: str) -> Optional[str]:
-    """Fetch *url* (with retry) and return body text when status == 200."""
+    """Fetch *url* (with retry) and return body text when status == 200.
+
+    If *url* has been cached previously this hits the local filesystem instead.
+    """
+
+    cpath = _cache_path_for(url)
+    if cpath.exists():
+        try:
+            return cpath.read_text(encoding="utf-8")
+        except Exception:
+            pass  # fall through to network fetch on read error
 
     max_attempts = 3
     backoff = 1.0
@@ -126,9 +148,14 @@ async def fetch_html(session: aiohttp.ClientSession, url: str) -> Optional[str]:
         try:
             async with session.get(url) as resp:
                 if resp.status == 200:
-                    return await resp.text()
+                    text = await resp.text()
+                    # Save to cache
+                    try:
+                        cpath.write_text(text, encoding="utf-8")
+                    except Exception:
+                        pass
+                    return text
                 if resp.status in {500, 502, 503, 504}:
-                    # transient server error
                     await asyncio.sleep(backoff)
                     backoff *= 2
                     continue
@@ -211,7 +238,7 @@ async def process_collection(collection: str) -> None:  # noqa: D401 – corouti
         raise RuntimeError(f"No book URLs found in {csv_path}")
 
     async with aiohttp.ClientSession(
-        headers={"User-Agent": CONFIG["source"]["user_agent"]}
+        headers=build_default_headers(CONFIG["source"]["user_agent"])
     ) as session:
         all_frags: List[FragmentRow] = []
         _RUN_STATE["rows"] = all_frags

@@ -22,6 +22,7 @@ from typing import Dict, List, Optional, Tuple, Any
 import aiohttp
 import yaml
 from bs4 import BeautifulSoup
+from http_utils import build_default_headers
 
 # ---------------------------------------------------------------------------
 # Plain-HTML helpers
@@ -147,12 +148,7 @@ class DaphnetExtractor:
             total=self.config['extraction']['rate_limit']['timeout']
         )
         self.session = aiohttp.ClientSession(
-            headers={
-                'User-Agent': self.user_agent,
-                'Accept': 'text/html,application/xhtml+xml,application/xml,application/rdf+xml',
-                'Accept-Language': 'en-US,en;q=0.9,el;q=0.8',
-                'From': self.user_agent.split('contact: ')[-1].rstrip(')')  # Extract email
-            },
+            headers=build_default_headers(self.user_agent),
             timeout=timeout
         )
         
