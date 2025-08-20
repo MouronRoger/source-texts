@@ -24,9 +24,9 @@ import yaml
 from bs4 import BeautifulSoup
 import xml.etree.ElementTree as ET
 
-# Configure logging
+# Configure logging - set to DEBUG temporarily to diagnose issues
 logging.basicConfig(
-    level=logging.INFO,
+    level=logging.DEBUG,
     format='%(asctime)s - %(levelname)s - %(message)s'
 )
 logger = logging.getLogger(__name__)
@@ -44,12 +44,13 @@ CATALOGUE_FILE = "socratics_catalogue.json"
 
 # Known structure of Socratics collection (SSR)
 ROMAN_CHAPTERS = ['I', 'II', 'III', 'IV', 'V', 'VI']  # Only I-VI exist
-LETTER_SECTIONS = list('ABCDEFGHIKLMN')  # Note: J is typically skipped in ancient texts
+LETTER_SECTIONS = list('ABCDEFGHIKLMNOPQRS')  # Extended to cover all seen sections
 
 # URL patterns
 BASE_URL = 'http://ancientsource.daphnet.iliesi.cnr.it'
 RDF_PATTERN = '/texts/Socratics/{reference}.rdf'
 HTML_PATTERN = '/texts/Socratics/{reference}.plain.html'
+BOOK_TRANSCRIPTION_PATTERN = '/agora_show_book_transcription/{book_id}'
 TRANSCRIPTION_PATTERN = '/agora_show_transcription/{fragment_id}'
 
 
@@ -188,6 +189,9 @@ class SocraticsDiscovery:
         logger.info(f"Reading CSV file: {csv_file}")
         records = []
         
+        # First pass: collect all chapter references and URLs
+        chapters_to_fetch = []  # List of (chapter_ref, url) tuples
+        
         # Pattern for Socratics: Roman numeral + letter
         pattern = re.compile(r'([IVX]+-[A-Z])\s+transcription')
         
@@ -208,39 +212,56 @@ class SocraticsDiscovery:
                     self.csv_chapters.add(chapter_ref)
                     
                     # Extract fragment ID from URL
-                    if 'agora_show_transcription' in url:
-                        fragment_id = url.split('/')[-1]
-                        
-                        record = FragmentRecord(
-                            reference=chapter_ref,
-                            collection=COLLECTION,
-                            philosopher=self.get_philosopher_name(chapter_ref),
-                            fragment_id=int(fragment_id) if fragment_id.isdigit() else None,
-                            transcription_url=urljoin(self.config['base_url'], url),
-                            discovery_method='csv'
-                        )
-                        
-                        # Generate additional URLs
-                        record.rdf_url = urljoin(
-                            self.config['base_url'],
-                            RDF_PATTERN.format(reference=chapter_ref)
-                        )
-                        record.html_url = urljoin(
-                            self.config['base_url'],
-                            HTML_PATTERN.format(reference=chapter_ref)
-                        )
-                        
-                        records.append(record)
-                        
-                        # Fetch the transcription page to find individual fragments
-                        await asyncio.sleep(self.config['delay'])
-                        html = await self.fetch_with_retry(record.transcription_url)
-                        
-                        if html:
-                            fragment_records = self.parse_transcription_page(html, chapter_ref)
-                            records.extend(fragment_records)
+                    if 'agora_show_book_transcription' in url:
+                        # Extract just the base URL without query parameters
+                        base_url = url.split('?')[0] if '?' in url else url
+                        full_url = base_url if base_url.startswith('http') else urljoin(self.config['base_url'], base_url)
+                        chapters_to_fetch.append((chapter_ref, full_url))
         
-        logger.info(f"Discovered {len(records)} fragments from CSV")
+        logger.info(f"Found {len(chapters_to_fetch)} chapter transcription pages to fetch")
+        logger.info(f"Chapters found: {sorted([c[0] for c in chapters_to_fetch])}")
+        
+        # Second pass: fetch transcription pages (now that session is ready)
+        for idx, (chapter_ref, transcription_url) in enumerate(chapters_to_fetch, 1):
+            fragment_id = transcription_url.split('/')[-1]
+            
+            record = FragmentRecord(
+                reference=chapter_ref,
+                collection=COLLECTION,
+                philosopher=self.get_philosopher_name(chapter_ref),
+                fragment_id=int(fragment_id) if fragment_id.isdigit() else None,
+                transcription_url=transcription_url,
+                discovery_method='csv'
+            )
+            
+            # Generate additional URLs
+            record.rdf_url = urljoin(
+                self.config['base_url'],
+                RDF_PATTERN.format(reference=chapter_ref)
+            )
+            record.html_url = urljoin(
+                self.config['base_url'],
+                HTML_PATTERN.format(reference=chapter_ref)
+            )
+            
+            records.append(record)
+            
+            # Fetch the transcription page to find individual fragments
+            logger.info(f"[{idx}/{len(chapters_to_fetch)}] Fetching transcription page for {chapter_ref}")
+            await asyncio.sleep(self.config['delay'])
+            html = await self.fetch_with_retry(transcription_url)
+            
+            if html:
+                fragment_records = self.parse_transcription_page(html, chapter_ref)
+                if fragment_records:
+                    logger.info(f"Found {len(fragment_records)} fragments in {chapter_ref}")
+                    records.extend(fragment_records)
+                else:
+                    logger.warning(f"No fragments found in {chapter_ref} transcription page")
+            else:
+                logger.warning(f"Could not fetch transcription page for {chapter_ref}")
+        
+        logger.info(f"Discovered {len(records)} total records from CSV")
         logger.info(f"Found chapters in CSV: {sorted(self.csv_chapters)}")
         
         return records
@@ -250,17 +271,54 @@ class SocraticsDiscovery:
         records = []
         soup = BeautifulSoup(html, 'html.parser')
         
-        # Look for fragment links
-        fragment_pattern = re.compile(rf'{re.escape(chapter_ref)},(\d+)')
+        # Debug: Check if we got valid HTML
+        if len(html) < 100:
+            logger.warning(f"HTML content too short for {chapter_ref}: {len(html)} chars")
+            return records
         
-        for link in soup.find_all('a', href=True):
+        # Look for all links
+        all_links = soup.find_all('a', href=True)
+        logger.debug(f"Found {len(all_links)} links in {chapter_ref} transcription page")
+        
+        # Track unique fragments to avoid duplicates
+        seen_fragments = set()
+        
+        # Try multiple patterns to find fragments
+        # Pattern 1: "I-A,1" or "I-A, 1" format
+        fragment_pattern1 = re.compile(rf'{re.escape(chapter_ref)},\s*(\d+)')
+        # Pattern 2: "I-A 1" format (space instead of comma)
+        fragment_pattern2 = re.compile(rf'{re.escape(chapter_ref)}\s+(\d+)')
+        # Pattern 3: Just the fragment number in link text if href contains the chapter
+        fragment_pattern3 = re.compile(r'^(\d+)$')
+        
+        for i, link in enumerate(all_links):
             href = link['href']
-            text = link.get_text()
+            text = link.get_text().strip()
             
-            match = fragment_pattern.search(text)
+            # Debug first few links
+            if i < 3:
+                logger.debug(f"Link {i}: text='{text}', href='{href}'")
+            
+            fragment_num = None
+            
+            # Try pattern 1 and 2 first
+            match = fragment_pattern1.search(text) or fragment_pattern2.search(text)
             if match:
                 fragment_num = match.group(1)
+            # If no match and href contains chapter ref, try pattern 3
+            elif chapter_ref in href and fragment_pattern3.match(text):
+                fragment_num = text
+            # Also check if href contains the fragment reference
+            elif chapter_ref in href:
+                # Try to extract fragment number from href
+                href_match = fragment_pattern1.search(href) or fragment_pattern2.search(href)
+                if href_match:
+                    fragment_num = href_match.group(1)
+            
+            if fragment_num and fragment_num not in seen_fragments:
+                seen_fragments.add(fragment_num)
                 full_ref = f"{chapter_ref},{fragment_num}"
+                logger.debug(f"Found fragment: {full_ref}")
                 
                 record = FragmentRecord(
                     reference=full_ref,
@@ -279,10 +337,17 @@ class SocraticsDiscovery:
                     HTML_PATTERN.format(reference=full_ref)
                 )
                 
-                if 'agora_show_transcription' in href:
+                # If the link has a useful href, save it
+                if 'agora_show_transcription' in href or 'agora_show_fragment' in href or '/texts/' in href:
                     record.transcription_url = urljoin(self.config['base_url'], href)
                 
                 records.append(record)
+        
+        if not records and all_links:
+            # Log some sample links to help debug
+            logger.debug(f"No fragments found for {chapter_ref}. Sample links:")
+            for i in range(min(5, len(all_links))):
+                logger.debug(f"  Link: '{all_links[i].get_text().strip()}' -> '{all_links[i]['href']}'")
         
         return records
     
@@ -320,15 +385,16 @@ class SocraticsDiscovery:
         
         # If we have CSV chapters, use them as authoritative
         if self.csv_chapters:
-            logger.info(f"Using {len(self.csv_chapters)} chapters from CSV as guide")
+            logger.info(f"Using {len(self.csv_chapters)} chapters from CSV as guide for RDF discovery")
             
-            for chapter_ref in sorted(self.csv_chapters):
-                logger.info(f"Probing fragments for chapter {chapter_ref}")
+            for chapter_idx, chapter_ref in enumerate(sorted(self.csv_chapters), 1):
+                logger.info(f"[{chapter_idx}/{len(self.csv_chapters)}] Probing RDF fragments for chapter {chapter_ref}")
                 
                 # Probe fragments 1-200 for this chapter
                 consecutive_missing = 0
+                found_count = 0
                 
-                for fragment_num in range(1, 201):
+                for fragment_num in range(1, 1001):
                     reference = f"{chapter_ref},{fragment_num}"
                     
                     await asyncio.sleep(self.config['delay'])
@@ -337,14 +403,19 @@ class SocraticsDiscovery:
                     if record:
                         records.append(record)
                         consecutive_missing = 0
-                        logger.debug(f"Found fragment: {reference}")
+                        found_count += 1
+                        if found_count % 10 == 0:
+                            logger.debug(f"Found {found_count} fragments so far in {chapter_ref}")
                     else:
                         consecutive_missing += 1
                         
                         # Stop after 5 consecutive missing fragments
                         if consecutive_missing >= 5 and fragment_num > 10:
-                            logger.info(f"Stopping {chapter_ref} at fragment {fragment_num} (5 consecutive missing)")
+                            logger.info(f"Stopping {chapter_ref} at fragment {fragment_num} (5 consecutive missing, found {found_count} total)")
                             break
+                
+                if found_count > 0:
+                    logger.info(f"Found {found_count} fragments via RDF for {chapter_ref}")
         
         else:
             # Fallback: intelligent probing with early stopping
@@ -379,7 +450,7 @@ class SocraticsDiscovery:
                     consecutive_missing = 0
                     
                     # Probe fragments 1-200 for this section
-                    for fragment_num in range(1, 201):
+                    for fragment_num in range(1, 1001):
                         reference = f"{chapter_ref},{fragment_num}"
                         
                         await asyncio.sleep(self.config['delay'])
