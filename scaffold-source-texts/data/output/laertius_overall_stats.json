@@ -1,0 +1,33 @@
+{
+  "collection": "laertius",
+  "extraction_date": "2025-08-20T23:56:30.715152",
+  "total_books": 10,
+  "books": [
+    "I",
+    "II",
+    "III",
+    "IV",
+    "V",
+    "VI",
+    "VII",
+    "VIII",
+    "IX",
+    "X"
+  ],
+  "total_extracted": 2297,
+  "with_greek": 1371,
+  "with_latin": 1123,
+  "with_italian": 2297,
+  "fragments_per_book": {
+    "I": 235,
+    "II": 273,
+    "III": 218,
+    "IV": 129,
+    "V": 187,
+    "VI": 201,
+    "VII": 380,
+    "VIII": 176,
+    "IX": 224,
+    "X": 274
+  }
+}

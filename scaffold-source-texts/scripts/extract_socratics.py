@@ -60,7 +60,7 @@ class SocraticsExtractor(_generic.UnifiedExtractor):
         )
         if csv_path.exists():
             try:
-                with open(csv_path, "r", encoding="utf-8") as fh:
+                with open(csv_path, "r", encoding="utf-8-sig") as fh:  # Handle BOM
                     reader = csv.DictReader(fh)
                     for row in reader:
                         ref = row.get("ref", "").strip()
@@ -100,11 +100,12 @@ class SocraticsExtractor(_generic.UnifiedExtractor):
             return None
 
         # Derive philosopher mapping key without assuming numeric chapter refs
-        chapter_part = reference.split("-")[0]
+        chapter_section = reference.split(",")[0]  # Gets "II-A" instead of "II"
+        chapter_part = reference.split("-")[0]      # Keep for fallback
         chap_key: Union[int, str] = int(chapter_part) if chapter_part.isdigit() else chapter_part
 
         philosopher: str = self.chapter_name_map.get(
-            chapter_part,
+            chapter_section,
             self.config.get("philosopher_map", {}).get(
                 chap_key, fragment.get("philosopher", f"Chapter {chapter_part}")
             ),

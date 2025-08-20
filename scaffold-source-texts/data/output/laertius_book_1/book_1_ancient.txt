@@ -1,0 +1,731 @@
+=== I,1 (Book 1) ===
+Τὸ τῆς φιλοσοφίας ἔργον ἔνιοί φασιν ἀπὸ βαρβάρων ἄρξαι. γεγενῆσθαι γὰρ παρὰ μὲν Πέρσαις Μάγους, παρὰ δὲ Βαβυλωνίοις ἢ Ἀσσυρίοις Χαλδαίους, καὶΓυμνοσοφιστὰςπαρ' Ἰνδοῖς, παρά τε Κελτοῖς καὶ Γαλάταις τοὺς καλουμένους Δρυΐδας καὶ Σεμνοθέους, καθά φησιν Ἀριστοτέλης ἐν τῷ Μαγικῷ καὶ Σωτίων ἐν τῷ εἰκοστῷ τρίτῳ τῆς Διαδοχῆς. Φοίνικά τε γενέσθαιΜῶχον, καὶ Θρᾷκα Ζάμολξιν, καὶ Λίβυν Ἄτλαντα. Αἰγύπτιοι μὲν γὰρ Νείλου γενέσθαι παῖδα Ἥφαιστον, ὃν ἄρξαι φιλοσοφίας, ἧς τοὺς προεστῶτας ἱερέας εἶναι καὶ προφήτας. ΔΙΟΓΕΝΟΥΣ ΛΑΕΡΤΙΟΣ ΔΙΟΓΕΝΟΥΣ ΛΑΕΡΤΙΟΣ ΔΙΟΓΕΝΟΥΣ ΛΑΕΡΤΙΟΣ ΒΙΩΝ ΚΑΙ ΓΝΩΜΩΝ ΤΩΝ ΕΝ Φ ΙΛΟΣΟΦΙΑΙ ΕΥΔΟΚΙΜΗΣΑΝΤΩΝ ΤΩΝ ΕΙΣ ΔΕΚΑ ΤΟ ΠΡΩΤΟΝ ΒΙΩΝ ΚΑΙ ΓΝΩΜΩΝ ΤΩΝ ΕΝ Φ ΙΛΟΣΟΦΙΑΙ ΕΥΔΟΚΙΜΗΣΑΝΤΩΝ ΤΩΝ ΕΙΣ ΔΕΚΑ ΤΟ ΠΡΩΤΟΝ ΒΙΩΝ ΚΑΙ ΓΝΩΜΩΝ ΤΩΝ ΕΝ Φ ΙΛΟΣΟΦΙΑΙ ΕΥΔΟΚΙΜΗΣΑΝΤΩΝ ΤΩΝ ΕΙΣ ΔΕΚΑ ΤΟ ΠΡΩΤΟΝ Γυμνοσοφιστὰς Μῶχον
+
+=== I,1it (Book 1) ===
+LIBRO I LIBRO I PROEMIO PROEMIO e Sozione nel libro ventitreesimo dellaSuccessione dei filosofidicono che gli iniziatori furono i Magi presso i Persiani i Caldei presso i Babilonesi e gli Assiri, e i Gimnosofisti presso gl'Indiani, i così detti Druidi e Semnotei presso i Celti ed i Galli. E che inoltre nella Fenicia nacque Oco, nella Tracia Zamolsi e nella Libia Atlante. Gli Egizi dal canto loro sostengono che sia stato Efesto, figlio di Nilo, a dare inizio alla filosofia, che fu in modo preminente coltivata dai sacerdoti e dai profeti;
+
+=== I,2 (Book 1) ===
+ἀπὸ δὲ τούτου εἰς Ἀλέξανδρον τὸν Μακεδόνα ἐτῶν εἶναι μυριάδας τέσσαρας καὶ ὀκτακισχίλια ὀκτακόσια ἑξήκοντα τρία˙ ἐν οἷς ἡλίου μὲν ἐκλείψεις γενέσθαι τριακοσίας ἑβδομήκοντα τρεῖς, σελήνης δὲ ὀκτακοσίας τριάκοντα δύο. Ἀπὸ δὲ τῶν Μάγων, ὧν ἄρξαι Ζωροάστρην τὸν Πέρσην, Ἑρμόδωρος μὲν ὁ Πλατωνικὸς ἐν τῷ Περὶ μαθημάτων φησὶν εἰς τὴν Τροίας ἅλωσιν ἔτη γεγονέναι πεντακισχίλια˙Ξάνθος δὲ ὁ Λυδὸς καὶ μετ' αὐτὸν γεγονέναι πολλούς τινας Μάγους κατὰ διαδοχήν, Ὀστάνας καὶ Ἀστραμψύχους καὶ Γωβρύας καὶ Παζάτας, μέχρι τῆς τῶν Περσῶν ὑπ' Ἀλεξάνδρου καταλύσεως. Ξάνθος δὲ ὁ Λυδὸς εἰς τὴν Ξέρξου διάβασιν ἀπὸ τοῦ Ζωροάστρου ἑξακισχίλιά φησι
+
+=== I,2it (Book 1) ===
+Il platonico Ermodoro nel libroDelle scienze matematicheafferma che dai Magi di cui il persiano Zoroastre fu il principe fino alla conquista di Troia trascorsero cinquemila anni; Santo di Lidia afferma che ne trascorsero seimila da Zoroastre fino al passaggio di Serse e che a lui successero molti altri Magi dai nomi di Ostane, Astrampsico, Gobria e Pazata, fino alla distruzione dell'impero persiano da parte di Alessandro.
+
+=== I,3 (Book 1) ===
+Λανθάνουσι δ' αὑτοὺς τὰ τῶν Ἑλλήνων κατορθώματα, ἀφ' ὧν μὴ ὅτι γε φιλοσοφία, ἀλλὰ καὶ γένος ἀνθρώπων ἦρξε, βαρβάροις προσάπτοντες. ἰδοὺ γοῦν παρὰ μὲν Ἀθηναίοις γέγονε Μουσαῖος, παρὰ δὲ Θηβαίοις Λίνος. καὶ τὸν μὲν Εὐμόλπου παῖδά φασι, ποιῆσαι δὲ Θεογονίαν καὶ Σφαῖραν πρῶτον˙ φάναι τε ἐξ ἑνὸς τὰ πάντα γίνεσθαι καὶ εἰς ταὐτὸν ἀναλύεσθαι. τοῦτον τελευτῆσαι Φαληροῖ, καὶ αὐτῷ ἐπιγεγράφθαι τόδε τὸ ἐλεγεῖον˙ Εὐμόλπου φίλον υἱὸν ἔχει τὸ Φαληρικὸν οὖδας, Μουσαῖον, φθίμενον σῶμ', ὑπὸ τῷδε τάφῳ. ἀπὸ δὲ τοῦ πατρὸς τοῦ Μουσαίου καὶ Εὐμολπίδαι καλοῦνται παρ' Ἀθηναίοις.
+
+=== I,3it (Book 1) ===
+effettivamente ebbe origine non soltanto la filosofia, ma la stessa stirpe degli umani; ché Museo nacque in Atene e Lino in Tebe. E l'uno dicono figlio di Eumolpo che per primo compose unaTeogoniae unaSferaed asserì che dall'uno deriva il tutto e che in esso stesso si risolve. Dicono pure che sia morto al Falero e che quest'epigramma sia stato iscritto sul suo sepolcro: Il caro figlio di Eumolpo, Museo, corpo morto, il suolo del Falero ha sotto questo sepolcro. Dal padre di Museo, Eumolpo, derivano il nome anche gli Eumolpidi di Atene.
+
+=== I,4 (Book 1) ===
+Τὸν δὲ Λίνον παῖδα εἶναι Ἑρμοῦ καὶ Μούσης Οὐρανίας˙ ποιῆσαι δὲ κοσμογονίαν, ἡλίου καὶ σελήνης πορείαν, καὶ ζῴων καὶ καρπῶν γενέσεις. τούτῳ ἀρχὴ τῶν ποιημάτων ἥδε˙ ἦν ποτέ τοι χρόνος οὗτος, ἐν ᾧ ἅμα πάντ' ἐπεφύκει. ἥδεΛίνον Θηβαῖον ἐδέξατο γαῖα θανόντα, Μούσης Οὐρανίης υἱὸν ἐϋστεφάνου. καὶ ὧδε μὲν ἀφ' Ἑλλήνων ἦρξε φιλοσοφία, ἧς καὶ αὐτὸ τὸ ὄνομα τὴν βάρβαρον ἀπέστραπται προσηγορίαν. ἥδε
+
+=== I,4it (Book 1) ===
+νοῦς
+---
+fu figlio di Ermes e della Musa Urania e che per primo compose un poema sulla cosmogonia, sul corso del sole e della luna e sulla nascita degli animali e delle piante. L'inizio del suo poema questo: Vi fu un tempo in cui tutte le cose erano nate insieme. Di qui dipende Anassagora per il quale tutte le cose nacquero insieme fino a che venne la mente a disporle in ordine. Lino secondo la tradizione morì in Eubea saettato da Apollo e sul suo sepolcro fu scritto: Lino Tebano morto questa terra accolse, figlio della Musa Urania coronata. E così la filosofia ebbe dai Greci il suo cominciamento: il suo stesso nome non ha nulla a vedere con una denominazione barbarica.
+
+=== I,5 (Book 1) ===
+Οἱ δὲ τὴν εὕρεσιν διδόντες ἐκείνοις παράγουσι καὶ Ὀρφέα τὸν Θρᾷκα, λέγοντες φιλόσοφον γεγονέναι καὶ εἶναι ἀρχαιότατον. ἐγὼ δέ, εἰ τὸν περὶ θεῶν ἐξαγορεύσαντα τοιαῦτα χρὴ φιλόσοφον καλεῖν οὐκ οἶδα, 〈οὐδὲ〉 τίνα δεῖ προσαγορεύειν τὸν πᾶν τὸ ἀνθρώπειον πάθος ἀφειδοῦντα τοῖς θεοῖς προστρῖψαι, καὶ τὰ σπανίως ὑπό τινων ἀνθρώπων αἰσχρουργούμενα τῷ τῆς φωνῆς ὀργάνῳ. τοῦτον δὲ ὁ μὲν μῦθος ὑπὸ γυναικῶν ἀπολέσθαι φησί˙ τὸ δ' ἐν Δίῳ τῆς Μακεδονίας ἐπίγραμμα, κεραυνωθῆναι αὐτόν, λέγον οὕτως˙Θρήϊκα χρυσολύρην τῇδ' Ὀρφέα Μοῦσαι ἔθαψαν,ὃν κτάνεν ὑψιμέδων Ζεὺς ψολόεντι βέλει. Θρήϊκα χρυσολύρην τῇδ' Ὀρφέα Μοῦσαι ἔθαψαν, ὃν κτάνεν ὑψιμέδων Ζεὺς ψολόεντι βέλει.
+
+=== I,5it (Book 1) ===
+Io, se bisogna chiamare filosofo chi si espresse in modo così sacrilego intorno agli dèi, non so chi si debba designare con tal nome: quelli infatti chiamano filosofo un uomo che non ebbe alcuna remora ad attribuire agli dèi ogni umana passione ed anche quelle turpitudini che solo raramente alcuni uomini commettono (e, per giunta, solo con l'organo della voce). La favola vuole che sia morto ucciso dalle donne, ma un epigramma in Dio della Macedonia attesta che fu colpito dal fulmine. Esso suona così: Qui le Muse seppellirono il tracio Orfeo dalla lira d'oro che col fuligginoso dardo Zeus colpì, signore dell'alto.
+
+=== I,6 (Book 1) ===
+Οἱ δὲ φάσκοντες ἀπὸ βαρβάρων ἄρξαι φιλοσοφίαν καὶ τὸν τρόπον παρ' ἑκάστοις αὐτῆς ἐκτίθενται˙ καί φασι τοὺς μὲνγυμνοσοφιστὰςκαὶ Δρυΐδας αἰνιγματωδῶς ἀποφθεγγομένους φιλοσοφῆσαι, σέβειν θεοὺς καὶ μηδὲν κακὸν δρᾶν καὶ ἀνδρείαν ἀσκεῖν. τοὺς γοῦνγυμνοσοφιστὰςκαὶ θανάτου καταφρονεῖν φησι Κλείταρχος ἐν τῇ δωδεκάτῃ τοὺς δὲ Χαλδαίους περὶ ἀστρονομίαν καὶ πρόρρησιν ἀσχολεῖσθαι˙ τοὺς δὲ Μάγους περί τε θεραπείας θεῶν διατρίβειν καὶ θυσίας καὶ εὐχάς, ὡς αὐτοὺς μόνους ἀκουομένους. ἀποφαίνεσθαί τε περὶ οὐσίας θεῶν καὶ γενέσεως, οὓς καὶ πῦρ εἶναι καὶ γῆν καὶ ὕδωρ˙ τῶν δὲ ξοάνων καταγινώσκειν, καὶ μάλιστα τῶν λεγόντων ἄρρενας εἶναι θεοὺς καὶ θηλείας. γυμνοσοφιστὰς γυμνοσοφιστὰς
+
+=== I,6it (Book 1) ===
+nel dodicesimo libro attesta pure che i Gimnosofisti professavano il disprezzo della morte; che i Caldei si dedicavano all'astronomia ed alle predizioni; che i Magi attendevano al culto degli dèi ed ai sacrifici ed alle preghiere, quasi fossero i soli ad essere ascoltati dagli dèi; rinvenivano la sostanza delle cose e l'origine degli dèi nel fuoco, nella terra e nell'acqua; non ammettevano gl'idoli di legno ed erano violenti avversari di quanti dicevano essere gli dèi e maschi e femmine.
+
+=== I,7 (Book 1) ===
+περί τε δικαιοσύνης λόγους ποιεῖσθαι, καὶ ἀνόσιον ἡγεῖσθαι πυρὶ θάπτειν˙ καὶ ὅσιον νομίζειν μητρὶ ἢ θυγατρὶ μίγνυσθαι, ὡς ἐν τῷ εἰκοστῷ τρίτῳ φησὶν ὁ Σωτίων˙ ἀσκεῖν τε μαντικὴν καὶ πρόρρησιν, καὶ θεοὺς αὑτοῖς ἐμφανίζεσθαι λέγοντας. ἀλλὰ καὶ εἰδώλων πλήρη εἶναι τὸν ἀέρα,κατ'ἀπόρροιανὑπ'ἀναθυμιάσεως εἰσκρινομένων ταῖς ὄψεσι τῶν ὀξυδερκῶν˙ προκοσμήματά τε καὶ χρυσοφορίας ἀπαγορεύειν. τούτων δὲ ἐσθὴς μὲν λευκή, στιβὰς δὲ εὐνή, καὶ λάχανον τροφὴ τυρός τε καὶ ἄρτος εὐτελής, καὶ κάλαμος ἡ βακτηρία, ᾧ κεντοῦντες, φασί, τοῦ τυροῦ ἀνῃροῦντο καὶ ἀπήσθιον. κατ' ὑπ'
+
+=== I,7it (Book 1) ===
+Discorrevano facevano in pezzi il cacio, lo sollevavano e lo mangiavano.
+
+=== I,8 (Book 1) ===
+Τὴν δὲ γοητικὴν μαγείαν οὐδ' ἔγνωσαν, φησὶν Ἀριστοτέλης ἐν τῷ Μαγικῷ καὶ Δείνων ἐν τῇ πέμπτῃ τῶν Ἱστοριῶν˙ ὃς καὶ μεθερμηνευόμενόν φησι τὸν Ζωροάστρην ἀστροθύτην εἶναι˙ φησὶ δὲ τοῦτο καὶ ὁ Ἑρμόδωρος. Ἀριστοτέληςδ'ἐν πρώτῳ Περὶ φιλοσοφίας καὶ πρεσβυτέρους εἶναι τῶν Αἰγυπτίων˙ καὶ δύο κατ' αὐτοὺς εἶναι ἀρχάς, ἀγαθὸν δαίμονα καὶ κακὸν δαίμονα˙ καὶ τῷ μὲν ὄνομα εἶναι Ζεὺς καὶ Ὠρομάσδης, τῷ δὲ Ἅιδης καὶ Ἀρειμάνιος. φησὶ δὲ τοῦτο καὶ Ἕρμιππος ἐν τῷ πρώτῳ περὶ Μάγων καὶ Εὔδοξος ἐν τῇ Περιόδῳ καὶ Θεόπομπος ἐν τῇ ὀγδόῃ τῶν Φιλιππικῶν˙ δ'
+
+=== I,8it (Book 1) ===
+e Dinone nel quinto libro delleIstorie, il quale attesta pure l'interpretazione del nome di Zoroastre, come adoratore degli astri: questo afferma anche Ermodoro. Aristotele nel primo libroDella filosofia dice che i Magi sono più antichi degli Egizi e che ammettono due princìpi, il demone buono e il demone cattivo, di cui al primo dànno i nomi di Zeus e Oromasde, al secondo i nomi di Ade e Arimanio. Questo dice anche Ermippo nel primo libroDei Magie Eudosso nelGiro della terrae Teopompo nell'ottavo libro delleStorie filippiche.
+
+=== I,9 (Book 1) ===
+ὃς καὶ ἀναβιώσεσθαι κατὰ τοὺς Μάγους φησὶ τοὺς ἀνθρώπους καὶἀθανάτους ἔσεσθαι, καὶ τὰ ὄντα ταῖς αὐτῶν ἐπικλήσεσι διαμενεῖν. ταῦτα δὲ καὶ Εὔδημος ὁ Ῥόδιος ἱστορεῖ. Ἑκαταῖος δὲ καὶ γενητοὺς τοὺς θεοὺς εἶναι κατ' αὐτούς. Κλέαρχος δὲ ὁ Σολεὺς ἐν τῷ Περὶ παιδείας καὶ τοὺςΓυμνοσοφιστὰςἀπογόνους εἶναι τῶν Μάγων φησίν˙ ἔνιοι δὲ καὶ τοὺς Ἰουδαίους ἐκ τούτων εἶναι. πρὸς τούτοις καταγινώσκουσιν Ἡροδότου οἱ τὰ περὶ Μάγων γράψαντες˙ μὴ γὰρ ἂν εἰς τὸν ἥλιον βέλη Ξέρξην ἀκοντίσαι, μηδ' εἰς τὴν θάλασσαν πέδας καθεῖναι, θεοὺς ὑπὸ τῶν Μάγων παραδεδομένους. τὰ μέντοι ἀγάλματα εἰκότως καθαιρεῖν. ἀθανάτους ἔσεσθαι Γυμνοσοφιστὰς
+
+=== I,9it (Book 1) ===
+Queste cose riferisce anche Eudemo di Rodi. Ecateo attesta che per i Magi gli dèi erano stati generati; Clearco di Soli nel libroDell'educazione dice che i Gimnosofisti sono discendenti dei Magi; alcuni aggiungono pure i Giudei. Inoltre gli scrittori di cose magiche criticano Erodoto perché non possibile che Serse abbia lanciato dardi contro il sole e catene nel mare, per la ragione che il sole e il mare sono considerate divinità dai Magi. Serse tuttavia per plausibili motivi distruggeva le statue delle divinità.
+
+=== I,10 (Book 1) ===
+Τὴν δὲ τῶν Αἰγυπτίων φιλοσοφίαν εἶναι τοιαύτην περί τε θεῶν καὶ ὑπὲρ δικαιοσύνης. φάσκειντεἀρχὴν μὲν εἶναι τὴν ὕλην, εἶτα τὰ τέσσαρα στοιχεῖα ἐξ αὐτῆς διακριθῆναι, καὶζῶ̣α παντοῖαἀποτελεσθῆναι. θεοὺς δ' εἶναι ἥλιον καὶ σελήνην, τὸν μὲν Ὄσιριν, τὴν δ' Ἶσιν καλουμένην˙ αἰνίττεσθαί τε αὐτοὺς διά τε κανθάρου καὶ δράκοντος καὶ ἱέρακος καὶ ἄλλων, ὥς φησι Μανέθως ἐν τῇτῶν Φυσικῶνἐπιτομῇ καὶ Ἑκαταῖος ἐν τῇ πρώτῃ Περὶ τῆς Αἰγυπτίων φιλοσοφίας. κατασκευάζειν δὲ〈καὶ〉ἀγάλματα καὶ τεμένη τῷ μὴ εἰδέναι τὴν τοῦ θεοῦ μορφήν. τε ζῶ̣α παντοῖα τῶν Φυσικῶν 〈καὶ〉
+
+=== I,10it (Book 1) ===
+nell'Epitome della dottrina fisica, ed Ecateo nel primo libroDella filosofia degli Egizi. Costruivano statue e templi perché non conoscevano la forma della divinità.
+
+=== I,11 (Book 1) ===
+τὸν κόσμον γενητὸν καὶ φθαρτὸν καὶ σφαιροειδῆ˙ τοὺς ἀστέρας πῦρ εἶναι, καὶ τῇ τούτων κράσει τὰ ἐπὶ γῆς γίνεσθαι˙ σελήνην ἐκλείπειν εἰς τὸ σκίασμα τῆς γῆς ἐμπίπτουσαν˙ τὴν ψυχὴν καὶ ἐπιδιαμένειν καὶμετεμβαίνειν˙ ὑετοὺς κατὰ ἀέρος τροπὴν ἀποτελεῖσθαι˙ τά τε ἄλλα φυσιολογεῖν, ὡς Ἑκαταῖός τε καὶ Ἀρισταγόρας ἱστοροῦσιν. ἔθεσαν δὲ καὶ νόμους ὑπὲρ δικαιοσύνης, οὓς εἰς Ἑρμῆν ἀνήνεγκαν˙ καὶ τὰ εὔχρηστα τῶν ζῴων θεοὺςἐδόξασαν. λέγουσι δὲ καὶ ὡς αὐτοὶ γεωμετρίαν τε καὶ ἀστρολογίαν καὶ ἀριθμητικὴν ἀνεῦρον. καὶ τὰ μὲν περὶ τῆς εὑρέσεως ὧδε ἔχει. μετεμβαίνειν ἐδόξασαν
+
+=== I,11it (Book 1) ===
+Posero leggi sulla giustizia che attribuirono ad Ermes e ritennero esseri divini quanti degli animali sono molto utili. Affermano di essere stati gli inventori della geometria, dell'astrologia e dell'aritmetica.
+
+=== I,12 (Book 1) ===
+Φιλοσοφίαν δὲ πρῶτος ὠνόμασε Πυθαγόρας καὶ ἑαυτὸν φιλόσοφον, ἐν Σικυῶνι διαλεγόμενος Λέοντι τῷ Σικυωνίων τυράννῳ ἢ Φλιασίων, καθά φησιν Ἡρακλείδης ὁ Ποντικὸς ἐν τῇ Περὶ τῆς ἄπνου˙ μηδένα γὰρ εἶναι σοφὸν ἄνθρωπον ἀλλ' ἢ θεόν. θᾶττον δὲ ἐκαλεῖτο σοφία, καὶ σοφὸς ὁ ταύτην ἐπαγγελλόμενος, ὃς εἴη ἂν κατ' ἀκρότητα ψυχῆς ἀπηκριβωμένος, φιλόσοφος δὲ ὁ σοφίαν ἀσπαζόμενος. οἱ δὲ σοφοὶ καὶ σοφισταὶ ἐκαλοῦντο˙ καὶ οὐ μόνον, ἀλλὰ καὶ οἱ ποιηταὶ σοφισταί, καθὰ καὶ Κρατῖνος ἐν Ἀρχιλόχοις τοὺς περὶ Ὅμηρον καὶ Ἡσίοδον ἐπαινῶν οὕτως καλεῖ.
+
+=== I,12it (Book 1) ===
+discorrendo in Sicione con Leonte tiranno dei Sicionii o dei Fliasii, come attesta Eraclide Pontico nell'operaSulla femmina esanime: nessuno infatti saggio, eccetto la divinità. Più anticamente si chiamava sapienza, e sapiente chi la professasse, ed eccellesse nell'estrema cura dell'anima; filosofo era colui che accoglie la sapienza. I sapienti si chiamavano anche sofisti e non solo i sapienti, ma anche i poeti; così chiama lodandoli Cratino negliArchilochiOmero ed Esiodo ed i loro seguaci.
+
+=== I,13 (Book 1) ===
+Σοφοὶ δὲ ἐνομίζοντο οἵδε˙ Θαλῆς, Σόλων, Περίανδρος, Κλεόβουλος, Χείλων, Βίας, Πιττακός. τούτοις προσαριθμοῦσιν Ἀνάχαρσιν τὸν Σκύθην, Μύσωνα τὸν Χηνέα, Φερεκύδην τὸν Σύριον, Ἐπιμενίδην τὸν Κρῆτα˙ ἔνιοι δὲ καὶ Πεισίστρατον τὸν τύραννον. καὶοἱμὲν σοφοί. Φιλοσοφίας δὲ δύο γεγόνασιν ἀρχαί, ἥ τε ἀπὸ Ἀναξιμάνδρου καὶ ἡ ἀπὸ Πυθαγόρου˙ τοῦ μὲν Θαλοῦ διακηκοότος, Πυθαγόρου δὲ Φερεκύδης καθηγήσατο. καὶ ἐκαλεῖτο ἡ μὲν Ἰωνική, ὅτι Θαλῆς Ἴων ὤν, Μιλήσιος γάρ, καθηγήσατο Ἀναξιμάνδρου˙ ἡ δὲ Ἰταλικὴ ἀπὸ Πυθαγόρου, ὅτι τὰ πλεῖστα κατὰ τὴν Ἰταλίανἐφιλοσόφησεν. οἱ ἐφιλοσόφησεν
+
+=== I,13it (Book 1) ===
+L'inizio storico della filosofia si ebbe con Anassimandro e Pitagora: il primo fu discepolo di Talete; il secondo di Ferecide. La filosofia di Anassimandro si chiamava ionica, perché Talete che era della Ionia nacque a Mileto fu maestro di Anassimandro; la filosofia di Pitagora si chiamava italica, perché il magistero filosofico di Pitagora si svolse per la maggior parte in Italia.
+
+=== I,14 (Book 1) ===
+καταλήγει δὲ ἡ μὲν εἰς Κλειτόμαχον καὶ Χρύσιππον καὶ Θεόφραστον ἡ Ἰωνική ἡ δὲ Ἰταλικὴ εἰς Ἐπίκουρον. Θαλοῦ μὲν γὰρ Ἀναξίμανδρος, οὗ Ἀναξιμένης, οὗ Ἀναξαγόρας, οὗ Ἀρχέλαος, οὗ Σωκράτης ὁ τὴν ἠθικὴν εἰσαγωγών˙ οὗ οἵ τε ἄλλοι Σωκρατικοὶ καὶ Πλάτων ὁ τὴν ἀρχαίαν Ἀκαδήμειαν συστησάμενος˙ οὗ Σπεύσιππος καὶ Ξενοκράτης, οὗ Πολέμων, οὗ Κράντωρ καὶ Κράτης, οὗ Ἀρκεσίλαος ὁ τὴν μέσην Ἀκαδήμειαν εἰσηγησάμενος˙ οὗ Λακύδης ὁ τὴν νέαν Ἀκαδήμειαν φιλοσοφήσας˙ οὗ Καρνεάδης, οὗ Κλειτόμαχος. καὶ ὧδε μὲν εἰς Κλειτόμαχον.
+
+=== I,14it (Book 1) ===
+gli altri Socratici e Platone, che fondò l'Antica Academia; Speusippo, Senocrate, Polemone, Crantore, Cratete, Arcesilao, l'iniziatore dell'Academia di mezzo, Lacide che iniziò una nuova fase nel pensiero con la Nuova Academia, Carneade, Clitomaco. Così dunque termina con Clitomaco.
+
+=== I,15 (Book 1) ===
+Εἰς δὲ Χρύσιππον οὕτω καταλήγει˙ Σωκράτους Ἀντισθένης, οὗ Διογένης ὁ κύων, οὗ Κράτης ὁ Θηβαῖος, οὗ Ζήνων ὁ Κιτιεύς, οὗ Κλεάνθης, οὗ Χρύσιππος. εἰς δὲ Θεόφραστον οὕτως˙ Πλάτωνος Ἀριστοτέλης, οὗ Θεόφραστος. καὶ ἡ μὲν Ἰωνικὴ τοῦτον καταλήγει τὸν τρόπον. Ἡ δὲ Ἰταλικὴ οὕτω˙ Φερεκύδους Πυθαγόρας, οὗ Τηλαύγης ὁ υἱός, οὗ Ξενοφάνης, οὗ Παρμενίδης, οὗ Ζήνων ὁ Ἐλεάτης, οὗ Λεύκιππος, οὗ Δημόκριτος, οὗ πολλοὶ μέν, ἐπ' ὀνόματος δὲ Ναυσιφάνης ,ὧνἘπίκουρος. καὶ Ναυκύδης ὧν
+
+=== I,15it (Book 1) ===
+e infine Epicuro.
+
+=== I,16 (Book 1) ===
+Τῶν δὲ φιλοσόφων οἱ μὲν γεγόνασι δογματικοί, οἱ δ' ἐφεκτικοί˙ δογματικοὶ μὲν ὅσοι περὶ τῶν πραγμάτων ἀποφαίνονται ὡς καταληπτῶν˙ ἐφεκτικοὶ δὲ ὅσοι ἐπέχουσι περὶ αὐτῶν ὡς ἀκαταλήπτων. καὶ οἱ μὲν αὐτῶν κατέλιπον ὑπομνήματα, οἱ δ' ὅλως οὐ συνέγραψαν, ὥσπερ κατά τινας Σωκράτης, Στίλπων, Φίλιππος, Μενέδημος, Πύρρων, Θεόδωρος, Καρνεάδης, Βρύσων˙ κατά τινας Πυθαγόρας, Ἀρίστων ὁ Χῖος, πλὴν ἐπιστολῶν ὀλίγων˙ οἱ δὲ ἀνὰ ἓν σύγγραμμα˙Μέλισσος, Παρμενίδης, Ἀναξαγόρας˙ πολλὰ δὲ Ζήνων, πλείωΞενοφάνης, πλείω Δημόκριτος, πλείω Ἀριστοτέλης, πλείω Ἐπίκουρος, πλείω Χρύσιππος. Ξενοφάνης
+
+=== I,16it (Book 1) ===
+Filippo, Menedemo, Pirrone, Teodoro, Carneade, Brisone; secondo alcuni ancora Pitagora, Aristone di Chio, eccetto poche lettere; altri scrissero, ciascuno, un'opera: Melisso, Parmenide, Anassagora; molte Zenone, parecchie Senofane, parecchie Democrito, parecchie Aristotele, parecchie Epicuro, parecchie Crisippo.
+
+=== I,17 (Book 1) ===
+Τῶν δὲ φιλοσόφων οἱ μὲν ἀπὸ πόλεων προσηγορεύθησαν, ὡς οἱ Ἠλιακοὶ καὶ Μεγαρικοὶ καὶ Ἐρετρικοὶ καὶ Κυρηναϊκοί˙ οἱ δὲ ἀπὸ τόπων, ὡς οἱ Ἀκαδημαϊκοὶ καὶ Στωϊκοί. καὶ ἀπὸ συμπτωμάτων δέ, ὡς οἱ Περιπατητικοί, καὶ ἀπὸ σκωμμάτων, ὡς οἱ Κυνικοί˙ οἱ δὲ ἀπὸ διαθέσεων, ὡς οἱ Εὐδαιμονικοί˙ τινὲς ἀπὸ οἰήσεως, ὡς οἱ Φιλαλήθεις καὶ Ἐλεγκτικοὶ καὶ Ἀναλογητικοί˙ ἔνιοι δ' ἀπὸ τῶν διδασκάλων, ὡς οἱ Σωκρατικοὶ καὶ Ἐπικούρειοι, καὶ τὰ ὅμοια.καὶ οἱ μὲν ἀπὸ τῆς περὶ φύσιν πραγματείας φυσικοί˙ οἱδ'ἀπὸ τῆς περὶ τὰ ἤθη σχολῆς ἠθικοί˙ διαλεκτικοὶ δὲ ὅσοι περὶ τὴν τῶν λόγων τερθρείαν καταγίνονται. δ'
+
+=== I,17it (Book 1) ===
+Φιλαλήθεις Ἐλεγκτικοί Ἀναλογητικοί
+---
+e gli Eretrici ed i Cirenaici, altri dai luoghi, come gli Academici e gli Stoici; altri da speciali circostanze, come i Peripatetici, altri da motteggi, come i Cinici; altri da particolari disposizioni, come gli Eudemonici; altri da una particolare presunzione, come gli Amanti della verità gli Amanti della confutazione e gli Amanti dell'analogia alcuni dai maestri, come i Socratici e gli Epicurei, e simili. Quanti si sono dedicati all'indagine naturalistica sono detti fisici; quanti hanno atteso all'etica, etici; dialettici quelli che si occupano dell'elaborazione sofisticata dei concetti.
+
+=== I,18 (Book 1) ===
+Μέρη δὲ φιλοσοφίας τρία, φυσικόν, ἠθικόν, διαλεκτικόν˙ φυσικὸν μὲν τὸ περὶ κόσμου καὶ τῶν ἐν αὐτῷ˙ ἠθικὸν δὲ τὸ περὶ βίου καὶ τῶν πρὸς ἡμᾶς˙ διαλεκτικὸν δὲ τὸ ἀμφοτέρων τοὺς λόγους πρεσβεῦον. καὶ μέχρι μὲν Ἀρχελάου τὸ φυσικὸν ἦν εἶδος˙ ἀπὸ δὲ Σωκράτους, ὡς προείρηται, τὸ ἠθικόν˙ ἀπὸ δὲ Ζήνωνος τοῦ Ἐλεάτου, τὸ διαλεκτικόν. τοῦ δὲ ἠθικοῦ γεγόνασιν αἱρέσεις δέκα˙ Ἀκαδημαϊκή, Κυρηναϊκή,Ἠλιακή, Μεγαρική, Κυνική, Ἐρετρική, Διαλεκτική, Περιπατητική, Στωϊκή, Ἐπικούρειος. Ἠλιακή
+
+=== I,18it (Book 1) ===
+fu introdotta da Socrate; la dialettica da Zenone di Elea. L'etica diede luogo a dieci scuole: l'Academica, la Cirenaica l'Eliaca, la Megarica, la Cinica, l'Eretrica, la Dialettica, la Peripatetica, la Stoica, l'Epicurea.
+
+=== I,19 (Book 1) ===
+Ἀκαδημαϊκῆς μὲν οὖν τῆς ἀρχαίας προέστη Πλάτων, τῆς μέσης Ἀρκεσίλαος, τῆς νέας Λακύδης˙ Κυρηναϊκῆς Ἀρίστιππος ὁ Κυρηναῖος,ἨλιακῆςΦαίδων ὁ Ἠλεῖος, Μεγαρικῆς Εὐκλείδης Μεγαρεύς, Κυνικῆς Ἀντισθένης Ἀθηναῖος, Ἐρετρικῆς Μενέδημος Ἐρετριεύς, ΔιαλεκτικῆςΚλειτόμαχος Καρχηδόνιος, Περιπατητικῆς Ἀριστοτέλης Σταγειρίτης, Στωϊκῆς Ζήνων Κιτιεύς˙ ἡ δὲ Ἐπικούρειος ἀπ' αὐτοῦ κέκληται Ἐπικούρου. Ἱππόβοτος δ' ἐν τῷ Περὶ αἱρέσεων ἐννέα φησὶν αἱρέσεις καὶ ἀγωγὰς εἶναι˙ πρώτην Μεγαρικήν, δευτέραν Ἐρετρικήν, τρίτην Κυρηναϊκήν, τετάρτην Ἐπικούρειον, πέμπτην Ἀννικέρειον, ἕκτην Θεοδώρειον, ἑβδόμην Ζηνώνειον τὴν καὶ Στωϊκήν, ὀγδόην Ἀκαδημαϊκὴν τὴν ἀρχαίαν, ἐνάτην Περιπατητικήν˙ οὔτε δὲ Κυνικήν, οὔτεἨλιακήν, οὔτε Διαλεκτικήν. Ἠλιακῆς Κλειτόμαχος Καρχηδόνιος Ἠλιακήν
+
+=== I,19it (Book 1) ===
+dell'Eliaca Fedone di Elide, della Megarica Euclide di Megara, della Cinica Antistene di Atene, dell'Eretrica Menedemo d'Eretria, della Dialettica Clitomaco di Cartagine, della Peripatetica Aristotele di Stagira, della Stoica Zenone di Cizio; l'Epicurea così chiamata dallo stesso Epicuro. Ma Ippoboto nel libroDelle scuole filosoficheafferma che sono nove le scuole e forme di vita: prima la Megarica seconda la Eretrica, terza la Cirenaica, quarta l'Epicurea, quinta l'Annicerica, sesta la Teodorea, settima la Zenonea o Stoica, ottava l'Academica Antica, nona la Peripatetica; non menziona né la Cinica, né l'Eliaca, né la Dialettica.
+
+=== I,20 (Book 1) ===
+τὴν μὲν γὰρ Πυρρώνειον οὐδ' οἱ πλείους προσποιοῦνται διὰ τὴν ἀσάφειαν˙ ἔνιοι δὲ κατά τι μὲν αἵρεσιν εἶναί φασιν αὐτήν, κατά τι δὲ οὔ. δοκεῖδὲαἵρεσις εἶναι. αἵρεσινμὲν γὰρλέγομεν τὴν λόγῳ τινὶ κατὰ τὸ φαινόμενον ἀκολουθοῦσαν ἢ δοκοῦσαν ἀκολουθεῖν˙ καθ' ὃ εὐλόγως ἂν αἵρεσιν τὴν Σκεπτικὴν καλοῖμεν. εἰ δὲ αἵρεσιν νοοῖμεν πρόσκλισιν δόγμασιν ἀκολουθίαν ἔχουσιν, οὐκέτ' ἂν προσαγορεύοιτο αἵρεσις˙ οὐ γὰρ ἔχει δόγματα. αἵδε μὲν ἀρχαὶ καὶ διαδοχαὶ καὶ τοσαῦτα μέρη καὶ τόσαι φιλοσοφίας αἱρέσεις. δὲ μὲν γὰρ
+
+=== I,20it (Book 1) ===
+Questi sono gli inizi, le successioni e tali le parti e tante le scuole filosofiche.
+
+=== I,21 (Book 1) ===
+Ἔτι δὲ πρὸ ὀλίγου καὶ ἐκλεκτική τις αἵρεσις εἰσήχθη ὑπὸ Ποτάμωνος τοῦ Ἀλεξανδρέως, ἐκλεξαμένου τὰἀρέσκονταἐξ ἑκάστης τῶν αἱρέσεων. ἀρέσκει δ' αὐτῷ, καθά φησιν ἐν τῇ Στοιχειώσει, κριτήρια τῆς ἀληθείας εἶναι˙ τὸ μὲν ὡς ὑφ' οὗ γίνεται ἡ κρίσις, τουτέστι τὸ ἡγεμονικόν˙ τὸ δὲ ὡς δι' οὗ, οἷον τὴν ἀκριβεστάτην φαντασίαν. ἀρχάς τε τῶν ὅλων τήν τε ὕλην καὶ τὸ ποιοῦν, ποιότητά τε καὶ τόπον˙ ἐξ οὗ γὰρ καὶ ὑφ' οὗ καὶποίῳκαὶ ἐν ᾧ. τέλος δὲ εἶναι ἐφ' ὃ πάντα ἀναφέρεται, ζωὴν κατὰ πᾶσαν ἀρετὴν τελείαν, οὐκ ἄνευ τῶν τοῦ σώματος κατὰ φύσιν καὶ τῶν ἐκτός. Λεκτέον δὲ περὶ αὐτῶν τῶν ἀνδρῶν, καὶ πρῶτόν γε περὶ Θαλοῦ. ἀρέσκοντα ποίῳ
+
+=== I,21it (Book 1) ===
+φαντασία
+---
+egli accetta questi criteri di verità: un primo dal quale si forma un giudizio, cioè il principio fondamentale dell'anima; un secondo per il quale, come la più esatta rappresentazione Princìpi dell'universo sono la materia e la causa efficiente, la qualità ed il luogo; cioè donde, da chi, in che modo, in che. Il fine a cui tutte le cose cospirano la vita perfetta in tutte le virtù, non escluse quelle fisiche naturali e quelle esteriori. Veniamo ora ai singoli filosofi, e, prima di tutti, a Talete.
+
+=== I,22 (Book 1) ===
+Κεφ. α'. Ἦν τοίνυν ὁ Θαλῆς, ὡς μὲν Ἡρόδοτος καὶ Δοῦρις καὶ Δημόκριτός φασι, πατρὸς μὲν Ἐξαμύου, μητρὸς δὲ Κλεοβουλίνης, ἐκ τῶν Θηλιδῶν, οἵ εἰσι Φοίνικες, εὐγενέστατοι τῶν ἀπὸ Κάδμου καὶ Ἀγήνορος.〈ἦν δὲ τῶν ἑπτὰ σοφῶν〉, καθὰ καὶ Πλάτων φησί˙ καὶ πρῶτος σοφὸς ὠνομάσθη ἄρχοντος Ἀθήνησι Δαμασίου, καθ' ὃν καὶ οἱ ἑπτὰ σοφοὶ ἐκλήθησαν, ὥς φησι Δημήτριος ὁ Φαληρεὺς ἐν τῇ τῶν Ἀρχόντων ἀναγραφῇ.ἐπολιτογραφήθη δὲ ἐν Μιλήτῳ, ὅτε ἦλθε σὺν Νείλεῳ ἐκπεσόντι Φοινίκης˙ ὡς δ' οἱ πλείους φασίν, ἰθαγενὴς Μιλήσιος ἦν καὶ γένους λαμπροῦ. Κεφ. α'. ΘΑΛΗΣ ΘΑΛΗΣ ΘΑΛΗΣ 〈ἦν δὲ τῶν ἑπτὰ σοφῶν〉, καθὰ καὶ Πλάτων φησί˙ καὶ πρῶτος σοφὸς ὠνομάσθη ἄρχοντος Ἀθήνησι Δαμασίου, καθ' ὃν καὶ οἱ ἑπτὰ σοφοὶ ἐκλήθησαν, ὥς φησι Δημήτριος ὁ Φαληρεὺς ἐν τῇ τῶν Ἀρχόντων ἀναγραφῇ.
+
+=== I,22it (Book 1) ===
+Capitolo ITALETE[22] Erodoto,72*Duride73*e Democrito74*affermano che Talete ebbe come padre Essamias, come madre Cleobulina, della famiglia dei Telidi75*che sono Fenici ed i più nobili discendenti di Cadmo ed Agenore. 〈Fu uno dei sette sapienti〉76*come attesta anche Platone.77*Fu il primo ad essere chiamato sapiente sotto l'arconte Damasias in Atene,78*Sotto il quale furono denominati sapienti anche i Sette, come dice Demetrio Falereo79*nellaLista degli arconti. Fu iscritto tra i cittadini di Mileto, quando vi giunse80*con Nileo bandito dalla Fenicia: la maggior parte però afferma che egli fu nativo di Mileto e di stirpe illustre. Capitolo ITALETE[22] Erodoto,72*Duride73*e Democrito74*affermano che Talete ebbe come padre Essamias, come madre Cleobulina, della famiglia dei Telidi75*che sono Fenici ed i più nobili discendenti di Cadmo ed Agenore. 〈Fu uno dei sette sapienti〉76*come attesta anche Platone.77*Fu il primo ad essere chiamato sapiente sotto l'arconte Damasias in Atene,78*Sotto il quale furono denominati sapienti anche i Sette, come dice Demetrio Falereo79*nellaLista degli arconti. Fu iscritto tra i cittadini di Mileto, quando vi giunse80*con Nileo bandito dalla Fenicia: la maggior parte però afferma che egli fu nativo di Mileto e di stirpe illustre. Capitolo ITALETE[22] Erodoto,72*Duride73*e Democrito74*affermano che Talete ebbe come padre Essamias, come madre Cleobulina, della famiglia dei Telidi75*che sono Fenici ed i più nobili discendenti di Cadmo ed Agenore. 〈Fu uno dei sette sapienti〉76*come attesta anche Platone.77*Fu il primo ad essere chiamato sapiente sotto l'arconte Damasias in Atene,78*Sotto il quale furono denominati sapienti anche i Sette, come dice Demetrio Falereo79*nellaLista degli arconti. Fu iscritto tra i cittadini di Mileto, quando vi giunse80*con Nileo bandito dalla Fenicia: la maggior parte però afferma che egli fu nativo di Mileto e di stirpe illustre. Capitolo I TALETE TALETE Duride e Democrito affermano che Talete ebbe come padre Essamias, come madre Cleobulina, della famiglia dei Telidi che sono Fenici ed i più nobili discendenti di Cadmo ed Agenore. 〈Fu uno dei sette sapienti〉 come attesta anche Platone. Fu il primo ad essere chiamato sapiente sotto l'arconte Damasias in Atene, Sotto il quale furono denominati sapienti anche i Sette, come dice Demetrio Falereo nellaLista degli arconti. Fu iscritto tra i cittadini di Mileto, quando vi giunse con Nileo bandito dalla Fenicia: la maggior parte però afferma che egli fu nativo di Mileto e di stirpe illustre.
+
+=== I,23 (Book 1) ===
+Μετὰ δὲ τὰ πολιτικὰ τῆς φυσικῆς ἐγένετο θεωρίας. καὶ κατά τινας μὲν σύγγραμμα κατέλιπεν οὐδέν˙ ἡ γὰρ εἰς αὐτὸν ἀναφερομένηΝαυτικὴἀστρολογία Φώκου λέγεται εἶναι τοῦ Σαμίου. Καλλίμαχος δ' αὐτὸν οἶδεν εὑρέτην τῆς ἄρκτου τῆς μικρᾶς, λέγων ἐν τοῖς Ἰάμβοις οὕτως˙καὶ τῆς ἀμάξης ἐλέγετο σταθμήσασθαιτοὺς ἀστερίσκους, ᾗ πλέουσι Φοίνικες.κατά τινας δὲ μόνα δύο συνέγραψε, Περὶ τροπῆς καὶἸσημερίας, τὰ ἄλλ' ἀκατάληπτα εἶναι δοκιμάσας. δοκεῖ δὲ κατά τινας πρῶτος ἀστρολογῆσαι καὶ ἡλιακὰς ἐκλείψεις καὶ τροπὰς προειπεῖν, ὥς φησιν Εὔδημος ἐν τῇ Περὶ τῶν Ἀστρολογουμένων ἱστορίᾳ˙ ὅθεν αὐτὸν καὶ Ξενοφάνης καὶ Ἡρόδοτος θαυμάζει. μαρτυρεῖ δ' αὐτῷ καὶ Ἡράκλειτος καὶ Δημόκριτος. καὶ τῆς ἀμάξης ἐλέγετο σταθμήσασθαι τοὺς ἀστερίσκους, ᾗ πλέουσι Φοίνικες. κατά τινας δὲ μόνα δύο συνέγραψε, Περὶ τροπῆς καὶἸσημερίας, τὰ ἄλλ' ἀκατάληπτα εἶναι δοκιμάσας. δοκεῖ δὲ κατά τινας πρῶτος ἀστρολογῆσαι καὶ ἡλιακὰς ἐκλείψεις καὶ τροπὰς προειπεῖν, ὥς φησιν Εὔδημος ἐν τῇ Περὶ τῶν Ἀστρολογουμένων ἱστορίᾳ˙ ὅθεν αὐτὸν καὶ Ξενοφάνης καὶ Ἡρόδοτος θαυμάζει. μαρτυρεῖ δ' αὐτῷ καὶ Ἡράκλειτος καὶ Δημόκριτος. Ναυτικὴ Ἰσημερίας
+
+=== I,23it (Book 1) ===
+Callimaco lo conosce quale scopritore dell'Orsa Minore, dicendo così neiGiambi: E del Carro le piccole stelle si diceva che avesse misurate, con la cui guida navigano i Fenici. Secondo altri, scrisse due sole opere:Del solstizioeDello equinozio, ritenendo inintelligibili tutti gli altri fenomeni. Altri ancora attestano che egli fu il primo a coltivare l'astronomia ed a predire le eclissi solari ed a fissare i solstizi d'inverno, come dice Eudemo nellaStoria dell'astronomia; di qui deriva l'ammirazione di Senofane e di Erodoto. Gli rendono onorevole testimonianza Eraclito e Democrito.
+
+=== I,24 (Book 1) ===
+Ἔνιοι δὲ καὶ αὐτὸν πρῶτον εἰπεῖν φασιν ἀθανάτους τὰς ψυχάς˙ ὧν ἐστι Χοιρίλος ὁ ποιητής. πρῶτος δὲ καὶ τὴν ἀπὸ τροπῆς ἐπὶ τροπὴν πάροδον εὗρε, καὶ πρῶτος τὸ τοῦ ἡλίου μέγεθος 〈τοῦ ἡλιακοῦ κύκλου ὥσπερ καὶ τὸ τῆς σελήνης μέγεθος〉 τοῦ σεληναίου ἑπτακοσιοστὸν καὶ εἰκοστὸν μέρος ἀπεφήνατο κατά τινας. πρῶτος δὲ καὶ τὴνὑστάτην ἡμέραντοῦ μηνὸς τριακάδαεἶπε. πρῶτος δὲ καὶ περὶ φύσεως διελέχθη, ὥς τινες. Ἀριστοτέλης δὲ καὶ Ἱππίας φασὶν αὐτὸν καὶ τοῖς ἀψύχοις μεταδιδόναι ψυχάς, τεκμαιρόμενον ἐκ τῆς λίθου τῆς μαγνήτιδος καὶ τοῦ ἠλέκτρου. παρά τε Αἰγυπτίων γεωμετρεῖν μαθόντα φησὶ Παμφίλη πρῶτον καταγράψαι κύκλου τὸ τρίγωνον ὀρθογώνιον, καὶ θῦσαι βοῦν. ὑστάτην ἡμέραν εἶπε
+
+=== I,24it (Book 1) ===
+τριακάς
+---
+dicono che egli pure sia stato il primo a sostenere l'immortalità dell'anima. Primo pure scoprì il passaggio del sole da solstizio a solstizio e primo, secondo altri, mostrò che la grandezza del sole la settecentoventesima parte 〈dell'orbita del sole e che la grandezza della luna〉 la settecentoventesima parte dell'orbita lunare. Primo chiamò «trigesima» l'ultimo giorno del mese. Secondo altri, fu il primo a trattare della natura. Aristotele ed Ippia dicono che egli attribuiva un'anima anche agli oggetti inanimati, deducendolo dalla calamita e dall'ambra. Panfila attesta che apprese la geometria dagli Egizi e che per primo tracciò il triangolo rettangolo in un circolo e che sacrificò un bue.
+
+=== I,25 (Book 1) ===
+οἱ δὲ Πυθαγόραν φασίν, ὧν ἐστιν Ἀπολλόδωρος ὁ λογιστικός. οὗτος προήγαγεν ἐπὶ πλεῖστον,ἅ φησι Καλλίμαχος ἐν τοῖς Ἰάμβοις Εὔφορβον εὑρεῖν τὸν Φρύγα, οἷον "σκαληνὰ καὶ τρίγωνα" καὶ ὅσα γραμμικῆς ἔχεται θεωρίας. Δοκεῖ δὲ καὶ ἐν τοῖς πολιτικοῖς ἄριστα βεβουλεῦσθαι. Κροίσου γοῦν πέμψαντος πρὸς Μιλησίους ἐπὶ συμμαχίᾳ ἐκώλυσεν˙ ὅπερ Κύρου κρατήσαντος ἔσωσε τὴν πόλιν.καὶ αὐτὸςδέ φησιν, ὡς Ἡρακλείδης ἱστορεῖ, μονήρη αὑτὸν γεγονέναι καὶ ἰδιαστήν. καὶ αὐτὸς
+
+=== I,25it (Book 1) ===
+il quale sviluppò fino alla massima possibilità le scoperte che Callimaco neiGiambiattribuisce al frigio Euforbo, quali «gli scaleni e il triangolo» e quanto fa parte della scienza delle linee. Pare che nei pubblici affari si sia imposto con l'eccellenza delle sue decisioni. Egli impedì che i Milesii stringessero l'alleanza richiesta da Creso: fu questo fatto che salvò la città quando Ciro ottenne con la vittoria il predominio. Egli stesso afferma come narra Eraclide che visse in remota solitudine lontano dalla vita politica.
+
+=== I,26 (Book 1) ===
+ἔνιοι δὲ καὶ γῆμαι αὐτὸν καὶ Κύβισθον υἱὸνσχεῖν˙ οἱ δὲ ἄγαμον μεῖναι, τῆς δὲ ἀδελφῆς τὸν υἱὸν θέσθαι. ὅτε καὶ ἐρωτηθέντα διὰ τί οὐ τεκνοποιεῖ,"διὰ φιλοτεκνίαν"εἰπεῖν. καὶλέγουσινὅτι τῆς μητρὸς ἀναγκαζούσης αὐτὸν γῆμαι," νὴ Δία ἔλεγεν, "οὐδέπω καιρός." εἶτα, ἐπειδὴ παρήβησεν ἐγκειμένης, εἰπεῖν, "οὐκέτι καιρός." φησὶ δὲ καὶ Ἱερώνυμος ὁ Ῥόδιος ἐν τῷ δευτέρῳΤῶν Σποράδηνὑπομνημάτων, σχεῖν "διὰ φιλοτεκνίαν" διὰ φιλοτεκνίαν λέγουσιν νὴ Δία Τῶν Σποράδην ῥᾴδιον μελλούσης ἐλαιῶν
+
+=== I,26it (Book 1) ===
+Nel secondo deiCommentarisparsiIeronimo di Rodi narra che Talete volendo dimostrare come fosse facile arricchire, prese a nolo i frantoi, dopo aver preveduto un abbondante raccolto di ulive, e guadagnò un gran mucchio di danari.
+
+=== I,27 (Book 1) ===
+Ἀρχὴν δὲ τῶν πάντων ὕδωρ ὑπεστήσατο, καὶ τὸν κόσμον ἔμψυχον καὶ δαιμόνων πλήρη. τάς τε ὥρας τοῦ ἐνιαυτοῦ φασιν αὐτὸν εὑρεῖν καὶ εἰς τριακοσίας ἑξήκοντα πέντε ἡμέρας διελεῖν. Οὐδεὶς δὲ αὐτοῦ καθηγήσατο, πλὴν ὅτι εἰς Αἴγυπτον ἐλθὼν τοῖς ἱερεῦσι συνδιέτριψεν. ὁ δὲ Ἱερώνυμος καὶ ἐκμετρῆσαί φησιν αὐτὸν τὰς πυραμίδας ἐκ τῆς σκιᾶς, παρατηρήσαντα ὅτε ἡμῖνἰσομεγέθης ἐστίν. συνεβίω δὲ καὶ Θρασυβούλῳ τῷ Μιλησίων τυράννῳ, καθά φησι Μινύης. Τὰ δὲ περὶ τὸν τρίποδα φανερὰ τὸν εὑρεθέντα ὑπὸ τῶν ἁλιέων καὶ διαπεμφθέντα τοῖς σοφοῖς ὑπὸ τοῦ δήμου τῶν Μιλησίων. ἰσομεγέθης ἐστίν
+
+=== I,27it (Book 1) ===
+attesta pure che egli misurò le piramidi dalla loro ombra, osservandole quando la nostra ombra della stessa grandezza del nostro corpo. Visse insieme con Trasibulo tiranno dei Milesii, come dice Minias. nota poi la storiella del tripode rinvenuto dai pescatori e inviato successivamente a ciascuno dei sapienti dal popolo dei Milesii.
+
+=== I,28 (Book 1) ===
+φασὶ γὰρ Ἰωνικούς τινας νεανίσκους βόλον ἀγοράσαι παρὰ Μιλησίων ἁλιέων. ἀνασπασθέντος δὲ τοῦ τρίποδος ἀμφισβήτησις ἦν, ἕως οἱ Μιλήσιοι ἔπεμψαν εἰς Δελφούς˙ καὶ ὁ θεὸς ἔχρησεν οὕτως˙ἔκγονε Μιλήτου, τρίποδος πέρι Φοῖβον ἐρωτᾷς;τίς σοφίῃ πάντων πρῶτος, τούτου τρίποδ' αὐδῶ.διδοῦσιν οὖν Θαλῇ˙ ὁ δὲ ἄλλῳ καὶ ἄλλος ἄλλῳ ἕως Σόλωνος. ὁ δὲ ἔφη σοφίᾳ πρῶτον εἶναι τὸν θεὸν καὶ ἀπέστειλεν εἰς Δελφούς. ταῦτα δὴ ὁ Καλλίμαχος ἐν τοῖς Ἰάμβοις ἄλλως ἱστορεῖ, παρὰΜαιανδρίουλαβὼν τοῦ Μιλησίου. Βαθυκλέα γάρ τινα Ἀρκάδα φιάλην καταλιπεῖν καὶ ἐπισκῆψαι δοῦναι τῶν σοφῶν ὀνηΐστῳ. ἐδόθη δὴ Θαλῇ καὶ κατὰ περίοδον πάλιν Θαλῇ˙ ἔκγονε Μιλήτου, τρίποδος πέρι Φοῖβον ἐρωτᾷς; τίς σοφίῃ πάντων πρῶτος, τούτου τρίποδ' αὐδῶ. διδοῦσιν οὖν Θαλῇ˙ ὁ δὲ ἄλλῳ καὶ ἄλλος ἄλλῳ ἕως Σόλωνος. ὁ δὲ ἔφη σοφίᾳ πρῶτον εἶναι τὸν θεὸν καὶ ἀπέστειλεν εἰς Δελφούς. ταῦτα δὴ ὁ Καλλίμαχος ἐν τοῖς Ἰάμβοις ἄλλως ἱστορεῖ, παρὰΜαιανδρίουλαβὼν τοῦ Μιλησίου. Βαθυκλέα γάρ τινα Ἀρκάδα φιάλην καταλιπεῖν καὶ ἐπισκῆψαι δοῦναι τῶν σοφῶν ὀνηΐστῳ. ἐδόθη δὴ Θαλῇ καὶ κατὰ περίοδον πάλιν Θαλῇ˙ Μαιανδρίου
+
+=== I,28it (Book 1) ===
+Prole di Mileto, interroghi Febo sul tripode? Proclamo che esso sia di chi su tutti primeggia per sapienza. Lo danno dunque a Talete; egli ad un altro e questo ad un altro ancora, finché giunse a Solone. Ma Solone disse che il dio primeggia su tutti per sapienza e lo inviò a Delfi. Callimaco accoglie nei suoiGiambiuna tradizione diversa, la cui fonte Meandrio di Mileto, secondo la quale un tal arcade Baticle aveva lasciato una coppa col mandato di darla al più degno dei sapienti. E fu data a Talete e, dopo che ebbe fatto il giro, di nuovo a Talete.
+
+=== I,29 (Book 1) ===
+Θαλῆς με τῷ μεδεῦντι Νείλεω δήμου δίδωσι, τοῦτο δὶς λαβὼν ἀριστεῖον. τὸ δὲ πεζὸν οὕτως ἔχει˙ Θαλῆς Ἐξαμύου Μιλήσιος Ἀπόλλωνι Δελφινίῳ Ἑλλήνων ἀριστεῖον δὶς λαβών. ὁ δὲ περιενεγκὼν τὴν φιάλην τοῦ Βαθυκλέους παῖς Θυρίων ἐκαλεῖτο, καθά φησιν Ἔλευσις ἐν τῷ Περὶ Ἀχιλλέως καὶ Ἀλέξων ὁ Μύνδιος ἐν ἐνάτῳ Μυθικῶν.Εὔδοξος δ' ὁ Κνίδιος καὶ Εὐάνθης ὁ Μιλήσιός φασι τῶν Κροίσου τινὰ φίλων λαβεῖν παρὰ τοῦ βασιλέως ποτήριον χρυσοῦν, ὅπως δῷ τῷ σοφωτάτῳ τῶν Ἑλλήνων˙ τὸν δὲ δοῦναι Θαλῇ. Εὔδοξος δ' ὁ Κνίδιος καὶ Εὐάνθης ὁ Μιλήσιός φασι τῶν Κροίσου τινὰ φίλων λαβεῖν παρὰ τοῦ βασιλέως ποτήριον χρυσοῦν, ὅπως δῷ τῷ σοφωτάτῳ τῶν Ἑλλήνων˙ τὸν δὲ δοῦναι Θαλῇ.
+
+=== I,29it (Book 1) ===
+Me che due volte ricevé, premio sovrano, Talete offre al signore del popolo di Nileo. Ed in prosa così: Talete, figlio di Essamias, Milesio, ad Apollo Delfinio, dopo averla ottenuta due volte, premio supremo dei Greci. Il figlio di Baticle che portò in giro la coppa si chiamava Tirione, come attesta Eleusi nel libroDi Achilleed Alessone di Mindo nel nono libroDei miti. Eudosso di Cnido ed Euante di Mileto narrano che uno degli amici di Creso ricevette dal re una coppa d'oro per consegnarla al più sapiente dei Greci;
+
+=== I,30 (Book 1) ===
+Καὶ περιελθεῖν εἰς Χίλωνα, ὃν πυνθάνεσθαι τοῦ Πυθίου τίς αὑτοῦ σοφώτερος˙ καὶ τὸνἀνειλεῖνΜύσωνα, περὶ οὗ λέξομεν.(τοῦτον οἱ περὶ τὸν Εὔδοξον ἀντὶ Κλεοβούλου τιθέασι, Πλάτων δ' ἀντὶ Περιάνδρου). περὶ αὐτοῦ δὴ τάδεἀνεῖλενὁ Πύθιος˙Οἰταῖόν τινα φημὶ Μύσων'ἐνὶΧηνὶ γενέσθαισοῦ μᾶλλον πραπίδεσσιν ἀρηρότα πευκαλίμῃσιν.ὁ δ' ἐρωτήσας ἦν Ἀνάχαρσις. Δαΐμαχος δ' ὁΠλατωνικὸςκαὶ Κλέαρχος φιάλην ἀποσταλῆναι ὑπὸ Κροίσου Πιττακῷ καὶ οὕτω περιενεχθῆναι.Ἄνδρων δ' ἐν τῷ Τρίποδι Ἀργείους ἆθλον ἀρετῆς τῷ σοφωτάτῳ τῶν Ἑλλήνων τρίποδα θεῖναι˙ κριθῆναι δὲ Ἀριστόδημον Σπαρτιάτην, ὃν παραχωρῆσαι Χίλωνι. Οἰταῖόν τινα φημὶ Μύσων'ἐνὶΧηνὶ γενέσθαι σοῦ μᾶλλον πραπίδεσσιν ἀρηρότα πευκαλίμῃσιν. καὶ Κλέαρχος φιάλην ἀποσταλῆναι ὑπὸ Κροίσου Πιττακῷ καὶ οὕτω περιενεχθῆναι. Ἄνδρων δ' ἐν τῷ Τρίποδι Ἀργείους ἆθλον ἀρετῆς τῷ σοφωτάτῳ τῶν Ἑλλήνων τρίποδα θεῖναι˙ κριθῆναι δὲ Ἀριστόδημον Σπαρτιάτην, ὃν παραχωρῆσαι Χίλωνι. ἀνειλεῖν ἀνεῖλεν ἐνὶ Πλατωνικὸς
+
+=== I,30it (Book 1) ===
+(Questo, Eudosso ed i suoi seguaci pongono in vece di Cleobulo, Platone pone in vece di Periandro). L'oracolo del Pitio questo: Uno di Eta, io dico, Misone, nato in Chene che più di te ha la mente fisa alla saggezza. Chi aveva interrogato era Anacarsi. Daimaco il platonico e Clearco dicono che la coppa fu mandata da Creso a Pittaco e così fu portata in giro. Androne nelTripodedice che gli Argivi posero come premio della virtù al più sapiente dei Greci un tripode; fu giudicato il più sapiente lo spartano Aristodemo, che poi lo cedette a Chilone.
+
+=== I,31 (Book 1) ===
+μέμνηται τοῦ Ἀριστοδήμου καὶ Ἀλκαῖος οὕτως˙ὠςγὰρ δή ποτ' Ἀριστόδαμόνφασ' οὐκ ἀπάλαμνον ἐν Σπάρτᾳ λόγον εἰπεῖν˙ χρήματ' ἄνηρ, πένιχρος δ'οὐδεὶςπέλετ' ἔσλος. ἔνιοι δέ φασιν ὑπὸ Περιάνδρου Θρασυβούλῳ τῷ Μιλησίων τυράννῳ πλοῖον ἔμφορτον ἀποσταλῆναι˙ τοῦ δὲ περὶ τὴν Κῴαν θάλασσαν ναυαγήσαντος, ὕστερον εὑρεθῆναι πρός τινωνἁλιέωντὸν τρίποδα. Φανόδικος δὲ περὶ τὴν Ἀθηναίων θάλασσαν εὑρεθῆναι καὶ ἀνενεχθέντα εἰς ἄστυ γενομένης ἐκκλησίας Βίαντι πεμφθῆναι˙ διὰ τί δέ, ἐν τῷ περὶ Βίαντος λέξομεν. ὠς φασ εἰπεῖν οὐδεὶς ἁλιέων
+
+=== I,31it (Book 1) ===
+si ricorda così di Aristodemo: Così una volta, dicono, Aristodemo in Sparta parole accorte disse: «Danaro, danaro l'uomo, nessun povero divenne famoso». Alcuni dicono che una nave carica fu inviata da Periandro a Trasibulo tiranno di Mileto e che naufragò nel mare di Coo; successivamente da alcuni pescatori fu rinvenuto il tripode. Fanodico dice che fu rinvenuto nel mare di Atene e portato in città; tenuta l'assemblea fu mandato a Biante, per la ragione che esporrò nellaVita di Biante.
+
+=== I,32 (Book 1) ===
+Ἄλλοι φασὶν ἡφαιστότευκτον εἶναι αὐτὸν καὶ δοθῆναι πρὸς τοῦ θεοῦ Πέλοπι γαμοῦντι˙ αὖθίς τε εἰς Μενέλαον ἐλθεῖν καὶ σὺν τῇ Ἑλένῃ ἁρπασθέντα ὑπ' Ἀλεξάνδρου ῥιφῆναι εἰς τὴν Κῴαν θάλασσαν πρὸς τῆς Λακαίνης, εἰπούσης ὅτι περιμάχητος ἔσται. χρόνῳ δὲ Λεβεδίων τινῶν αὐτόθιγρῖφονὠνησαμένων καταληφθῆναι καὶ τὸν τρίποδα, μαχομένων δὲ πρὸς τοὺς ἁλιέας γενέσθαι τὴν ἄνοδον ἕως τῆς Κῶ˙ καὶ ὡς οὐδὲν ἤνυτον, τοῖς Μιλησίοις μητροπόλει οὔσῃ μηνύουσιν. οἱ δ' ἐπειδὴ διαπρεσβευόμενοι ἠλογοῦντο, πρὸς τοὺς Κῴους πολεμοῦσι. καὶ πολλῶν ἑκατέρωθεν πιπτόντων ἐκπίπτει χρησμὸς δοῦναι τῷ σοφωτάτῳ˙ καὶ ἀμφότεροι συνῄνεσαν Θαλῇ. ὁ δὲ μετὰ τὴν περίοδον τῷ Διδυμεῖ τίθησιν Ἀπόλλωνι. γρῖφον
+
+=== I,33 (Book 1) ===
+Κῴοις μὲν οὖν τοῦτον ἐχρήσθη τὸν τρόπον˙οὐ πρότερον λήξει νεῖκος Μερόπων καὶ Ἰώνων,πρὶν τρίποδα χρύσειον, ὃν Ἥφαιστος βάλε πόντῳ,ἐκ πόλιος πέμψητε καὶ ἐς δόμον ἀνδρὸς ἵκηται,ὃςσοφὸςᾖ τά τ' ἐόντα τά τ' ἐσσόμενα πρό τ' ἐόντα.Μιλησίοις δέ˙ἔκγονε Μιλήτου, τρίποδος πέρι Φοῖβον ἐρωτᾷς;καὶ ὡς προείρηται. καὶ τόδε μὲν οὕτως.Ἕρμιππος δ' ἐν τοῖς Βίοις εἰς τοῦτον ἀναφέρει τὸ λεγόμενον ὑπό τινων περὶ Σωκράτους. ἔφασκε γάρ, φασί, τριῶν τούτων ἕνεκα χάριν ἔχειν τῇ Τύχῃ˙ πρῶτον μὲν ὅτι ἄνθρωπος ἐγενόμην καὶ οὐ θηρίον, εἶτα ὅτι ἀνὴρ καὶ οὐ γυνή, τρίτον ὅτι Ἕλλην καὶ οὐ βάρβαρος. οὐ πρότερον λήξει νεῖκος Μερόπων καὶ Ἰώνων, πρὶν τρίποδα χρύσειον, ὃν Ἥφαιστος βάλε πόντῳ, ἐκ πόλιος πέμψητε καὶ ἐς δόμον ἀνδρὸς ἵκηται, ὃςσοφὸςᾖ τά τ' ἐόντα τά τ' ἐσσόμενα πρό τ' ἐόντα. ἔκγονε Μιλήτου, τρίποδος πέρι Φοῖβον ἐρωτᾷς; καὶ ὡς προείρηται. καὶ τόδε μὲν οὕτως. Ἕρμιππος δ' ἐν τοῖς Βίοις εἰς τοῦτον ἀναφέρει τὸ λεγόμενον ὑπό τινων περὶ Σωκράτους. ἔφασκε γάρ, φασί, τριῶν τούτων ἕνεκα χάριν ἔχειν τῇ Τύχῃ˙ πρῶτον μὲν ὅτι ἄνθρωπος ἐγενόμην καὶ οὐ θηρίον, εἶτα ὅτι ἀνὴρ καὶ οὐ γυνή, τρίτον ὅτι Ἕλλην καὶ οὐ βάρβαρος. σοφὸς
+
+=== I,33it (Book 1) ===
+Non prima cesserà la contesa dei Meropi e dei Ioni che l'aureo tripode che Efesto gettò in mare, dalla città mandiate ed alla casa giunga dell'uomo, che il presente, il futuro, il passato conosce e disvela. Ai Milesii, come si detto innanzi: Prole di Mileto, per il tripode interroghi Febo? Di ciò basti. Ermippo nelleVitegli attribuisce ciò che da alcuni detto di Socrate. Si tramanda che era solito dire di essere grato alla Sorte per questi tre motivi: «Primo perché nacqui uomo e non bestia; secondo perché uomo e non donna; terzo perché greco e non barbaro».
+
+=== I,34 (Book 1) ===
+λέγεται δ' ἀγόμενος ὑπὸ γραὸς ἐκ τῆς οἰκίας, ἵνα τὰ ἄστρα κατανοήσῃ, εἰς βόθρον ἐμπεσεῖν καὶ αὐτῷ ἀνοιμώξαντι φάναι τὴν γραῦν˙ "σὺ γάρ, ὦ Θαλῆ, τὰ ἐν ποσὶν οὐ δυνάμενος ἰδεῖν τὰ ἐπὶ τοῦ οὐρανοῦ οἴει γνώσεσθαι;" οἶδε δ' αὐτὸν ἀστρονομούμενον καὶ Τίμων, καὶ ἐν τοῖς Σίλλοις ἐπαινεῖ αὐτὸν λέγων˙οἷόν θ' ἑπτὰ Θάλητα σοφῶν σοφὸν ἀστρονόμημα.Τὰ δὲ γεγραμμένα ὑπ' αὐτοῦ φησι Λόβων ὁ Ἀργεῖος εἰς ἔπη τείνειν διακόσια. ἐπιγεγράφθαι δ' αὐτοῦ ἐπὶ τῆς εἰκόνος τόδε˙τόνδε Θαλῆν Μίλητος Ἰὰς θρέψασ' ἀνέδειξενἀστρολόγον πάντων πρεσβύτατονσοφίᾳ. οἷόν θ' ἑπτὰ Θάλητα σοφῶν σοφὸν ἀστρονόμημα. Τὰ δὲ γεγραμμένα ὑπ' αὐτοῦ φησι Λόβων ὁ Ἀργεῖος εἰς ἔπη τείνειν διακόσια. ἐπιγεγράφθαι δ' αὐτοῦ ἐπὶ τῆς εἰκόνος τόδε˙τόνδε Θαλῆν Μίλητος Ἰὰς θρέψασ' ἀνέδειξενἀστρολόγον πάντων πρεσβύτατονσοφίᾳ. τόνδε Θαλῆν Μίλητος Ἰὰς θρέψασ' ἀνέδειξεν ἀστρολόγον πάντων πρεσβύτατονσοφίᾳ. σοφίᾳ
+
+=== I,34it (Book 1) ===
+Tale fu Talete, fra i Sette Sapienti, portento nell'astronomia. Lobone Argivo attesta che la sua opera si estendeva per duecento versi. Sulla sua statua erano stati scritti questi versi: Mileto di Ionia nutrì e rivelò questo Talete, astrologo fra tutti il più antico per sapienza.
+
+=== I,35 (Book 1) ===
+Τῶν τε ᾳδομένων αὐτοῦ εἶναι τάδε˙οὔ τι τὰ πολλὰ ἔπη φρονίμην ἀπεφήνατο δόξαν˙ἕν τι μάτευε σοφόν,ἕν τι κεδνὸν αἱροῦ˙δήσειςγὰρ ἀνδρῶν κωτίλων γλώσσας ἀπεραντολόγους.Φέρεται δὲ καὶ ἀποφθέγματα αὐτοῦ τάδε˙πρεσβύτατον τῶν ὄντων θεός˙ ἀγένητον γάρ.κάλλιστον κόσμος˙ ποίημα γὰρ θεοῦ.μέγιστον τόπος˙ ἅπαντα γὰρ χωρεῖ.τάχιστον νοῦς˙ διὰ παντὸς γὰρ τρέχει.ἰσχυρότατον ἀνάγκη˙ κρατεῖ γὰρ πάντων.σοφώτατον χρόνος˙ ἀνευρίσκει γὰρ πάντα.οὐδὲν ἔφη τὸν θάνατον διαφέρειν τοῦ ζῆν. "σὺ οὖν," ἔφη τις, "διὰ τί οὐκ ἀποθνήσκεις;" "ὅτι," ἔφη, "οὐδὲν διαφέρει." οὔ τι τὰ πολλὰ ἔπη φρονίμην ἀπεφήνατο δόξαν˙ ἕν τι μάτευε σοφόν, ἕν τι κεδνὸν αἱροῦ˙ δήσειςγὰρ ἀνδρῶν κωτίλων γλώσσας ἀπεραντολόγους. Φέρεται δὲ καὶ ἀποφθέγματα αὐτοῦ τάδε˙ πρεσβύτατον τῶν ὄντων θεός˙ ἀγένητον γάρ. κάλλιστον κόσμος˙ ποίημα γὰρ θεοῦ. μέγιστον τόπος˙ ἅπαντα γὰρ χωρεῖ. τάχιστον νοῦς˙ διὰ παντὸς γὰρ τρέχει. ἰσχυρότατον ἀνάγκη˙ κρατεῖ γὰρ πάντων. σοφώτατον χρόνος˙ ἀνευρίσκει γὰρ πάντα. οὐδὲν ἔφη τὸν θάνατον διαφέρειν τοῦ ζῆν. "σὺ οὖν," ἔφη τις, "διὰ τί οὐκ ἀποθνήσκεις;" "ὅτι," ἔφη, "οὐδὲν διαφέρει." δήσεις
+
+=== I,35it (Book 1) ===
+Mai molte parole mostrano prudente opinione: una sola saggezza tu cerca, un solo bene scegli; così degli uomini loquaci le lingue ciarliere farai tacere. Di lui si tramandano pure queste sentenze: dio l'essere più antico; infatti increato. La cosa più bella l'universo, ché opera di dio. La cosa più grande lo spazio, ché il tutto abbraccia. La cosa più veloce la mente, ché per il tutto corre. La cosa più forte la necessità, ché domina su tutto. La cosa più saggia il tempo, ché tutto rinviene. Era solito dire che in nulla la morte differisce dalla vita. «E tu allora perché non muori?» gli si diceva; la sua risposta era: «Perché non vi differenza».
+
+=== I,36 (Book 1) ===
+πρὸς τὸν πυθόμενον τί πρότερον γεγόνοι, νὺξ ἢ ἡμέρα, "ἡ νύξ," ἔφη, "μιᾷ ἡμέρᾳ πρότερον." ἠρώτησέ τις αὐτὸν εἰλήθοιθεοὺς ἄνθρωπος ἀδικῶν˙ "ἀλλ' οὐδὲ διανοούμενος," ἔφη. πρὸς τὸν μοιχὸν ἐρόμενον εἰὀμόσειεμὴ μεμοιχευκέναι, "οὐ χεῖρον," ἔφη, "μοιχείας ἐπιορκία." ἐρωτηθεὶς τί δύσκολον, ἔφη, "τὸ ἑαυτὸν γνῶναι˙" τί δὲ εὔκολον, "τὸ ἄλλῳ ὑποθέσθαι˙" τί ἥδιστον, "τὸ ἐπιτυγχάνειν˙" τί τὸ θεῖον, "τὸ μήτε ἀρχὴν ἔχον μήτε τελευτήν."τί δὲ καινὸνεἴη τεθεαμένος ἔφη, "γέροντα τύραννον." πῶς ἄν τις ἀτυχίαν ῥᾷστα φέροι, "εἰ τοὺς ἐχθροὺς χεῖρον πράσσοντας βλέποι˙" πῶς ἂν ἄριστα καὶ δικαιότατα βιώσαιμεν, "ἐὰν ἃ τοῖς ἄλλοις ἐπιτιμῶμεν, αὐτοὶ μὴ δρῶμεν˙" λήθοι ὀμόσειε τί δὲ καινὸν
+
+=== I,37 (Book 1) ===
+τίς εὐδαίμων, "ὁ τὸ μὲν σῶμα ὑγιής, τὴν δὲ ψυχὴν εὔπορος, τὴν δὲ φύσιν εὐπαίδευτος." φίλων παρόντων καὶ ἀπόντων μεμνῆσθαί φησι˙ μὴ τὴν ὄψιν καλλωπίζεσθαι, ἀλλὰ τοῖς ἐπιτηδεύμασιν εἶναι καλόν. "μὴ πλούτει," φησί, "κακῶς, μηδὲ διαβαλλέτω σε λόγος πρὸς τοὺς πίστεως κεκοινωνηκότας." "οὓς ἂν ἐράνους εἰσενέγκῃς," φησί, "τοῖςγονεῦσιν, τοὺς αὐτοὺς προσδέχου καὶ παρὰ τῶν τέκνων." τὸν Νεῖλον εἶπε πληθύειν ἀνακοπτομένων τῶν ῥευμάτων ὑπὸ τῶν ἐτησίων ἐναντίων ὄντων. Φησὶ δ' Ἀπολλόδωρος ἐν τοῖς Χρονικοῖς γεγενῆσθαι αὐτὸν κατὰ τὸ πρῶτον ἔτος τῆς τριακοστῆςπέμπης ἐνάτης Ὀλυμπιάδος. γονεῦσιν πέμπης ἐνάτης
+
+=== I,37it (Book 1) ===
+Apollodoro nella suaCronologiadice che Talete nacque nel primo anno della XXXV Olimpiade.
+
+=== I,38 (Book 1) ===
+ἐτελεύτησε δ' ἐτῶν ἑβδομήκοντα ὀκτώ, ἤ, ὡς Σωσικράτης φησίν, ἐνενήκοντα τελευτῆσαι γὰρ ἐπὶ τῆς πεντηκοστῆς ὀγδόης Ὀλυμπιάδος, γεγονότα κατὰ Κροῖσον, ᾧ καὶ τὸν Ἅλυν ὑποσχέσθαι ἄνευ γεφύρας περᾶσαι, τὸ ῥεῖθρον παρατρέψαντα. Γεγόνασι δὲ καὶ ἄλλοι Θαλαῖ, καθά φησι Δημήτριος ὁ Μάγνης ἐν τοῖς Ὁμωνύμοις, πέντε˙ ῥήτωρ Καλλατιανός, κακόζηλος˙ζωγράφος Σικυώνιος, μεγαλοφυής˙τρίτος ἀρχαῖος πάνυ, κατὰ Ἡσίοδον καὶ Ὅμηρον καὶ Λυκοῦργον˙τέταρτος οὗ μέμνηται Δοῦρις ἐν τῷ Περὶ ζωγραφίας˙πέμπτος νεώτερος, ἄδοξος, οὗ μνημονεύει Διονύσιος ἐν Κριτικοῖς.
+
+=== I,38it (Book 1) ===
+a novanta: morì infatti nella LVIII Olimpiade: visse sotto Creso, a cui promise di fargli attraversare il fiume Alis senza ponte, dopo aver deviato la corrente. Vi furono anche altri col nome di Talete; secondo Demetrio di Magnesia negliOmonimi, cinque: I. un retore di Callatis, affettato e di cattivo gusto; II. un altro di Sicione, pittore magnanimo; III. antichissimo, contemporaneo di Esiodo, Omero e Licurgo; IV. menzionato da Duride nella sua operaSulla pittura; V. recente ed oscuro, ricordato da Dionisio nei suoiSaggi critici.
+
+=== I,39 (Book 1) ===
+Ὁ δ' οὖν σοφὸς ἐτελεύτησεν ἀγῶνα θεώμενος γυμνικὸν ὑπό τε καύματος καὶ δίψους καὶ ἀσθενείας, ἤδη γηραιός. καὶ αὐτοῦ ἐπιγέγραπται τῷ μνήματι˙ἦ ὀλίγον τόδεσᾶμα -τὸ δὲ κλέος οὐρανόμηκες-τῶ πολυφροντίστωτοῦτο Θάλητος ὅρη.ἔστι καὶ παρ' ἡμῖν ἐς αὐτὸν ἐν τῷ πρώτῳ τῶν Ἐπιγραμμάτων ἢ Παμμέτρῳ τόδε τὸ ἐπίγραμμα˙γυμνικὸν αὖ ποτ' ἀγῶνα θεώμενον,ἠέλιεΖεῦ,τὸν σοφὸν ἄνδρα Θαλῆν ἥρπασας ἐκ σταδίου.αἰνέω ὅττι μιν ἐγγὺς ἀπήγαγες˙ ἦ γὰρ ὁ πρέσβυςοὐκέθ' ὁρᾶν ἀπὸ γῆς ἀστέρας ἠδύνατο. ἦ ὀλίγον τόδεσᾶμα -τὸ δὲ κλέος οὐρανόμηκες- τῶ πολυφροντίστωτοῦτο Θάλητος ὅρη. γυμνικὸν αὖ ποτ' ἀγῶνα θεώμενον,ἠέλιεΖεῦ, τὸν σοφὸν ἄνδρα Θαλῆν ἥρπασας ἐκ σταδίου. αἰνέω ὅττι μιν ἐγγὺς ἀπήγαγες˙ ἦ γὰρ ὁ πρέσβυς οὐκέθ' ὁρᾶν ἀπὸ γῆς ἀστέρας ἠδύνατο. σᾶμα τῶ πολυφροντίστω ἠέλιε
+
+=== I,39it (Book 1) ===
+Πάμμετρος
+---
+Ecco, questo piccolo tumulo che vedi del saggissimo Talete, la cui gloria altissima si leva nel cielo. V'è anche un nostro epigramma a lui dedicato nel primo degliEpigrammioLibro di metri di ogni sorta( Eccolo: Il saggio Talete rapisti dallo stadio, o Elio Zeus, mentre ad un ginnico agone assisteva. Ti lodo per averlo condotto vicino; ché il vecchio ormai più non poteva vedere dalla terra gli astri.
+
+=== I,40 (Book 1) ===
+Τούτουἐστὶντὸ Γνῶθι σαυτόν, ὅπερ Ἀντισθένης ἐν ταῖς Διαδοχαῖς Φημονόης εἶναί φησιν, ἐξιδιοποιήσασθαι δὲ αὐτὸ Χίλωνα.Περὶ δὴ τῶν ἑπτά-ἄξιον γὰρ ἐνταῦθα καθολικῶς κἀκείνων ἐπιμνησθῆναι-λόγοι φέρονται τοιοῦτοι. Δάμων ὁ Κυρηναῖος, γεγραφὼς Περὶ τῶν φιλοσόφων, πᾶσιν ἐγκαλεῖ, μάλιστα δὲ τοῖς ἑπτά. Ἀναξιμένης δέ φησι πάντας ἐπιθέσθαι ποιητικῇ˙ ὁ δὲ Δικαίαρχος οὔτε σοφοὺς οὔτε φιλοσόφους φησὶν αὐτοὺς γεγονέναι, συνετοὺς δέ τινας καὶ νομοθετικούς. Ἀρχέτιμος δὲ ὁ Συρακούσιος ὁμιλίαν αὐτῶν ἀναγέγραφε παρὰ Κυψέλῳ, ᾗ καὶ αὐτός φησι παρατυχεῖν˙ Ἔφορος δὲ παρὰ Κροίσῳ πλὴν Θαλοῦ. φασὶ δέ τινες καὶ ἐν Πανιωνίῳ καὶ ἐν Κορίνθῳ καὶ ἐν Δελφοῖς συνελθεῖν αὐτούς. Περὶ δὴ τῶν ἑπτά-ἄξιον γὰρ ἐνταῦθα καθολικῶς κἀκείνων ἐπιμνησθῆναι-λόγοι φέρονται τοιοῦτοι. Δάμων ὁ Κυρηναῖος, γεγραφὼς Περὶ τῶν φιλοσόφων, πᾶσιν ἐγκαλεῖ, μάλιστα δὲ τοῖς ἑπτά. Ἀναξιμένης δέ φησι πάντας ἐπιθέσθαι ποιητικῇ˙ ὁ δὲ Δικαίαρχος οὔτε σοφοὺς οὔτε φιλοσόφους φησὶν αὐτοὺς γεγονέναι, συνετοὺς δέ τινας καὶ νομοθετικούς. Ἀρχέτιμος δὲ ὁ Συρακούσιος ὁμιλίαν αὐτῶν ἀναγέγραφε παρὰ Κυψέλῳ, ᾗ καὶ αὐτός φησι παρατυχεῖν˙ Ἔφορος δὲ παρὰ Κροίσῳ πλὴν Θαλοῦ. φασὶ δέ τινες καὶ ἐν Πανιωνίῳ καὶ ἐν Κορίνθῳ καὶ ἐν Δελφοῖς συνελθεῖν αὐτούς. ἐστὶν
+
+=== I,40it (Book 1) ===
+nelleSuccessioni dei filosofilo attribuisce a Femonoe, ma dice che se ne appropriò Chilone. Intorno ai Sette Sapienti vale la pena che qui accenni anche a loro in linea generale si tramandano tali discorsi. Damone di Cirene, che ha scrittoDei filosofi, critica tutti i sapienti, ma specialmente i Sette. Anassimene dice che attesero tutti alla poesia; Dicearco afferma che non furono né sapienti né filosofi, ma uomini di senno pratico e legislatori. Archetimo di Siracusa riferì di un loro incontro presso Cipselo, cui egli dice di aver partecipato. Eforo riferisce che i sapienti, eccetto Talete, si diedero convegno alla corte di Creso. Altri dicono nel Panionio, e in Corinto e in Delfi.
+
+=== I,41 (Book 1) ===
+διαφωνοῦνται δὲ καὶ αἱ ἀποφάσεις αὐτῶν καὶ ἄλλου ἄλλοφασίν, ὡς ἐκεῖνο˙ ἦν Λακεδαιμόνιος Χίλων σοφός, ὃς τάδ' ἔλεξε˙ μηδὲν ἄγαν˙ καιρῷ πάντα πρόσεστι καλά. στασιάζεται δὲ καὶ περὶ τοῦ ἀριθμοῦ αὐτῶν.Μαιάνδριοςμὲν γὰρ ἀντὶ Κλεοβούλου καὶ Μύσωνος ΛεώφαντονΓοργιάδα, Λεβέδιον ἢ Ἐφέσιον, ἐγκρίνει καὶ Ἐπιμενίδην τὸν Κρῆτα˙ Πλάτων δὲ ἐν Πρωταγόρᾳ Μύσωνα ἀντὶ Περιάνδρου˙ Ἔφορος δὲ ἀντὶ Μύσωνος Ἀνάχαρσιν˙ οἱ δὲ καὶ Πυθαγόραν προσγράφουσιν. Δικαίαρχος δὲ τέσσαρας ὡμολογημένους ἡμῖν παραδίδωσι, Θαλῆν, Βίαντα, Πιττακόν, Σόλωνα. ἄλλους δὲ ὀνομάζει ἕξ, ὧν ἐκλέξασθαι τρεῖς, Ἀριστόδημον, Πάμφυλον, Χίλωνα Λακεδαιμόνιον, Κλεόβουλον, Ἀνάχαρσιν, Περίανδρον. ἔνιοι προστιθέασιν Ἀκουσίλαον Κάβα ἢ Σκάβρα Ἀργεῖον. φασίν Μαιάνδριος Γοργιάδα
+
+=== I,41it (Book 1) ===
+Fu il sapiente spartano Chilone che affermò: «Nessun eccesso: tutto quanto opportuno bello». Anche sul loro numero non si d'accordo. Meandrio pone, al posto di Cleobulo e di Misone, Leofanto figlio di Gorgiade, Lebedio detto anche Efesio ed Epimenide Cretese; Platone nelProtagora Misone in vece di Periandro; Eforo Anacarsi in vece di Misone; altri ancora aggiungono Pitagora. Dicearco ci tramanda quattro sapienti col consenso di tutti, Talete, Biante, Pittaco, Solone. Ne nomina altri sei dei quali tre se ne devono scegliere cioè Aristodemo, Panfilo, Chilone Spartano, Cleobulo, Anacarsi, Periandro. Alcuni aggiungono Acusilao figlio di Caba o Scabra, di Argo.
+
+=== I,42 (Book 1) ===
+Ἕρμιππος δ' ἐν τῷ Περὶ τῶν σοφῶν ἑπτακαίδεκά φησιν, ὧν τοὺς ἑπτὰ ἄλλους ἄλλως αἱρεῖσθαι˙ εἶναι δὲ Σόλωνα, Θαλῆν, Πιττακόν, Βίαντα, Χίλωνα, 〈Μύσωνα,〉 Κλεόβουλον, Περίανδρον, Ἀνάχαρσιν, Ἀκουσίλαον, Ἐπιμενίδην, Λεώφαντον, Φερεκύδην, Ἀριστόδημον, Πυθαγόραν, Λᾶσον Χαρμαντίδου ἢ Σισυμβρίνου, ἢ ὡς Ἀριστόξενος Χαβρίνου,Ἑρμιονέα, Ἀναξαγόραν. Ἱππόβοτος δὲ ἐν τῇ Τῶν φιλοσόφων ἀναγραφῇ˙ Ὀρφέα, Λίνον, Σόλωνα, Περίανδρον, Ἀνάχαρσιν, Κλεόβουλον, Μύσωνα, Θαλῆν, Βίαντα, Πιττακόν, Ἐπίχαρμον, Πυθαγόραν. Φέρονται δὲ καὶ τοῦ Θαλοῦ ἐπιστολαὶ αἵδε˙ Θαλῆς Φερεκύδει
+
+=== I,42it (Book 1) ===
+nel libroDei sapientidice che furono diciassette, di cui i Sette sono variamente scelti; essi sono: Solone, Talete, Pittaco, Biante, Chilone, Misone, Cleobulo, Periandro, Anacarsi, Acusilao, Epimenide, Leofanto, Ferecide, Aristodemo, Pitagora, Laso figlio di Carmantida o di Sisimbrino o, come afferma Aristosseno, di Cabrino, della città di Ermione, Anassagora. Ippoboto nella suaLista dei filosofi: Orfeo, Lino, Solone, Periandro, Anacarsi, Cleobulo, Misone, Talete, Biante, Pittaco, Epicarmo Pitagora. Di Talete si tramandano queste epistole. Talete a Ferecide.
+
+=== I,43 (Book 1) ===
+"Πυνθάνομαί σε πρῶτον Ἰώνων μέλλειν λόγους ἀμφὶ τῶν θείων χρημάτων ἐς τοὺς Ἕλληνας φαίνειν. καὶ τάχα μὲν ἡ γνώμη τοι δικαίη ἐς τὸ ξυνὸν καταθέσθαι γραφὴν ἢ ἐφ' ὁποιοισοῦν ἐπιτρέπειν χρῆμα ἐς οὐδὲν ὄφελος. εἰ δή τοι ἥδιον, ἐθέλω γενέσθαι λεσχηνώτης περὶ ὁτέων γράφεις˙ καὶ ἢν κελεύῃς, παρὰ σὲ ἀφίξομαι ἐς Σῦρον. ἦ γὰρ ἂνοὐφρενήρεες εἴημεν ἐγώ τε καὶ Σόλων ὁ Ἀθηναῖος, εἰ πλώσαντες μὲν ἐς Κρήτην κατὰ τὴν τῶν κεῖθι ἱστορίην, πλώσαντες δὲ ἐς Αἴγυπτον ὁμιλήσοντες τοῖςἐκεῖὅσοι ἱερέες τε καὶ ἀστρολόγοι, παρὰ σὲ δὲ μὴ ἥξει γὰρ καὶ ὁ Σόλων, ἢν ἐπιτρέπῃς. οὐ ἐκεῖ πλώσαιμεν
+
+=== I,44 (Book 1) ===
+σὺ μέντοι χωροφιλέων ὀλίγα φοιτέεις ἐς Ἰωνίην, οὐδέ σε ποθὴ ἴσχει ἀνδρῶν ξείνων˙ ἀλλά, ὡς ἔλπομαι, ἑνὶ μούνῳ χρήματι πρόσκεαι τῇ γραφῇ. ἡμέες δὲ οἱ μηδὲν γράφοντες περιχωρέομεν τήν τε Ἑλλάδα καὶ Ἀσίην."Θαλῆς Σόλωνι"Ὑπαποστὰς ἐξ Ἀθηνέων δοκέεις ἄν μοι ἁρμοδιώτατα ἐν Μιλήτῳ οἶκον ποιέεσθαι παρὰ τοῖς ἀποίκοις ὑμέων˙ καὶ γὰρ ἐνθαῦτά τοι δεινὸν οὐδέν. εἰ δὲ ἀσχαλήσεις ὅτι καὶ Μιλήσιοι τυραννεόμεθα-ἐχθαίρεις γὰρπάνταςαἰσυμνήτας-ἀλλὰτέρποι'ἂν σὺν τοῖς ἑτάροις ἡμῖν καταβιούς. ἐπέστειλε δέ τοι καὶ Βίης ἥκειν ἐς Πριήνην˙ σὺ δὲ εἰ προσηνέστερόν τοι τὸ Πριηνέων ἄστυ, κεῖθι οἰκέειν, καὶ αὐτοὶ παρὰ σὲ οἰκήσομεν." Θαλῆς Σόλωνι "Ὑπαποστὰς ἐξ Ἀθηνέων δοκέεις ἄν μοι ἁρμοδιώτατα ἐν Μιλήτῳ οἶκον ποιέεσθαι παρὰ τοῖς ἀποίκοις ὑμέων˙ καὶ γὰρ ἐνθαῦτά τοι δεινὸν οὐδέν. εἰ δὲ ἀσχαλήσεις ὅτι καὶ Μιλήσιοι τυραννεόμεθα-ἐχθαίρεις γὰρπάνταςαἰσυμνήτας-ἀλλὰτέρποι'ἂν σὺν τοῖς ἑτάροις ἡμῖν καταβιούς. ἐπέστειλε δέ τοι καὶ Βίης ἥκειν ἐς Πριήνην˙ σὺ δὲ εἰ προσηνέστερόν τοι τὸ Πριηνέων ἄστυ, κεῖθι οἰκέειν, καὶ αὐτοὶ παρὰ σὲ οἰκήσομεν." -ἐχθαίρεις γὰρπάνταςαἰσυμνήτας- ἐχθαίρεις γὰρ αἰσυμνήτας τέρποι'
+
+=== I,44it (Book 1) ===
+Talete a Solone. Se ti allontanerai da Atene a me pare che molto comodamente potresti sistemarti a Mileto, che vostra colonia; qui nulla ti sarà grave. Se ti sdegnerai perché anche noi Milesii siamo governati da un tiranno e tu odii ogni specie di tiranno potrai però egualmente godere di vivere con noi che ti siamo amici. Ti scrisse anche Biante invitandoti a Priene; se ti più grato vivere nella città di Priene, anche noi abiteremo presso di te.
+
+=== I,45 (Book 1) ===
+Κεφ. β'. Σόλων Ἐξηκεστίδου Σαλαμίνιος πρῶτον μὲν τὴν σεισάχθειαν εἰσηγήσατο Ἀθηναίοις˙ τὸ δὲ ἦν λύτρωσις σωμάτων τε καὶ κτημάτων. καὶ γὰρ ἐπὶ σώμασιν ἐδανείζοντο καὶ πολλοὶ δι' ἀπορίαν ἐθήτευον. ἑπτὰ δὴ ταλάντων ὀφειλομένων αὑτῷ πατρῴων συνεχώρησε πρῶτος καὶ τοὺς λοιποὺς τὸ ὅμοιον προὔτρεψε πρᾶξαι. καὶ οὗτος ὁ νόμος ἐκλήθη σεισάχθεια˙ φανερὸν δὲ διὰ τί. Ἔπειτα τοὺς λοιποὺς νόμους ἔθηκεν, οὓς μακρὸν ἂν εἴη διεξιέναι, καὶ ἐς τοὺς ἄξονας κατέθετο. Κεφ. β'. ΣΟΛΩΝ ΣΟΛΩΝ ΣΟΛΩΝ
+
+=== I,45it (Book 1) ===
+σεισάχθεια σεισάχθεια
+---
+Capitolo II SOLONE SOLONE Fu il primo che ideò e introdusse in Atene la ovvero il riscatto dei corpi e dei possessi. Ché impegnavano i loro corpi per ottenere un prestito e molti per estrema povertà divenivano servi (teti). Egli per primo rimise un debito di sette talenti trasmessogli dal padre e fu di esempio e di sprone perché gli altri facessero lo stesso. E questa legge fu chiamata e la ragione manifesta. Indi pose le altre leggi, che sarebbe lungo passare tutte in rassegna, e le fece iscrivere su tavole giranti su un perno.
+
+=== I,46 (Book 1) ===
+Τὸ δὲ μέγιστον, τῆς πατρίδος αὐτοῦ Σαλαμῖνος ἀμφισβητουμένης ὑπό τε Ἀθηναίων καὶ Μεγαρέων καὶ πολλάκις τῶν Ἀθηναίων ἐπταικότων ἐν τοῖς πολέμοις καὶ ψηφισαμένων εἴ τις ἔτι συμβουλεύσοι περὶ Σαλαμῖνος μάχεσθαι, θανάτῳ ζημιοῦσθαι, οὗτος μαίνεσθαι προσποιησάμενος καὶ στεφανωσάμενοςεἰσέπαισενεἰς τὴν ἀγοράν˙ ἔνθα τοῖς Ἀθηναίοις ἀνέγνωδιὰ κήρυκοςτὰ συντείνοντα περὶ Σαλαμῖνος ἐλεγεῖα καὶ παρώρμησεν αὐτούς. καὶ αὖθις πρὸς τοὺς Μεγαρέας ἐπολέμησαν καὶ ἐνίκων διὰ Σόλωνα. εἰσέπαισεν διὰ κήρυκος
+
+=== I,47 (Book 1) ===
+εἴην δὴ τότ' ἐγὼ Φολεγάνδριος ἢ Σικινίτης ἀντί γ' Ἀθηναίου, πατρίδ' ἀμειψάμενος˙ αἶψα γὰρ ἂν φάτις ἥδε μετ' ἀνθρώποισι γένοιτο˙ Ἀττικὸς οὗτος ἀνὴρ τῶν Σαλαμιναφετῶν. εἶτα˙ ἴομεν ἐς Σαλαμῖνα μαχησόμενοι περὶ νήσου ἱμερτῆς χαλεπόν τ' αἶσχος ἀπωσόμενοι. ἔπεισε δὲ αὐτοὺς καὶ τὴν ἐν Θρᾴκῃ Χερρόνησον προσκτήσασθαι. τάδε˙
+
+=== I,47it (Book 1) ===
+Veramente allora fossi io di Folegandro o di Sicino, non più ateniese, e cambiassi patria: ché sùbito fra gli uomini nascerebbe questa voce: «Quest'uomo dell'Attica di quelli che hanno abbandonato Salamina». E poi: Andiamo a Salamina, a combattere per l'isola del nostro desiderio, a rimuovere la dura vergogna. Indusse gli Ateniesi a conquistare pure il Chersoneso tracio.
+
+=== I,48 (Book 1) ===
+ἵνα δὲ μὴ δοκοίη βίᾳ μόνον, ἀλλὰ καὶ δίκῃ τὴν Σαλαμῖνα κεκτῆσθαι, ἀνασκάψας τινὰς τάφους ἔδειξε τοὺς νεκροὺς πρὸς ἀνατολὰς ἐστραμμένους, ὡς ἦν ἔθος θάπτειν Ἀθηναίοις˙ ἀλλὰ καὶ αὐτοὺς τοὺς τάφους πρὸς ἕω βλέποντας καὶ ἀπὸ τῶν δήμων τοὺς χρηματισμοὺς ἐγκεχαραγμένους, ὅπερ ἦν ἴδιον Ἀθηναίων. ἔνιοι δέ φασι καὶ ἐγγράψαι αὐτὸν εἰς τὸν κατάλογον τοῦ Ὁμήρου μετὰ τὸνΑἴας δ' ἐκ Σαλαμῖνος ἄγεν δυοκαίδεκα νῆας -στῆσε δ' ἄγων ἵν' Ἀθηναίων ἵσταντο φάλαγγες. Αἴας δ' ἐκ Σαλαμῖνος ἄγεν δυοκαίδεκα νῆας στῆσε δ' ἄγων ἵν' Ἀθηναίων ἵσταντο φάλαγγες.
+
+=== I,48it (Book 1) ===
+solo un atto di forza, ma pur anche sanzionata dal diritto, scavò alcune tombe e mostrò i cadaveri volti ad oriente, secondo il costume di seppellire ateniese, ma anche le stesse tombe volte ad oriente con incisi i nomi dei singoli demi, com'era proprio degli Ateniesi. Alcuni dicono che egli abbia aggiunto alCatalogodi Omero dopo il verso: Aiace da Salamina guidava dodici navi questo: Le guidò dov'eran accampate le falangi ateniesi.
+
+=== I,49 (Book 1) ===
+δείξει δὴ μανίην μὲν ἐμὴν βαιὸς χρόνος ἀστοῖς, δείξει, ἀληθείης ἐς μέσον ἐρχομένης. καὶ
+
+=== I,49it (Book 1) ===
+aspirava alla tirannide, per quanto poté lo impedì. Balzò nell'assemblea armato di lancia e di scudo, e non solo rivelò l'ingannevole proposito di Pisistrato, ma si dichiarò pronto a difendere la città. Il suo discorso fu questo: «Cittadini ateniesi, di alcuni io sono più saggio, di altri più coraggioso; più saggio di quanti non intendono l'insidia di Pisistrato; più coraggioso di quanti pur intendendola tacciono per paura». Ed i buleuti che parteggiavano per Pisistrato dicevano che Solone era pazzo, onde egli rispose con questi versi: Un tempo breve mostrerà ai cittadini la mia pazzia, la mostrerà al sopraggiungere della verità.
+
+=== I,50 (Book 1) ===
+ἐκ νεφέλης φέρεται χιόνος μένος ἠδὲ χαλάζης˙ βροντὴτ' ἐκ λαμπρῆς γίγνεται ἀστεροπῆς˙ ἀνδρῶν δ' ἐκ μεγάλων πόλις ὄλλυται˙ἐς δὲ μονάρχου δῆμος ἀϊδρίῃ δουλοσύνην ἔπεσεν. Ἤδη δὲ αὐτοῦ κρατοῦντος οὐ πείθων ἔθηκε τὰ ὅπλα πρὸ τοῦστρατηγείουκαὶ εἰπών, "ὦ πατρίς, βεβοήθηκά σοι καὶ λόγῳ καὶ ἔργῳ," ἀπέπλευσεν εἰς Αἴγυπτον καὶ εἰς Κύπρον, καὶ πρὸς Κροῖσον ἦλθεν, ὅτε καὶ ἐρωτηθεὶς ὑπ' αὐτοῦ, "τίς σοι δοκεῖ εὐδαίμων;" "Τέλλος," ἔφη, Ἀθηναῖος καὶ Κλέοβις καὶ Βίτων" καὶ τὰ θρυλούμενα. τ στρατηγείου
+
+=== I,50it (Book 1) ===
+Porta la nube forza di neve e di grandine; il fulgido lampo genera il tuono; per uomini grandi va in rovina la città; il popolo ignaro cade nel servile imperio d'un solo. Ma ormai Pisistrato era diventato potente e Solone fallì nel suo intento: depose allora le armi dinanzi al quartiere del generale e disse: «O patria, ti ho portato aiuto con la parola e con l'opera». Indi navigò verso l'Egitto e Cipro e giunse alla corte di Creso. Creso gli chiese: «Chi ti sembra felice?» E Solone rispose: «Tello ateniese, Cleobi e Bitone», ed altro ancora che la divulgazione ha reso famoso.
+
+=== I,51 (Book 1) ===
+καὶ
+
+=== I,51it (Book 1) ===
+σολοικίζειν
+---
+la natura li ha adornati di un fiorente splendore, infinitamente più bello». Di qui giunse in Cilicia e fondò una città che dal suo nome chiamò Soli; vi pose ad abitare alcuni Ateniesi che col tempo imbarbarirono la loro voce e furono detti solecizzanti e si chiamarono Solèi, a differenza di quelli di Cipro che si dicevano Sòlii. Quando ebbe notizia che Pisistrato si era ormai affermato quale tiranno, scrisse questi versi per gli Ateniesi:
+
+=== I,52 (Book 1) ===
+εἰ δὲ πεπόνθατε δεινὰ δι' ὑμετέρην κακότητα, μή τι θεοῖς τούτων μοῖραν ἐπαμφέρετε. αὐτοὶ γὰρ τούτους ηὐξήσατε, ῥύσια δόντες, καὶ διὰ ταῦτα κακὴνἴσχετεδουλοσύνην. ὑμέων δ' εἷς μὲν ἕκαστος ἀλώπεκος ἴχνεσι βαίνει, σύμπασιν δ' ὑμῖν κοῦφος ἔνεστι νόος. εἰς γὰρ γλῶσσαν ὁρᾶτε καὶ εἰςἔπη αἱμύλουἀνδρός, εἰς ἔργον δ' οὐδὲν γιγνόμενον βλέπετε. καὶ οὗτος μὲν ταῦτα. Πεισίστρατος δ' αὐτῷ φεύγοντι τοῦτον ἐπέστειλε τὸν τρόπον˙Πεισίστρατος Σόλωνι Πεισίστρατος Σόλωνι ἴσχετε ἔπη αἱμύλου
+
+=== I,52it (Book 1) ===
+non imputate questo destino agli dèi. Voi li alimentaste e qual preda vi offriste, ed ora godete la trista schiavitù. Ciascuno di voi calca le orme della volpe, ma a voi tutti insieme mente leggera. Alla lingua, alle parole d'un uomo astuto badate, non alle opere che egli compie. Questi versi egli scrisse. Pisistrato a lui esule inviò questa lettera: Pisistrato a Solone.
+
+=== I,53 (Book 1) ===
+Οὔτε μόνος Ἑλλήνων τυραννίδι ἐπεθέμην, οὔτε οὐ προσῆκόν μοι, γένους ὄντι τῶν Κοδριδῶν. ἀνέλαβον γὰρ ἐγὼ ἃ ὀμόσαντες Ἀθηναῖοι παρέξειν Κόδρῳ τε καὶ τῷ ἐκείνου γένει, ἀφείλοντο. τά τε ἄλλα ἁμαρτάνω οὐδὲν ἢ περὶ θεοὺς ἢ περὶ ἀνθρώπους˙ ἀλλὰ καθότι σὺ διέθηκας τοὺς θεσμοὺς Ἀθηναίοις, ἐπιτρέπω πολιτεύειν. καὶ ἄμεινόν γε πολιτεύουσιν ἢ κατὰ δημοκρατίαν˙οὐκἐῶ γὰρ οὐδένα ὑβρίζειν˙ καὶ ὁ τύραννος ἐγὼ οὐ πλέον τι φέρομαι τἀξιώματος καὶ τῆς τιμῆς˙ ὁποῖα δὲ καὶ τοῖς πρόσθεν βασιλεῦσιν ἦν τὰ ῥητὰ γέρα. ἀπάγει δὲ ἕκαστος Ἀθηναίων τοῦ αὐτοῦ κλήρου δεκάτην, οὐκ ἐμοί, ἀλλ' ὁπόθεν ἔσται ἀναλοῦν εἴς τε θυσίας δημοτελεῖς καὶ εἴ τι ἄλλο τῶν κοινῶν καὶ ἢν ὁ πόλεμος ἡμᾶς καταλάβῃ. οὐκ
+
+=== I,54 (Book 1) ===
+"Σοὶ δ' ἐγὼ οὔτι μέμφομαι μηνύσαντι τὴν ἐμὴν διάνοιαν. εὐνοίᾳ γὰρ τῆς πόλεως μᾶλλον ἢ κατὰ τὸ ἐμὸν ἔχθος ἐμήνυες˙ ἔτι τε ἀμαθίᾳ τῆς ἀρχῆς, ὁποίαν τινὰ ἐγὼ καταστήσομαι. ἐπεὶ μαθὼν τάχ' ἂν ἠνέσχου καθισταμένου,οὐδ'ἔφυγες. ἐπάνιθι τοίνυν οἴκαδε, πιστεύων μοι καὶ ἀνωμότῳ, ἄχαρι μηδὲν πείσεσθαι Σόλωνα ἐκ Πεισιστράτου. ἴσθι γὰρμηδ'ἄλλον τινὰ πεπονθέναι τῶν ἐμοὶ ἐχθρῶν.εἰδὲἀξιώσειςτῶν ἐμῶν φίλων εἷς εἶναι, ἔσῃ ἀνὰ πρώτους˙ οὐ γάρ τι ἐν σοὶ ἐνορῶ δολερὸν ἢ ἄπιστον˙ εἴτε ἄλλως Ἀθήνησιν οἰκεῖν, ἐπιτετράψεται. ἡμῶν δὲοὕνεκαμὴ ἐστέρησο τῆς πατρίδος." οὐδ' μηδ' εἰ ἀξιώσεις οὕνεκα
+
+=== I,54it (Book 1) ===
+Questa fu la lettera di Pisistrato.
+
+=== I,55 (Book 1) ===
+Δράκοντά φησι γεγραφέναι τὸν νόμον, Σόλωναδὲτὸν ἡταιρηκότα εἴργειν τοῦ βήματος. συνέστειλε δὲ καὶ τὰς τιμὰς τῶν ἐν ἀγῶσιν ἀθλητῶν, Ὀλυμπιονίκῃ μὲν τάξας πεντακοσίας δραχμάς, Ἰσθμιονίκῃ δὲ ἑκατόν, καὶ ἀνὰ λόγον ἐπὶ τῶν ἄλλων.ἀπειρόκαλον γὰρ τὸ ἐξαίρειν τὰς τούτων τιμάς, ἀλλὰ μόνων ἐκείνων τῶν ἐν πολέμοις τελευτησάντων, ὧν καὶ τοὺς υἱοὺς δημοσίᾳ τρέφεσθαι καὶ παιδεύεσθαι. Νικίου δὲ
+
+=== I,55it (Book 1) ===
+Lisia nell'orazioneContro Nicide dice che fu Dracone autore di questa legge, mentre Solone decretò che chi avesse prostituito il suo corpo fosse tenuto lontano dalla tribuna degli oratori. Ridusse anche i premi degli atleti vincitori degli agoni, stabilendo cinquecento dracme per l'olimpionico, cento per l'istmionico e così analogamente per gli altri. Non aveva alcun senso etico aumentare i premi di costoro, ma solo di quelli che erano morti in guerra, la cui prole doveva essere mantenuta ed educata a pubbliche spese.
+
+=== I,56 (Book 1) ===
+τρίβωνες ἐκλιπόντες οἴχονται κρόκας. ὅπερ συνιδὼν ὁ Σόλων μετρίως αὐτοὺς ἀπεδέξατο. κάλλιστον δὲ κἀκεῖνο˙ τὸν ἐπίτροπον τῇ τῶν ὀρφανῶν μητρὶ μὴ συνοικεῖν, μηδ' ἐπιτροπεύειν, εἰς ὃν ἡ οὐσία ἔρχεται τῶν ὀρφανῶν τελευτησάντων. τε
+
+=== I,56it (Book 1) ===
+a guisa dei loro mantelli che perdono la trama, si consumano. Ciò comprese Solone e per questo li onorò con parsimoniosa misura. Bellissimo fu pure quel provvedimento: che il tutore non convivesse con la madre degli orfani né che fosse tutore chi sarebbe stato l'erede dei beni degli orfani morti.
+
+=== I,57 (Book 1) ===
+κἀκεῖνο˙ δακτυλιογλύφῳ μὴ ἐξεῖναι σφραγῖδα φυλάττειν τοῦ πραθέντος δακτυλίου˙ καὶ ἐὰν ἕνα ὀφθαλμὸν ἔχοντος ἐκκόψῃ τις, ἀντεκκόπτειν τοὺς δύο. ἃ μὴ ἔθου, μὴ ἀνέλῃ˙ εἰ δὲ μή, θάνατος ἡ ζημία. τῷ ἄρχοντι, ἐὰν μεθύων ληφθῇ, θάνατον εἶναι τὴν ζημίαν. Τά τε Ὁμήρου ἐξ ὑποβολῆς γέγραφε ῥαψῳδεῖσθαι, οἷον ὅπου ὁ πρῶτος ἔληξεν, ἐκεῖθεν ἄρχεσθαι τὸν ἐχόμενον. μᾶλλον οὖν Σόλων Ὅμηρον ἐφώτισεν ἢ Πεισίστρατος, ὥς φησι Διευχίδας ἐν πέμπτῳ Μεγαρικῶν. ἦν δὲ μάλιστα τὰ ἔπη ταυτί˙ "οἳ δ' ἄρ' Ἀθήνας εἶχον" καὶ τὰ ἑξῆς.
+
+=== I,57it (Book 1) ===
+altrimenti sia pena la morte. Il magistrato che fosse colto in istato di ubriachezza fosse punito con la morte. Ha scritto che i poemi omerici erano recitati a tratti con alterna ripresa in modo tale che dove cessasse il primo di lì prendesse inizio il seguente. Dieuchida nel quinto libro dellaStoria Megaricaattesta che Solone piuttosto che Pisistrato illustrò Omero. Erano soprattutto questi versi: Quelli che abitavano in Atene e seguenti.
+
+=== I,58 (Book 1) ===
+Πρῶτος δὲ Σόλων τὴν τριακάδα ἔνην καὶ νέανὠνόμασε. καὶ πρῶτος τὴν συναγωγὴν τῶν ἐννέα ἀρχόντων ἐποίησεν εἰς τὸ συνειπεῖν, ὡς Ἀπολλόδωρός φησιν ἐν δευτέρῳ Περὶ νομοθετῶν. ἀλλὰ καὶ τῆς στάσεως γενομένης οὔτε μετὰ τῶν ἐξ ἄστεως, οὔτε μετὰ τῶν πεδιέων, ἀλλ' οὐδὲ μετὰ τῶν παράλων ἐτάχθη. Ἔλεγε δὲ τὸν μὲν λόγον εἴδωλον εἶναι τῶν ἔργων˙ βασιλέα δὲ τὸν ἰσχυρότατον τῇ δυνάμει. τοὺς δὲ νόμους τοῖς ἀραχνίοις ὁμοίους˙ καὶ γὰρ ἐκεῖνα, ἐὰν μὲν ἐμπέσῃ τι κοῦφον καὶ ἀσθενές, στέγειν˙ ἐὰν δὲ μεῖζον, διακόψαν οἴχεσθαι. ἔφασκέ τε σφραγίζεσθαι τὸν μὲν λόγον σιγῇ, τὴν δὲ σιγὴν καιρῷ. ὠνόμασε
+
+=== I,58it (Book 1) ===
+οἱ ἑξ ἄστεως, οἱ πεδιεῖς, οἱ πάραλοι
+---
+fu anche il primo, come afferma Apollodoro nel secondo libroDei legislatori, a fare l'assemblea dei nove arconti per un comune scambio d'idee e di proposte. Quando vennero a contesa quelli della città, quelli della pianura e quelli della costa egli non parteggiò per nessuno.Definiva la parola immagine della realtà, il re l'uomo più forte per potenza, paragonava le leggi alle tele dei ragni, ché queste ritengono quanto in esse cada che sia lieve ed inconsistente, mentre subiscono la rottura da corpi maggiori che riprendono così la loro via. Era solito dire che il sigillo del discorso il silenzio, il sigillo del silenzio l'opportunità.
+
+=== I,59 (Book 1) ===
+ἔλεγε δὲ τοὺς παρὰ τοῖς τυράννοις δυναμένους παραπλησίους εἶναι ταῖς ψήφοις ταῖς ἐπὶ τῶν λογισμῶν. καὶγὰρ ἐκείνων ἑκάστην ποτὲ μὲν πλείω σημαίνειν, ποτὲ δὲ ἥττω˙ καὶ τούτων τοὺς τυράννους ποτὲ μὲν ἕκαστον μέγαν ἄγειν καὶ λαμπρόν, ποτὲ δὲ ἄτιμον. ἐρωτηθεὶς διὰ τί κατὰ πατροκτόνου νόμον οὐκ ἔθηκε, "διὰ τὸ ἀπελπίσαι,"ἔφη. πῶς τεἥκιστ'ἂν ἀδικοῖεν οἱ ἄνθρωποι, "εἰ ὁμοίως," ἔφη, "ἄχθοιντο τοῖς ἀδικουμένοις οἱ μὴ ἀδικούμενοι." καὶ "τὸν μὲν κόρον ὑπὸ τοῦ πλούτου γεννᾶσθαι, τὴν δὲ ὕβριν ὑπὸ τοῦ κόρου." ἠξίωσέ τε Ἀθηναίους τὰς ἡμέρας κατὰ σελήνην ἄγειν. καὶ Θέσπιν ἐκώλυσε τραγῳδίας διδάσκειν, ὡς ἀνωφελῆ τὴν ψευδολογίαν. καὶ ἔφη ἥκιστ'
+
+=== I,60 (Book 1) ===
+αἲ γὰρ ἄτερ νούσων τε καὶἀργαλέωμελεδωνέων ἑξηκονταέτη μοῖρα κίχοι θανάτου, ἀργαλέω
+
+=== I,60it (Book 1) ===
+diede questi consigli: Ritieni l'onestà e la probità del carattere più fedeli del giuramento. Non mentire. Attendi alle cose nobili e serie. Non procurarti amici in fretta, ma non respingere quelli che una volta avrai acquistati. Comanda dopo aver appreso ad obbedire. Delle decisioni prendi non quelle che siano dolcissime, ma le ottime. La mente sia la tua guida. Non frequentare i malvagi. Onora gli dèi, venera i genitori. Dicono che a Mimnermo che scrisse Deh! senza morbi e senza molesti affanni mi colga a sessant'anni il destino di morte.
+
+=== I,61 (Book 1) ===
+ἐπιτιμῶντα αὐτῷ εἰπεῖν˙ἀλλ' εἴ μοι κἂν νῦν ἔτι πείσεαι, ἔξελετοῦτον˙ μηδὲ μέγαιρ' ὅτι σεῦλῳονἐπεφρασάμην˙ καὶ μεταποίησον, Λιγυαστάδη, ὧδε δ' ἄειδε˙ ὀγδωκονταέτη μοῖρα κίχοι θανάτου. Τῶν δὲ ᾳδομένων αὐτοῦ ἐστι τάδε˙πεφυλαγμένος ἄνδρα ἕκαστον, ὅρα μὴ κρυπτὸνἔχθος ἔχων κραδίῃ, φαιδρῷ προσεννέπῃ προσώπῳ, γλῶσσα δέ οἱ διχόμυθος ἐκμελανῆςφρενὸς γεγωνῇ. Γέγραφε δὲ δῆλον μὲν ὅτι τοὺς νόμους, καὶ δημηγορίας καὶ εἰς ἑαυτὸν ὑποθήκας, ἐλεγεῖα, καὶ τὰ περὶ Σαλαμῖνος καὶ τῆς Ἀθηναίων πολιτείας ἔπη πεντακισχίλια, καὶ ἰάμβους καὶ ἐπῳδούς. τοῦτον λῳον ἔχθος ἔχων κραδίῃ, μελανῆς
+
+=== I,61it (Book 1) ===
+Ma se a me ora voglia dar retta, togli questo verso: né m'invidiare se meglio di te considerai, mutalo, o Ligiastade e così canta: mi colga a ottant'anni il destino di morte. Delle canzoni che erano cantate nei conviti, questa sua: Guarda al fondo di ogni uomo, bada a che non ti si rivolga con ilare volto con odio nascosto nel cuore, e la sua lingua duplice risuoni dall'animo nero. chiaro che egli ha scritto le leggi, discorsi pubblici, esortazioni a se stesso, elegie (in particolare per Salamina e per la costituzione degli Ateniesi), complessivamente cinquemila versi, e poi giambi ed epodi.
+
+=== I,62 (Book 1) ===
+Ἐπὶ δὲ τῆς εἰκόνος αὐτοῦ ἐπιγέγραπται τάδε˙ ἡ Μήδων ἄδικον παύσασ' ὕβριν, ἥδε Σόλωνα τόνδε τεκνοῖ Σαλαμὶς θεσμοθέτην ἱερόν. Ἤκμαζε μὲν οὖν περὶ τὴν τεσσαρακοστὴν ἕκτην Ὀλυμπιάδα, ἧς τῷ τρίτῳ ἔτει ἦρξεν Ἀθήνησι, καθά φησι Σωσικράτης˙ ὅτε καὶ τίθησι τοὺς νόμους. ἐτελεύτησε δ' ἐν Κύπρῳ βιοὺς ἔτη ὀγδοήκοντα, τοῦτον ἐπισκήψας τοῖς ἰδίοις τὸν τρόπον, ἀποκομίσαι αὐτοῦ τὰ ὀστᾶ εἰς Σαλαμῖνα καὶ τεφρώσαντας εἰς τὴν χώραν σπεῖραι. ὅθεν καὶ Κρατῖνος ἐν τοῖς Χείρωσί φησιν, αὐτὸν ποιῶν λέγοντα˙οἰκῶδὲ νῆσον, ὡς μὲν ἀνθρώπων λόγος, ἐσπαρμένος κατὰ πᾶσαν Αἴαντος πόλιν. οἰκῶ
+
+=== I,62it (Book 1) ===
+Questa Salamina che all'ingiusta violenza dei Medi pose termine, generò Solone, questo sacro legislatore. Fiorì nella XLVI Olimpiade, nel cui terzo anno fu arconte ad Atene, come dice Sosicrate; in quel tempo pose le leggi. Morì in Cipro a ottanta anni, raccomandando ai suoi di riportare le ossa a Salamina e, dopo averle incenerite, di disseminarle per il territorio dell'isola. Onde anche Cratino neiChironi lo fa così parlare: Abito l'isola, come fama tra gli uomini, disseminato per tutta la città di Aiace.
+
+=== I,63 (Book 1) ===
+Ἔστι δὲ καὶ ἡμέτερον ἐπίγραμμα ἐν τῇ προειρημένῃ Παμμέτρῳ, ἔνθα καὶ περὶ πάντων τῶν τελευτησάντων ἐλλογίμων διείλεγμαι παντὶ μέτρῳ καὶ ῥυθμῷ, ἐπιγράμμασι καὶ μέλεσιν, ἔχον οὕτως˙σῶμα μὲν ἦρε Σόλωνος ἐν ἀλλοδαπῇ Κύπριον πῦρ˙ ὀστέ'ἔχει Σαλαμίς, ὧν κόνις ἀστάχυες. ψυχὴν δ' ἄξονες εὐθὺς ἐς οὐρανὸν ἤγαγον˙ εὖ γὰρ θῆκε νόμους αὐτοῖς ἄχθεα κουφότατα. Ἀπεφθέγξατο δέ, φασί, Μηδὲν ἄγαν. καὶ αὐτόν φησι Διοσκουρίδης ἐν τοῖς Ἀπομνημονεύμασιν, ἐπειδὴδακρύειτὸν παῖδα τελευτήσαντα, ὃν ἡμεῖς οὐ παρειλήφαμεν, πρὸς τὸν εἰπόντα, "ἀλλ' οὐδὲν ἀνύτεις," εἰπεῖν, "δι' αὐτὸ δὲ τοῦτο δακρύω, ὅτι οὐδὲν ἀνύτω." Φέρονται δὲ αὐτοῦ καὶ ἐπιστολαὶ αἵδε˙[64]Σόλων Περιάνδρῳ Σόλων Περιάνδρῳ ὀστέ' δακρύει
+
+=== I,63it (Book 1) ===
+Πάμμετρος
+---
+dove ho scritto epigrammi e canti lirici in ogni metro e ritmo, intorno a tutti gli illustri estinti, che così suona: In terra straniera il fuoco di Cipro tolse il corpo di Solone: Salamina ha le ossa, la cui polvere sono spighe. L'anima un celere carro portò al cielo: ché bene pose le leggi, peso lievissimo ai cittadini. Gli venne attribuito l'apoftegma: «Nessun eccesso». Dioscuride neiCommentaririferisce che piangendo Solone il figlio morto, del quale null'altro ci stato tramandato, ad uno che gli disse: «Ma nulla ottieni», rispose: «Appunto per questo io piango, perché nulla ottengo». Di lui si tramandano anche queste epistole. Solone a Periandro.
+
+=== I,64 (Book 1) ===
+Σόλων Ἐπιμενίδῃ Οὔτε οἱ ἐμοὶ θεσμοὶ ἄρα Ἀθηναίους ἐπιπολὺ ὀνήσειν ἔμελλον, οὔτε σὺ καθήρας τὴν πόλιν ὤνησας. τό τε γὰρ θεῖον καὶ οἱ νομοθέται οὐ καθ' ἑαυτὰ δύνανται ὀνῆσαι τὰς πόλεις, οἱ δὲ ἀεὶ τὸ πλῆθος ἄγοντες ὅπως ἂν γνώμης ἔχωσιν. οὕτω δὲ καὶ τὸ θεῖον καὶ οἱ νόμοι, εὖ μὲν ἀγόντων, εἰσὶν ὠφέλιμοι˙ κακῶς δὲ ἀγόντων οὐδὲν ὠφελοῦσιν. Ἀπαγγέλλεις μείζονα τῶν
+
+=== I,64it (Book 1) ===
+Solone ad Epimenide. Né le mie leggi dovevano molto giovare agli Ateniesi né tu giovasti alla tua città purificandola. Ché il culto degli dèi ed i legislatori non possono di per sé giovare alle città, bensì quelli che trascinano sempre la massa a loro talento. Così la religione e le leggi sono utili se il governo retto, dannose se il governo cattivo. Né sono migliori le mie leggi o le mie disposizioni.
+
+=== I,65 (Book 1) ===
+"Οὐδ' οἱ ἐμοὶ ἀμείνους εἰσὶ καὶ ὅσα ἐγὼ ἐνομοθέτησα. οἱ δ' ἐπιτρέποντες τὸ ξυνὸν ἔβλαπτον, οἳ οὐκ ἐγένοντο ἐμποδὼν Πεισιστράτῳ ἐπιθέσθαι τυραννίδι. οὐδ' ἐγὼ προλέγων πιστὸς ἦν. ἐκεῖνος δὲ πιστότερος κολακεύων Ἀθηναίους ἐμοῦ ἀληθεύοντος. ἐγὼ δὴ θέμενος πρὸ τοῦστρατηγείουτὰ ὅπλα εἶπον τῶν μὲν μὴ αἰσθανομένων Πεισίστρατον τυραννησείοντα εἶναι ξυνετώτερος, τῶν δὲ ὀκνούντωνἀμύνεσθαιἀλκιμώτερος. οἱ δὲ μανίαν Σόλωνος κατεγίγνωσκον. τελευτῶν δὲ ἐμαρτυράμην,"ὦ πατρίς, οὗτος μὲν Σόλωνἕτοιμός τοι καὶ λόγῳ καὶ ἔργῳἀμύνειν˙ τοῖς δ' αὖ καὶ μαίνεσθαι δοκῶ. ὥστε ἄπειμί τοι ἐκ μέσου ὁ μόνος ἐχθρὸς Πεισιστράτου˙οἱδὲ καὶ δορυφορούντων αὐτόν, εἴ τι βούλονται." ἴσθι γὰρ τὸν ἄνδρα, ὦ ἑταῖρε, δεινότατα ἁψάμενον τῆς τυραννίδος. στρατηγείου ἀμύνεσθαι ἕτοιμός τοι καὶ λόγῳ καὶ ἔργῳ οἱ
+
+=== I,65it (Book 1) ===
+danneggiavano lo Stato, ché non seppero impedire la tirannide di Pisistrato. Fui previdente ma non fui creduto. Pisistrato adulò gli Ateniesi e fu ritenuto più degno di fede di me che proclamavo la verità. Deposi le armi dinanzi al quartiere del generale e dissi di essere più intelligente di quanti non s'avvedevano che Pisistrato aspirava alla tirannide, più coraggioso di quanti indugiavano a difendere la città. Mi rimproverarono di essere pazzo. Alla fine chiamai a testimonio la patria: «O patria, Solone pronto a difenderti con la parola e con l'opera: ma a costoro sembra che sia pazzo. Sì che vado via, unico nemico di Pisistrato: gli facciano da guardia del corpo, se lo vogliono». Sappi, o amico, che Pisistrato si dedicò alla tirannide con tutte le sue forze.
+
+=== I,66 (Book 1) ===
+Σόλων Πεισιστράτῳ "Πιστεύω μηδὲν κακὸν ἐκ σοῦ πείσεσθαι. καὶ γὰρ πρὸ τῆς τυραννίδος φίλος σοὶ ἦν, καὶ νῦν οὐ μᾶλλον διάφορος ἢ τῶν ἄλλων τις Ἀθηναίων ὅτῳ μὴ ἀρέσκει τυραννίς. εἴτε δὲ ὑφ' ἑνὸς ἄρχεσθαι ἄμεινον αὐτοῖς, εἴτε δημοκρατεῖσθαι, πεπείσθω ᾗ ἑκάτερος γιγνώσκει.
+
+=== I,66it (Book 1) ===
+Solone a Pisistrato. Confido che nessun male patirò da te. Ché prima della tirannide ti fui amico ed ora non più nemico di quanti Ateniesi odiano la tirannide. Ognuno creda come sa, se meglio per loro esser dominati da un solo uomo o essere retti a governo democratico.
+
+=== I,67 (Book 1) ===
+Σόλων Κροίσῳ Ἄγαμαί σε τῆς περὶ ἡμᾶς φιλοφροσύνης˙ καὶ νὴ τὴν Ἀθηνᾶν, εἰ μὴ περὶ παντός μοι ἦν οἰκεῖν ἐν δημοκρατίᾳ, ἐδεξάμην ἂν μᾶλλον τὴν δίαιταν ἔχειν ἐν τῇ παρὰ σοὶ βασιλείᾳ ἢ Ἀθήνησι, τυραννοῦντος βιαίως Πεισιστράτου. ἀλλὰ καὶ ἡδίων ἡμῖν ἡ βιοτή,ἔνθα πᾶσι τὰ δίκαια καὶ ἴσα. ἀφίξομαι δ' οὖν παρὰ σέ, σπεύδων τοι ξένος γενέσθαι".
+
+=== I,67it (Book 1) ===
+Solone a Creso. Ti ammiro per la tua benevolenza verso di noi; e per Atena, se non avessi assolutamente deciso di vivere in un paese democratico, preferirei vivere alla tua corte anzi che in Atene, ove impera violento il tiranno Pisistrato. Ma a me più dolce la vita, dove a tutti siano riconosciuti uguali diritti. Tuttavia verrò da te, desiderando di essere tuo ospite.
+
+=== I,68 (Book 1) ===
+Κεφ. γ'. ΧίλωνΔαμαγήτου Λακεδαιμόνιος. οὗτος ἐποίησεν ἐλεγεῖα εἰς ἔπη διακόσια, καὶ ἔφασκε πρόνοιαν περὶ τοῦ μέλλοντος λογισμῷ καταληπτὴν εἶναι ἀνδρὸς ἀρετήν. πρός τε τὸν ἀδελφὸν δυσφοροῦντα ὅτι μὴ ἔφορος ἐγένετο, αὐτοῦ ὄντος, "ἐγὼ μὲν γὰρ ἐπίσταμαι," εἶπεν, "ἀδικεῖσθαι, σὺ δὲ οὔ." γέγονε δὲ ἔφορος κατὰ τὴν πεντηκοστὴν ἕκτην Ὀλυμπιάδα˙Παμφίλη δέ φησι κατὰ τὴν ἕκτην.καὶ πρῶτον ἔφορον γενέσθαι ἐπὶ Εὐθυδήμου, ὥς φησι Σωσικράτης. καὶ πρῶτος εἰσηγήσατο ἐφόρους τοῖς βασιλεῦσι παραζευγνύναι˙ Σάτυρος δὲ Λυκοῦργον.Οὗτος, ὥς φησιν Ἡρόδοτος ἐν τῇ πρώτῃ, Ἱπποκράτει θυομένῳ ἐν Ὀλυμπίᾳ, τῶν λεβήτων αὐτομάτων ζεσάντων, συνεβούλευσεν ἢ μὴ γῆμαι, ἤ, εἰ ἔχοι γυναῖκα, ἐκπέμψαι καὶ παῖδας ἀπείπασθαι. Κεφ. γ'. ΧΙΛΩΝ ΧΙΛΩΝ ΧΙΛΩΝ Χίλων
+
+=== I,68it (Book 1) ===
+Capitolo III CHILONE CHILONE Al fratello ch'era adirato perché non era divenuto eforo, mentre egli lo era, disse: «Io so sopportare le ingiustizie, tu no». Fu eforo nella LV Olimpiade, secondo Panfila nella LVI. Fu eforo per la prima volta sotto Eutidemo, come riferisce Sosicrate. E primo stabilì che agli efori fosse accordata una posizione accanto ai re: Satiro attribuisce questa disposizione a Licurgo. Narra Erodoto nel primo delleStorie che mentre Ippocrate sacrificava in Olimpia e i lebeti bollivano da sé, senza fuoco, gli consigliò di non prender moglie o se già l'avesse di ripudiarla insieme con i figli.
+
+=== I,69 (Book 1) ===
+φασὶ δ' αὐτὸν καὶ Αἰσώπου πυθέσθαι, ὁ Ζεὺς τί εἴη ποιῶν˙ τὸν δὲ φάναι, "τὰ μὲν ὑψηλὰταπεινῶν, τὰ δὲ ταπεινὰ ὑψοῦν." ἐρωτηθεὶς τίνι διαφέρουσιν οἱ πεπαιδευμένοι τῶν ἀπαιδεύτων, ἔφη, "ἐλπίσινἀγαθαῖς." τί δύσκολον, "τὸ τὰ ἀπόρρητα σιωπῆσαι, καὶ σχολὴν εὖ διαθέσθαι, καὶ ἀδικούμενον δύνασθαι φέρειν." προσέταττε δὲ καὶ ταῦτα˙ γλώττης κρατεῖν, καὶ μάλιστα ἐν συμποσίῳ. μὴ κακολογεῖν τοὺς πλησίον˙ εἰ δὲ μή, ἀκούσεσθαι ἐφ' οἷς λυπήσεσθαι. ταπεινῶν ἀγαθαῖς
+
+=== I,69it (Book 1) ===
+quale fosse l'opera di Zeus e che Esopo abbia risposto: «Abbassare chi in alto, innalzare chi in basso». Interrogato in che differissero gli uomini colti dagli incolti, rispose: «Nel concepire le buone speranze». «Che cosa difficile?» «Mantenere i segreti, impiegare bene il tempo libero, sopportare un'offesa ricevuta». Dava questi precetti: Dominare la lingua, specialmente nel convito; non dir male dei vicini, se non si vorranno udire cose che addolorino.
+
+=== I,70 (Book 1) ===
+μὴ ἀπειλεῖν μηδενί˙ γυναικῶδες γάρ. ταχύτερον ἐπὶ τὰς ἀτυχίας τῶν φίλων ἢ ἐπὶ τὰς εὐτυχίας πορεύεσθαι. γάμον εὐτελῆ ποιεῖσθαι. τὸν τεθνηκότα μὴ κακολογεῖν. γῆρας τιμᾶν. φυλάττειν ἑαυτόν. ζημίαν αἱρεῖσθαι μᾶλλον ἢ κέρδος αἰσχρόν˙ ἡ μὲν γὰρ ἅπαξ ἐλύπησε, τὸ δὲ διὰ παντός. ἀτυχοῦντι μὴ ἐπιγελᾶν. ἰσχυρὸν ὄντα πρᾷον εἶναι, ὅπως οἱ πλησίον αἰδῶνται μᾶλλον ἢ φοβῶνται. μανθάνειν τῆς αὑτοῦ οἰκίας καλῶς προστατεῖν. τὴν γλῶτταν μὴ προτρέχειν τοῦ νοῦ. θυμοῦ κρατεῖν. μαντικὴν μὴ ἐχθαίρειν. μὴ ἐπιθυμεῖν ἀδυνάτων. ἐν ὁδῷ μὴ σπεύδειν. λέγοντα μὴ κινεῖν τὴν χεῖρα˙ μανικὸν γάρ. νόμοις πείθεσθαι. ἠρεμίᾳ χρῆσθαι.
+
+=== I,70it (Book 1) ===
+Non affrettarti nella via. Parlando non agitare la mano: gesto di pazzi. Ubbidisci alle leggi. Ama la tranquillità.
+
+=== I,71 (Book 1) ===
+"ἐν λιθίναις ἀκόναις ὁ χρυσὸς ἐξετάζεται, διδοὺς βάσανον φανεράν˙ ἐν δὲχρυσῷ φασὶ δ' αὐτόν ποτε γηραιὸν ἤδη ὄντα εἰπεῖν ὡς οὐδὲν συνειδείη ἄνομον ἑαυτῷ ἐν τῷ βίῳ˙ διστάζειν δὲ περὶ ἑνός. κρίνων γάρ ποτε φίλῳ δίκην αὐτὸς μὲν κατὰ τὸν νόμον,τὸν δὲ φίλον πείσειεν ἀποδικάσαι αὐτοῦ, ἵνα ἀμφότερα καὶ τὸν νόμον καὶ τὸν φίλον τηρήσαι. Ἐνδοξότατος δὲ μάλιστα παρὰ τοῖς Ἕλλησιν ἐγένετο προειπὼν περὶ Κυθήρων τῆς νήσου τῆς Λακωνικῆς. καταμαθὼν γὰρ τὴν φύσιν αὐτῆς, "εἴθε," ἔφη, "μὴ ἐγεγόνει, ἢ γενομένη κατεβυθίσθη." καὶ εὖ προὐνοήσατο. χρυσῷ τὸν δὲ φίλον πείσειεν ἀποδικάσαι αὐτοῦ
+
+=== I,71it (Book 1) ===
+L'oro si sperimenta sulle coti di pietra e dà prova sicura; l'oro pone alla prova la mente degli uomini buoni e cattivi. Riferiscono che, ormai vecchio, disse di non riconoscere nella sua vita nessun atto contro le leggi, ma di dubitare di uno solo. Una volta infatti egli giudicò la causa di un amico e giudicò secondo la legge, ma indusse l'altro giudice che era suo amico ad assolverlo, perché fossero insieme salvaguardati la legge e l'amico.Divenne famosissimo tra i Greci per una predizione da lui fatta su Citera, isola lungo la costa laconica. Conosciuta la natura dell'isola, egli disse: «O che non fosse mai esistita o almeno, dal momento che esiste, si inabissasse». E bene previde.
+
+=== I,72 (Book 1) ===
+Δημάρατος μὲν γὰρ φυγὰς ὢν Λακεδαιμονίων Ξέρξῃ συνεβούλευσε τὰς ναῦς συνέχειν ἐν τῇ νήσῳ˙ κἂν ἑαλώκει ἡ Ἑλλάς, εἰ ἐπείσθη Ξέρξης. ὕστερόν τε Νικίας ἐπὶ τῶν Πελοποννησιακῶν καταστρεψάμενος τὴν νῆσον, φρουρὸν ἐγκατέστησεν Ἀθηναίων, καὶ πάμπολλα τοὺς Λακεδαιμονίους κακὰ διέθηκε. Βραχυλόγος τε ἦν˙ ὅθεν καὶ Ἀρισταγόρας ὁ Μιλήσιος τοῦτον τὸν τρόπον Χιλώνειον καλεῖ. .Βράγχου δὲ εἶναι, ὃς τὸ ἱερὸν ἔκτισε τὸ ἐν Βραγχίδαις. ἦν δὲ γέρων περὶ τὴν πεντηκοστὴν δευτέραν Ὀλυμπιάδα, ὅτε Αἴσωπος ὁ λογοποιὸς ἤκμαζεν. ἐτελεύτησε δ', ὥς φησιν Ἕρμιππος, ἐν Πίσῃ, τὸν υἱὸν Ὀλυμπιονίκηνἀσπασάμενος πυγμῆς. ἔπαθε δὴ τοῦτο ὑπερβολῇ τε χαρᾶς καὶ ἀσθενείᾳ πολυετίας. καὶ αὐτὸν πάντες οἱ κατὰ τὴν πανήγυριν ἐντιμότατα παρέπεμψαν. Ἔστι δὲ καὶ εἰς τοῦτον ἐπίγραμμα ἡμῶν˙ ἀσπασάμενος πυγμῆς
+
+=== I,72it (Book 1) ===
+Fu conciso nel parlare; onde anche Aristagora di Mileto definisce chilonio un tal modo di parlare. Discendeva da Branco il fondatore del santuario di Branchide. Chilone era vecchio nella LII Olimpiade, quando fioriva il favolista Esopo. Narra Ermippo che morì in Pisa dopo aver abbracciato il figlio vincitore ad Olimpia nella gara del pugilato. Un eccesso di gioia e la debolezza dei suoi lunghi anni provocarono la morte. Tutti quelli che erano intervenuti alla solenne adunanza gli tributarono onore partecipando alle sue esequie. Anche per luì c'è un nostro epigramma:
+
+=== I,73 (Book 1) ===
+Φωσφόρε, σοί, Πολύδευκες, ἔχω χάριν, οὕνεκεν υἱὸς Χίλωνοςπυγμῇ χλωρὸν ἕλεν κότινον. Εἰ δ' ὁ πατὴρ στεφανοῦχον ἰδὼν τέκνον ἤμυσεν ἡσθείς, οὐ νεμεσητόν˙ ἐμοὶ τοῖος ἴτω θάνατος. τόνδε δοριστέφανος ΣπάρταΧίλων' ἐφύτευσεν, ὃς τῶν ἑπτὰ σοφῶν πρῶτος ἔφυ σοφίᾳ. Χίλων Περιάνδρῳ Ἐπιστέλλεις ἐμὶν ἐκστρατείαν ἐπὶ ἐκδάμως, ὡς αὐτός κα ἐξέρποις˙ ἐγὼν δὲ δοκέω καὶ τὰ οἰκῇα σφαλερὰ ἦμεν ἀνδρὶ μονάρχῳ, καὶ τῆνον τυράννων εὐδαιμονίζω ὅστις κα οἴκοι ἐξαὐτὸς αὑτῶκατθάνῃ." Χίλωνος Χίλων αὐτὸς αὑτῶ
+
+=== I,73it (Book 1) ===
+Sulla sua statua stato scritto questo: Sparta coronata di lancia generò questo Chilone, che primo dei Sette Sapienti fu per sapienza. Suo apoftegma questo: «Se dai una garanzia, il danno vicino».C'è anche di lui questa breve epistola: Chilone a Periandro. Tu mi annunzi una spedizione contro straniera gente, a cui tu stesso vuoi partecipare. Io penso che per un monarca anche le cose della sua patria sono pericolose, e ritengo beato quello tra i tiranni che muoia di morte naturale nella propria patria.
+
+=== I,74 (Book 1) ===
+Κεφ. δ'. Πιττακὸς Ὑρραδίου Μυτιληναῖος. φησὶ δὲ Δοῦρις τὸν πατέρα αὐτοῦ Θρᾷκα εἶναι. οὗτος μετὰ τῶν Ἀλκαίου γενόμενος ἀδελφῶν Μέλαγχρον καθεῖλε τὸν τῆς Λέσβου τύραννον˙ καὶ περὶ τῆς Ἀχιλείτιδος χώρας μαχομένων Ἀθηναίων καὶ Μυτιληναίων ἐστρατήγει μὲν αὐτός, Ἀθηναίων δὲ Φρύνων παγκρατιαστὴς Ὀλυμπιονίκης. συνέθετο δὴ μονομαχῆσαι πρὸς αὐτόν˙ καὶ δίκτυον ἔχων ὑπὸ τὴν ἀσπίδα λαθραίως περιέβαλε τὸν Φρύνωνα, καὶ κτείνας ἀνεσώσατο τὸ χωρίον. ὕστερον μέντοι φησὶν Ἀπολλόδωρος ἐν τοῖς Χρονικοῖς διαδικασθῆναι τοὺς Ἀθηναίους περὶ τοῦ χωρίου πρὸς τοὺς Μυτιληναίους, ἀκούοντος τῆς δίκης Περιάνδρου, ὃν καὶ τοῖς Ἀθηναίοις προσκρῖναι. Κεφ. δ'. ΠΙΤΤΑΚΟΣ ΠΙΤΤΑΚΟΣ ΠΙΤΤΑΚΟΣ
+
+=== I,74it (Book 1) ===
+Capitolo IV PITTACO PITTACO era tracio. Egli, insieme con i fratelli di Alceo, tolse di mezzo Melancro, tiranno di Lesbo. Per il possesso della regione Achilitide vennero a battaglia Ateniesi e Mitilenesi: degli uni era stratego Frinone, vincitore ad Olimpia nel pancrazio, degli altri lo stesso Pittaco, il quale convenne di affrontarlo in singolar tenzone. E con una rete che teneva nascosta sotto lo scudo, avvolse Frinone, e, uccisolo, salvò la regione. Ma successivamente, come attesta Apollodoro nellaCronologia, gli Ateniesi per la stessa regione convennero in giudizio i Mitilenesi: fu giudice Periandro, che assegnò la regione agli Ateniesi.
+
+=== I,75 (Book 1) ===
+Τότε δ' οὖν τὸν Πιττακὸν ἰσχυρῶς ἐτίμησαν οἱ Μυτιληναῖοι, καὶ τὴν ἀρχὴν ἐνεχείρισαν αὐτῷ. ὁ δὲ δέκα ἔτη κατασχὼν καὶ εἰς τάξιν ἀγαγὼν τὸ πολίτευμα, κατέθετο τὴν ἀρχήν, καὶ δέκα ἐπεβίω ἄλλα. καὶ χώραν αὐτῷ ἀπένειμαν οἱ Μυτιληναῖοι˙ ὁ δὲ ἱερὰν ἀνῆκεν, ἥτις νῦν Πιττάκειος καλεῖται. Σωσικράτης δέ φησιν ὅτι ὀλίγον ἀποτεμόμενος ἔφη τὸ ἥμισυ τοῦ παντὸς πλεῖον εἶναι. ἀλλὰ καὶ Κροίσου διδόντος χρήματα οὐκ ἐδέξατο, εἰπὼν ἔχειν ὧν ἐβούλετο διπλάσια˙ ἄπαιδος γὰρ τἀδελφοῦ τελευτήσαντος κεκληρονομηκέναι.
+
+=== I,75it (Book 1) ===
+riferisce che Pittaco ne prese per sé una piccola parte, affermando che la metà più del tutto. Anche Creso gli offrì ricchezze, ma le rifiutò dicendo che possedeva il doppio di quanto voleva, ché aveva ereditato i beni d'un fratello morto senza figli.
+
+=== I,76 (Book 1) ===
+Παμφίλη δέ φησιν ἐν τῷ δευτέρῳ τῶν Ὑπομνημάτων,ὡς τὸν υἱὸν αὐτοῦ Τυρραῖον καθήμενον ἐπὶ κουρείου ἐν Κύμῃ χαλκεύς τις πέλεκυν ἐμβαλὼν ἀνέλοι. τῶν δὲ Κυμαίων πεμψάντων τὸν φονέα τῷ Πιττακῷ, μαθόντα καὶ ἀπολύσαντα εἰπεῖν, "συγγνώμη μετανοίας κρείσσων."Ἡράκλειτοςδέ φησιν, Ἀλκαῖον ὑποχείριον λαβόντα καὶ ἀπολύσαντα φάναι, "συγγνώμη τιμωρίας κρείσσων." Νόμουςδὲ ἔθηκε˙ τῷ μεθύοντι, ἐὰν ἁμάρτῃ, διπλῆν εἶναι τὴν ζημίαν˙ ἵνα μὴ μεθύωσι, πολλοῦ κατὰ τὴν νῆσον οἴνου γινομένου. εἶπέ τε "χαλεπὸν ἐσθλὸν ἔμμεναι˙" οὗ καὶ Σιμωνίδης μέμνηται λέγων˙ "ἄνδρ'ἀγαθὸν ἀλαθέως γενέσθαι χαλεπόν, τὸ Πιττάκειον." Ἡράκλειτος Νόμους ἄνδρ'
+
+=== I,76it (Book 1) ===
+dice nel secondo libro delle sueMemorieche suo figlio Tirreo seduto nella bottega di un barbiere in Cuma fu ucciso da un fabbro con un colpo di scure. Poiché i Cumani rinviarono a lui l'uccisore, Pittaco, appreso il racconto, l'assolse dicendo: «Il perdono superiore al pentimento». Eraclito tuttavia afferma che, avendo in suo potere Alceo, lo rimandò libero con queste parole: «Il perdono superiore alla vendetta». Pose anche leggi, fra cui questa relativa agli ubriachi: l'ubriaco che avesse commesso una colpa doveva essere punito con una pena doppia. Voleva perseguire l'intento che gli abitanti di un'isola così ricca di vino non si ubriacassero. Un suo detto era: difficile esser buono», citato da Simonide in questa forma: difficile essere veramente buono', un motto di Pittaco».
+
+=== I,77 (Book 1) ===
+μέμνηται αὐτοῦ καὶ Πλάτων ἐν Πρωταγόρᾳ˙ "ἀνάγκᾳ δ' οὐδὲ θεοὶ μάχονται." καὶ "ἀρχὴ ἄνδραδείκνυσιν." ἐρωτηθεὶς δέ ποτε τί ἄριστον, "τὸ παρὸν εὖ ποιεῖν." καὶ ὑπὸ Κροίσου τίς ἀρχὴ μεγίστη, "ἡ τοῦ ποικίλου," ἔφη, "ξύλου," σημαίνων τὸν νόμον. ἔλεγε δὲ καὶ τὰς νίκας ἄνευ αἵματος ποιεῖσθαι. ἔφη δὲ καὶ πρὸς τὸν Φωκαϊκὸν φάσκοντα δεῖν ζητεῖνἄνθρωπον σπουδαῖον,"ἂν λίαν," ἔφη, "ζητῇς, οὐχ εὑρήσεις." καὶ πρὸς τοὺς πυνθανομένους τί εὐχάριστον, "χρόνος," ἔφη˙ ἀφανές, "τὸ μέλλον"˙ πιστόν, "γῆ"˙ ἄπιστον, "θάλασσα." δείκνυσιν ἄνθρωπον σπουδαῖον
+
+=== I,77it (Book 1) ===
+«Contro la Necessità neppure gli dèi lottano». E ancora: «L'officio mostra l'uomo». Interrogato una volta quale fosse la migliore cosa, rispose: «Badare bene al presente». E da Creso quale fosse il dominio più grande: «Quello del legno vario», rispose alludendo alla legge. Era solito dire che le vittorie bisogna ottenerle senza sangue. Ad un foceo che andava dicendo che bisogna cercare un uomo virtuoso, replicò: «Anche a cercarlo a tutti i costi non lo troverai». A quelli che gli chiedevano: «Che cosa sommamente gradito?», «Il tempo» rispondeva; «Oscuro?», «Il futuro»; «Degno di fede?», «La terra»; «Infido?», «Il mare».
+
+=== I,78 (Book 1) ===
+προνοῆσαι ὅπως μὴ γένηται˙ ἀνδρείων δέ, γενόμενα εὖ θέσθαι. ὃ μέλλεις πράττειν, μὴ πρόλεγε˙ ἀποτυχὼν γὰρ γελασθήσῃ. ἀτυχίαν μὴ ὀνειδίζειν, νέμεσιν αἰδόμενον. παρακαταθήκην λαβόντα ἀποδοῦναι. φίλον μὴ λέγειν κακῶς, ἀλλὰμηδὲἐχθρόν. εὐσέβειαν ἀσκεῖν. σωφροσύνην φιλεῖν. ἀλήθειαν ἔχειν, πίστιν, ἐμπειρίαν, ἐπιδεξιότητα, ἑταιρίαν, ἐπιμέλειαν. Τῶν δὲ ἀ̣δομένων αὐτοῦ μάλιστα εὐδοκίμησε τάδε˙ἔχοντα χρὴτόξακαὶ ἰοδόκον φαρέτραν στείχειν ποτὶ φῶτα κακόν. πιστὸν γὰρ οὐδὲν γλῶσσα διὰ στόματος λαλεῖδιχόθυμονἔχουσα καρδίῃ νόημα. μηδὲ τόξα διχόθυμον
+
+=== I,78it (Book 1) ===
+Delle sue canzoni che erano cantate nei conviti ebbe speciale rinomanza questa: Con arco, frecce e faretra avanzare bisogna contro l'uomo malvagio. In nulla fedele la lingua che ciancia dal labbro, se doppio pensiero nel cuore.
+
+=== I,79 (Book 1) ===
+ἐποίησε δὲ καὶ ἐλεγεῖα ἔπη ἑξακόσια, καὶὑπὲρ νόμων καταλογάδηντοῖς πολίταις. Ἤκμαζε μὲν οὖν περὶ τὴν τεσσαρακοστὴν δευτέραν Ὀλυμπιάδα˙ ἐτελεύτησε δ' ἐπὶ Ἀριστομένους τῷ τρίτῳ ἔτει τῆς πεντηκοστῆς δευτέρας Ὀλυμπιάδος, βιοὺς ὑπὲρ ἔτη ἑβδομήκοντα, ἤδη γηραιός οἰκείοιςδακρύοιςἁ γειναμένα κατακλαίει Πιττακὸν ἥδ' ἱερὰ Λέσβος ἀποφθίμενον. ἀπόφθεγμα αὐτοῦ˙ καιρὸν γνῶθι. Γέγονε δὲ καὶ ἕτερος Πιττακὸς νομοθέτης, ὥς φησι Φαβωρῖνος ἐν Ἀπομνημονευμάτων πρώτῳ καὶ Δημήτριος ἐν Ὁμωνύμοις, ὃς καὶ μικρὸς προσηγορεύθη. ὑπὲρ νόμων καταλογάδην δακρύοις ἐπιγράμμασι
+
+=== I,79it (Book 1) ===
+morì sotto Aristomene nel terzo anno della LII Olimpiade, ormai vecchio, oltre i settant'anni. Sul suo tumulo stato inciso questo epigramma: Con le sue lacrime questa sacra Lesbo che lo generò piange Pittaco defunto. Suo apoftegma: «Conosci l'opportunità». Vi fu anche un altro Pittaco legislatore come dice Favorino, nel primo libro delle sueMemoriee Demetrio negliOmonimi, che fu chiamato il Minore. Si dice che il sapiente fu una volta consultato da un giovinetto sulle nozze e che la sua risposta fu quella che gli attribuisce Callimaco negliEpigrammi:
+
+=== I,80 (Book 1) ===
+ξεῖνος Ἀταρνείτης τις ἀνήρετο Πιττακὸν οὕτω τὸν Μυτιληναῖον, παῖδα τὸνὙρράδιου˙ ἄττα γέρον, δοιός με καλεῖ γάμος˙ ἡ μία μὲν δὴ νύμφη καὶ πλούτῳ καὶ γενεῇ κατ' ἐμέ˙ ἡ δ' ἑτέρη προβέβηκε. τί λώϊον; εἰ δ' ἄγε σύν μοι βούλευσον, ποτέρην εἰς ὑμέναιον ἄγω. εἶπεν˙ ὁ δὲ σκίπωνα, γεροντικὸν ὅπλον, ἀείρας, ἤνιδε, κεῖνοί σοι πᾶν ἐρέουσιν ἔπος. οἱ δ' ἄρ' ὑπὸ πληγῇσι θοὰς βέμβικας ἔχοντες ἔστρεφον εὐρείῃ παῖδες ἐνὶ τριόδῳ. κείνων ἔρχεο, φησί, μετ' ἴχνια. χὠ μὲν ἐπέστη πλησίον˙ οἱ δ' ἔλεγον˙ τὴν κατὰ σαυτὸν ἔλα. ταῦτ' ἀΐων ὁ ξεῖνος ἐφείσατο μείζονος οἴκου δράξασθαι, παίδων κληδόνα συνθέμενος. τὴν δ' ὀλίγην ὡς κεῖνος ἐς οἰκίον ἤγετο νύμφην, οὕτω καὶ σύ, Δίων, τὴν κατὰ σαυτὸν ἔλα. Ὑρράδιου
+
+=== I,80it (Book 1) ===
+Nell'ampio trivio, a forza di colpi, dei fanciulli giravano trottole veloci. «Va' disse sulle loro orme». Ed egli fu vicino: i fanciulli dicevano: «Spingi quella a te vicina!» Questo udì l'ospite ed a una casa più grande rinunziò, accogliendo il monito gridato dai fanciulli. E piccola come lui alla sua piccola casa condusse la sposa. Così anche tu, Dione, spingi quella a te vicina!
+
+=== I,81 (Book 1) ===
+δοκεῖ δ' ἐκ διαθέσεως αὐτὰ εἰρηκέναι. εὐγενεστέρα γὰραὐτῷ οὖσαἡ γυνή, ἐπειδήπερ ἦν Δράκοντος ἀδελφὴ τοῦ Πενθίλου, σφόδρα κατεσοβαρεύετο αὐτοῦ. Πιττακὸς Κροίσῳ "Κέλεαί με ἱκνέεσθαι ἐς Λυδίην, ὅπως σοι τὸν ὄλβον ἴδοιμι˙ ἐγὼ δὲκαὶμὴ ὀρεὶς πέπεισμαι τὸν Ἀλυάττεω παῖδα τῶν βασιλήων πολυχρυσότατον πέλειν. οὐδέν τε πλέον ἄμμιν ἱκομένοις ἐς Σάρδις˙ χρυσοῦ γὰρ οὐδεύμεθα,ἀλλὰπέπαμαι ἄρκια καὶ τοῖς ἐμοῖς ἑτάροις. ἔμπας δ' ἵξομαι, ὡς ἀνδρὶ ξείνῳγενοίμηντοι συνόμιλος." αὐτῷ οὖσα γυμνάσια ἦν καὶ δεύμεθα ἀλλὰ γενοίμην
+
+=== I,81it (Book 1) ===
+σαράπους σάραπος χειροπόδης χειράδες γαύρηξ φύσκων γάστρων ζοφοδορπίδας ἀγάσυρτος
+---
+lo chiamava e (dai piedi slargati spazzanti la terra) perché aveva i piedi piatti e li trascinava per terra; (chiropede, dai piedi spaccati) perché aveva delle spaccature ai piedi, che chiamavano (spaccone, millantatore) perché si vantava fuor di proposito; e (panciuto) perché era pingue e carnoso; perché cenava all'oscuro, senza lucerna; (sordido) perché negletto e sporco.Clearco il filosofo dice che per Pittaco la ginnastica consisteva nel macinare il frumento. di lui questa breve epistola: Pittaco a Creso. M' inviti a venire in Lidia, a vedere la tua felicità; ma anche se non la vedo, sono fermamente convinto che il figlio di Aliatte il più ricco dei re. Nulla di più avrò se verrò a Sardi; non ho bisogno, infatti, di oro, ma posseggo quanto basta a me e ai miei amici. Tuttavia verrò per trattenermi a conversare con l'ospite amico.
+
+=== I,82 (Book 1) ===
+Κεφ. ε'. Βίας Τευτάμου Πριηνεύς, προκεκριμένος τῶν ἑπτὰ ὑπὸ Σατύρου. τοῦτον οἱ μὲν πλούσιον, Δοῦρις δὲ πάροικόν φησι γεγονέναι. Φανόδικος δὲ κόρας αἰχμαλώτους λυτρωσάμενον Μεσσηνίας θρέψαι τε ὡς θυγατέρας καὶ προῖκας ἐπιδοῦναι καὶ εἰς τὴν Μεσσήνην ἀποστεῖλαι τοῖς πατράσιν αὐτῶν. χρόνῳ δὲ ἐν ταῖς Ἀθήναις, ὡς προείρηται, τοῦ τρίποδος εὑρεθέντος ὑπὸ τῶν ἁλιέων, τοῦ χαλκοῦ, ἐπιγραφὴν ἔχοντος "τῷ σοφῷ", Σάτυρος μέν φησι παρελθεῖν τὰς κόρας-οἱ δὲτὸν πατέρααὐτῶν, ὡς καὶ Φανόδικος-εἰς τὴν ἐκκλησίαν, καὶ εἰπεῖν τὸν Βίαντα σοφόν, διηγησαμένας τὰ καθ' ἑαυτάς. καὶ ἀπεστάλη ὁ τρίπους˙ καὶ ὁ Βίας ἰδὼν ἔφη τὸνἈπόλλωνασοφὸν εἶναι, οὐδὲ προσήκατο. Κεφ. ε'. ΒΙΑΣ ΒΙΑΣ ΒΙΑΣ τὸν πατέρα Ἀπόλλωνα
+
+=== I,82it (Book 1) ===
+Capitolo V BIANTE BIANTE il primo dei Sette Sapienti. Alcuni dicono che fu ricco, Duride invece che non aveva una casa propria. Fanodico riferisce che egli riscattò delle vergini di Messenia prigioniere e le allevò come figlie e diede a tutte una dote e le rimandò poi a Messene dai loro padri. Successivamente, come abbiamo accennato, essendo stato rinvenuto da pescatori un tripode di bronzo con l'iscrizione «Al sapiente» le vergini, come riferisce Satiro, o il loro padre, come tramanda Fanodico, si presentarono in assemblea, esposero l'opera di Biante nei loro riguardi e lo proclamarono sapiente. Così gli fu mandato il tripode; e Biante, quando l'ebbe visto, disse che sapiente era Apollo e non volle accettarlo.
+
+=== I,83 (Book 1) ===
+οἱ δὲ λέγουσιν ἐν Θήβαις τῷ Ἡρακλεῖ αὐτὸν ἀναθεῖναι, ἐπεὶ ἀπόγονος ἦν Θηβαίων ἀποικίαν εἰς Πριήνην στειλάντων, ὥσπερ καὶ Φανόδικός φησι. Λέγεται δὲ καὶ Ἀλυάττου πολιορκοῦντος Πριήνην τὸν Βίαντα πιήναντα δύο ἡμιόνους ἐξελάσαι εἰς τὸ στρατόπεδον˙ τὸν δὲ συνιδόντα καταπλαγῆναι τὸ μέχρι καὶ ἀλόγων διατείνειν αὐτῶν τὴν εὐθένιαν. καὶ ἐβουλήθη σπείσασθαι, καὶ εἰσέπεμψεν ἄγγελον. Βίας δὲ σωροὺς ψάμμου χέας καὶ ἄνωθεν σῖτον περιχέας ἔδειξε τῷ ἀνθρώπῳ˙ καὶ τέλος μαθὼν ὁ Ἀλυάττης εἰρήνην ἐσπείσατο πρὸς τοὺς Πριηνέας. θᾶττον δ' αὐτῷ πέμψαντι πρὸς τὸν Βίαντα ἵνα ἥκοι παρ' αὐτόν, "ἐγὼ δέ," φησίν, Ἀλυάττῃ κελεύω κρόμμυα ἐσθίειν ἴσον τῷ κλαίειν
+
+=== I,84 (Book 1) ===
+ἢν τύχῃςκρίνωνδικάζευ τὴν Πριηνίην δίκην˙ καὶ Ἱππῶναξ˙"ἃ καὶ δικάζεσθαι Βίαντος τοῦΠριηνέως κρεῖσσον." Τοῦτονοὖνκαὶ ἐτελεύτα τὸν τρόπον. δίκην γὰρ ὑπέρ τινος λέξας ἤδη ὑπέργηρως ὑπάρχων, μετὰ τὸ καταπαῦσαι τὸν λόγον ἀπέκλινε τὴν κεφαλὴν εἰς τοὺς τοῦ τῆς θυγατρὸς υἱοῦ κόλπους˙ εἰπόντος δὲ καὶ τοῦ δι' ἐναντίας καὶ τῶν δικαστῶν τὴν ψῆφον ἐνεγκόντων τῷ ὑπὸ τοῦ Βίαντος βοηθουμένῳ, λυθέντος τοῦ δικαστηρίου νεκρὸς ἐν τοῖς κόλποις εὑρέθη. κρίνων οὖν
+
+=== I,84it (Book 1) ===
+Se ti capita di dover pagare un'ammenda, difenditi come quelli di Priene. ed Ipponatte: Difendere dinanzi ai giudici meglio di Biante di Priene. Morì in questo modo: era oltremodo avanzato negli anni quando ebbe a sostenere la difesa di un tale; alla fine del discorso, reclinò il capo nel seno del nipote, figlio di sua figlia. Dopo la perorazione di parte avversaria e dopo la sentenza dei giudici favorevole all'imputato difeso da Biante, finito il giudizio, egli fu trovato morto nel seno del nipote.
+
+=== I,85 (Book 1) ===
+κλεινοῖς ἐν δαπέδοισι Πριήνης φύντα καλύπτειἥδε Βίανταπέτρη, κόσμον Ἴωσι μέγαν.ἀλλὰ καὶ ἡμεῖς˙τῇδε Βίαντα κέκευθα, τὸν ἀτρέμας ἤγαγεν Ἑρμῆς εἰς Ἀίδην, πολιῷ γήραϊ νιφόμενον. εἶπε γάρ, εἶπε δίκην ἑτάρου τινός˙ εἶτ' ἀποκλινθεὶς παιδὸς ἐς ἀγκαλίδας μακρὸν ἔτεινεν ὕπνον. Ἐποίησε δὲ περὶ Ἰωνίας, τίνα μάλιστα ἂν τρόπον εὐδαιμονοίη, εἰς ἔπη δισχίλια. τῶν δὲ ᾳ)δομένων αὐτοῦ εὐδοκίμησε τάδε˙ ἀστοῖσιν ἄρεσκε πᾶσιν ἐν πόλει* αἴκεμένῃς˙ πλείσταν γὰρ ἔχει χάριν˙ αὐθάδης δὲ τρόποςπολλάκιβλαβερὰνἐξέλαμψεν ἄταν. πέτρη αἴκε πολλάκιβλαβερὰν
+
+=== I,85it (Book 1) ===
+Biante, nato nell'inclita terra di Priene, dei Ioni ornamento sovrano, questa pietra copre. Il nostro epitafio questo: Qui racchiudo Biante che coperto di canuta vecchiezza all'Ade placidamente Ermes addusse. Difese, un amico difese: poi reclinato il capo tra le braccia di un fanciullo, nel lungo sonno si stese. Compose un poema di duemila versi sulla Ionia, in qual modo potesse divenire specialmente prospera. Delle sue canzoni che erano cantate nei conviti ebbe speciale rinomanza questa: Piaci a tutti i cittadini, nella città in cui tu rimanga, ché il piacere a tutti riscuote moltissimo favore; un carattere scontroso fa rifulgere spesso rovinosa sciagura.
+
+=== I,86 (Book 1) ===
+καὶ τὸ μὲν ἰσχυρὸν γενέσθαι τῆς φύσεως ἔργον˙ τὸ δὲ λέγειν δύνασθαι τὰ συμφέροντα τῇ πατρίδι ψυχῆς ἴδιον καὶ φρονήσεως. εὐπορίαν δὲ χρημάτων πολλοῖς καὶ διὰ τύχην περιγίνεσθαι. ἔλεγε δὲ ἀτυχῆ εἶναι τὸν ἀτυχίαν μὴ φέροντα˙ καὶ νόσον ψυχῆς τὸ τῶν ἀδυνάτων ἐρᾶν, ἀλλοτρίωνδὲκακῶν ἀμνημόνευτον εἶναι. ἐρωτηθεὶς τί δυσχερές, "τὴν ἐπὶ τὸ χεῖρον," ἔφη, "μεταβολὴν εὐγενῶς ἐνεγκεῖν." συμπλέων ποτὲ ἀσεβέσι, χειμαζομένης τῆς νεὼς κἀκείνων τοὺς θεοὺς ἐπικαλουμένων, "σιγᾶτε," ἔφη, "μὴ αἴσθωνται ὑμᾶς ἐνθάδε πλέοντας." ἐρωτηθεὶς ὑπὸ ἀσεβοῦς ἀνθρώπου τί ποτέ ἐστιν εὐσέβεια, ἐσίγα. τοῦ δὲ τὴν αἰτίαν τῆς σιγῆς πυθομένου, "σιωπῶ," ἔφη, "ὅτι περὶ τῶν οὐδέν σοι προσηκόντων πυνθάνῃ." δὲ
+
+=== I,87 (Book 1) ===
+Ἐρωτηθεὶς τί γλυκὺ ἀνθρώποις, Ἐλπίς," ἔφη. Ἥδιον ἔλεγε δικάζειν μεταξὺ ἐχθρῶν ἢ φίλων˙ τῶν μὲν γὰρ φίλων πάντως ἐχθρὸν ἔσεσθαι τὸν ἕτερον, τῶν δὲ ἐχθρῶν τὸν ἕτερον φίλον. ἐρωτηθεὶς τί ποιῶν ἄνθρωπος τέρπεται, ἔφη, "κερδαίνων." ἔλεγέ τε τὸν βίον οὕτω μετρεῖν ὡς καὶ πολὺν καὶ ὀλίγον χρόνον βιωσομένους, καὶ φιλεῖν ὡς μισήσοντας˙ τοὺς γὰρ πλείστους εἶναι κακούς. συνεβούλευέ τε ὧδε˙ βραδέως ἐγχείρει τοῖςπραττομένοις˙ὃ δ' ἂν ἕλῃ, βεβαίως τηρῶν διάμενε. πραττομένοις˙
+
+=== I,87it (Book 1) ===
+Diceva che bisognava misurare la vita così come se dovessimo vivere e molto e poco tempo, e di amare come se dovessimo odiare, ché la maggior parte degli uomini malvagia. Dava questi consigli: accingiti lentamente alle opere, ma fermamente persisti nel realizzare ciò che ti sei proposto. Non parlare svelto: segno di pazzia. Ama la prudenza. Afferma l'esistenza degli dèi.
+
+=== I,88 (Book 1) ===
+μὴ ταχὺ λάλει˙ μανίαν γὰρ ἐμφαίνει. φρόνησιν ἀγάπα. περὶ θεῶν λέγε ὡς εἰσίν. ἀνάξιον ἄνδρα μὴ ἐπαίνει διὰ πλοῦτον. πείσας λαβέ, μὴ βιασάμενος. ὅ τι ἂν ἀγαθὸν πράττῃς, εἰς θεοὺς ἀνάπεμπε. ἐφόδιον ἀπὸ νεότητος εἰς γῆρας ἀναλάμβανε σοφίαν˙ βεβαιότερον γὰρ τοῦτο τῶν ἄλλων κτημάτων." Μέμνηται τοῦ Βίαντος καὶ Ἱππῶναξ, ὡς προείρηται, καὶ ὁ δυσάρεστος Ἡράκλειτος μάλιστα αὐτὸνἐπῄνεσεγράψας˙ "ἐν Πριήνῃ Βίας ἐγένετο ὁ Τευτάμεω, οὗ πλέων λόγος ἢ τῶν ἄλλων." καὶ οἱ Πριηνεῖς δὲ αὐτῷ τέμενος καθιέρωσαν τὸ Τευτάμειον λεγόμενον. ἀπεφθέγξατο˙ οἱ πλεῖστοι κακοί. ἐπῄνεσε
+
+=== I,88it (Book 1) ===
+ché questo più saldo degli altri possessi. Biante menzionato anche da Ipponatte, come si detto prima, e dallo schizzinoso Eraclito il quale ne fece questo grandioso elogio: In Priene nacque Biante, figlio di Teutamo, la cui fama superiore a quella degli altri. I Prienesi gli consacrarono un recinto, detto Tautamio. Suo apoftegma: "La massima parte degli uomini malvagia".
+
+=== I,89 (Book 1) ===
+Κεφ. ς'. Κλεόβουλος Εὐαγόρου Λίνδιος, ὡς δὲ Δοῦρις, Κάρ˙ἔνιοι δὲ εἰς Ἡρακλέα ἀναφέρειν τὸ γένος αὐτόν˙ ῥώμῃ δὲ καὶ κάλλει διαφέρειν, μετασχεῖν τε τῆς ἐν Αἰγύπτῳ φιλοσοφίας. γενέσθαι τε αὐτῷ θυγατέρα Κλεοβουλίνην, αἰνιγμάτων ἑξαμέτρων ποιήτριαν, ἧς μέμνηται καὶ Κρατῖνος ἐν τῷ ὁμωνύμῳ δράματι, πληθυντικῶς ἐπιγράψας. ἀλλὰ καὶ τὸ ἱερὸν τῆς Ἀθηνᾶς ἀνανεώσασθαι αὐτὸν κτισθὲν ὑπὸ Δαναοῦ. οὗτος ἐποίησεν ᾄσματα καὶ γρίφους εἰς ἔπη τρισχίλια. Καὶ τὸ ἐπίγραμμά τινες τὸ ἐπὶ Μίδᾳ τοῦτόν φασι ποιῆσαι˙χαλκῆ παρθένος εἰμί,Μίδαδ' ἐπὶ σήματι κεῖμαι.ἔστ' ἂν ὕδωρ τενάῃκαὶ δένδρεα μακρὰ τεθήλῃ, Κεφ. ς'. ΚΛΕΟΒΟΥΛΟΣ ΚΛΕΟΒΟΥΛΟΣ ΚΛΕΟΒΟΥΛΟΣ Μίδα νάῃ
+
+=== I,89it (Book 1) ===
+Capitolo VI CLEOBULO CLEOBULO Alcuni fanno risalire la sua stirpe ad Eracle. Si distinse per forza e per bellezza ed ebbe contatti con la filosofia egizia. Sua figlia fu Cleobulina, autrice di enigmi in esametri, di cui si ricorda anche Cratino nel dramma omonimo col titolo al plurale,Le Cleobuline. Restaurò anche il tempio di Atena, fondato da Danao. Compose canti e indovinelli per tremila versi; altri lo ritengono autore di questo epigramma per Mida: Bronzea vergine io sono, che giaccio sulla tomba di Mida.
+
+=== I,90 (Book 1) ===
+ἠέλιός τ' ἀνιὼν λάμπῃ, λαμπρά τε σελήνη, καὶ ποταμοί γε ῥέωσιν, ἀνακλύζῃ δὲ θάλασσα, αὐτοῦ τῇδε μένουσα πολυκλαύτῳ ἐπὶ τύμβῳ, ἀγγελέω παριοῦσι, Μίδας ὅτι τῇδε τέθαπται. φέρουσι δὲ μαρτύριον Σιμωνίδου ᾆσμα, ὅπου φησίτίς κεν αἰνήσειε νόῳ πίσυνοςΛίνδου ναέταν Κλεόβουλον ἀενάοις ποταμοῖς ἄνθεσί τ' εἰαρινοῖς ἀελίου τε φλογὶ χρυσέας τε σελάνας καὶ θαλασσαίαισιδίνῃςἀντιθένταμένος στάλας; ἅπαντα γάρ ἐστι θεῶν ἥσσω˙ λίθον δὲ καὶ βρότεοι παλάμαι θραύοντι˙ μωροῦ φωτὸς ἅδε βουλά. δίνῃςἀντιθέντα
+
+=== I,90it (Book 1) ===
+ed il sole sorgente brilli e la splendida luna ed i fiumi scorrano ed il mare ondeggi, qui rimanendo sulla tomba compianta di lui annunzierò ai passanti, che qui Mida sepolto. Per l'attribuzione a Cleobulo adducono la testimonianza di un canto di Simonide, là dove dice: Chi nel suo senno fidente potrebbe lodare Cleobulo di Lindo che ai fiumi sempre correnti, ai fiori della primavera, al fulgore del sole e dell'aurea luna, alle marine correnti oppone la forza di una stele? Ché tutto in potere degli dèi, ma la pietra pur una mano mortale infrange: questo il consiglio dell'uomo stolto. Che questo epigramma, dicono, non sia di Omero lo attesta anche il fatto che Mida visse molti anni dopo. Panfila nelleMemorietramanda pure il seguente enigma:
+
+=== I,91 (Book 1) ===
+εἷς ὁ πατήρ, παῖδες δυοκαίδεκα. τῶν δὲ ἑκάστῳ παῖδες δὶς τριάκοντα διάνδιχα εἶδος ἔχουσαι˙ αἱ μὲν λευκαὶ ἔασιν ἰδεῖν, αἱ δ' αὖτε μέλαιναι˙ ἀθάνατοι δέ τ' ἐοῦσαι, ἀποφθινύθουσιν ἅπασαι. ἔστι δ' ὁ ἐνιαυτός. Τῶν δὲ ἀ̣δομένωναὐτοῦ εὐδοκίμησεναὐτοῦ τάδε˙ Ἀμουσία τὸ πλέον μέρος ἐν βροτοῖσι,λόγων τε πλῆθος˙ ἀλλ' ὁ καιρὸς ἀρκέσει. φρόνει τι κεδνόν˙ μὴ μάταιοςἄχαρις γινέσθω. ἔφη δὲ δεῖν συνοικίζειν τὰς θυγατέρας, παρθένους μὲν τὴν ἡλικίαν τὸ δὲ φρονεῖν γυναῖκας˙ ὑποδεικνὺς ὅτι δεῖ παιδεύεσθαι καὶ τὰς παρθένους. ἔλεγέ τε τὸν φίλον δεῖν εὐεργετεῖν, ὅπως μᾶλλον ᾖ φίλος˙ τὸν δὲ ἐχθρὸν φίλον ποιεῖν. φυλάσσεσθαι γὰρ τῶν μὲν φίλων τὸν ψόγον, τῶν δὲ ἐχθρῶν τὴν ἐπιβουλήν. αὐτοῦ εὐδοκίμησεν ἄχαρις γινέσθω
+
+=== I,91it (Book 1) ===
+l'anno. Delle sue canzoni che erano cantate nei conviti ebbe speciale rinomanza questa: Dominano tra gli uomini rozza ignoranza e ciarloneria, ma l'opportunità ti preserverà. Sii sollecito del bene. La gratitudine non sia vana. Diceva che bisogna unire in matrimonio le figlie, vergini per età donne per maturità: ché egli esigeva l'educazione anche per le vergini. Bisogna beneficare l'amico perché diventi più amico, il nemico perché diventi amico: dobbiamo infatti evitare il rimprovero degli amici, l'insidia dei nemici.
+
+=== I,92 (Book 1) ===
+καὶ ὅταν τις ἐξίῃ τῆς οἰκίας, ζητείτω πρότερον τί μέλλει πράσσειν˙ καὶ ὅταν εἰσέλθῃ πάλιν, ζητείτω τί ἔπραξε. συνεβούλευέ τε εὖ τὸ σῶμα ἀσκεῖν˙ φιλήκοον εἶναι μᾶλλον ἢ φιλόλαλον˙ φιλομαθῆ μᾶλλον ἢ ἀμαθῆ γλῶσσαν εὔφημον ἴσχειν˙ ἀρετῆς οἰκεῖον εἶναι, κακίας ἀλλότριον˙ ἀδικίαν φεύγειν˙ πόλει τὰ βέλτιστα συμβουλεύειν˙ ἡδονῆς κρατεῖν˙ βίᾳ μηδὲν πράττειν˙ τέκνα παιδεύειν˙ ἐχθρὰν διαλύειν. γυναικὶ μὴ φιλοφρονεῖσθαι, μηδὲ μάχεσθαι, ἀλλοτρίων παρόντων˙ τὸ μὲν γὰρ ἄνοιαν, τὸ δὲ μανίαν σημαίνει. οἰκέτηνπαρ' οἶνονμὴ κολάζειν, δοκεῖν γὰρἂνπαροινεῖν. γαμεῖν ἐκ τῶν ὁμοίων˙ ἂν γὰρ ἐκ τῶν κρειττόνων λάβῃς, φησί, δεσπότας κτήσῃ τοὺς συγγενέας. παρ' οἶνον ἂν
+
+=== I,93 (Book 1) ===
+μὴἐπεγγελᾶντοῖς σκωπτομένοις˙ ἀπεχθήσεσθαι γὰρ τούτοις. εὐτυχῶν μὴ ἴσθι ὑπερήφανος˙ ἀπορήσας μὴ ταπεινοῦ. τὰς μεταβολὰς τῆς τύχης γενναίως ἐπίστασο φέρειν. Ἐτελεύτησε δὲ γηραιός, ἔτη βιοὺς ἑβδομήκοντα˙ καὶ αὐτῷ ἐπεγράφη˙ ἄνδρα σοφὸν Κλεόβουλον ἀποφθίμενον καταπενθεῖ ἥδε πάτρα Λίνδος πόντῳ ἀγαλλομένη. Κλεόβουλος Σόλωνι "Πολλοὶ μέν τιν ἔασιν ἕταροι καὶ οἶκος πάντη˙ φαμὶ δὲ ἐγὼν ποτανεστάταν ἐσεῖσθαι Σόλωνι τὰν Λίνδον δαμοκρατεομέναν. καὶ ἁ νᾶσος πελαγία, ἔνθα οἰκέοντι οὐδὲν δεινὸν ἐκ Πεισιστράτω. καὶ τοὶ ἕταροι δὲ ἑκάστοθεν πὰρ τὺ βασοῦνται." ἐπεγγελᾶν μέτρον
+
+=== I,93it (Book 1) ===
+Morì vecchio, all'età di settant'anni; e sulla sua tomba fu scritto: Questa terra di Lindo, che del mare si adorna e che fu patria del sapiente Cleobulo, lo piange estinto. Suo apoftegma: «Ottima la misura». A Solone inviò questa lettera: Cleobulo a Solone. Molti sono i tuoi amici e dovunque hai una casa: io dico che a Solone graditissima sede sarebbe Lindo, città democratica. una isola nel mare alto: una volta qui giunto, nulla hai da temere da parte di Pisistrato. E gli amici da ogni parte a te verranno.
+
+=== I,94 (Book 1) ===
+Κεφ. ζ Περίανδρος Κυψέλου Κορίνθιος ἀπὸ τοῦ τῶν Ἡρακλειδῶν γένους. οὗτος γήμας Λυσίδην, ἣν αὐτὸς Μέλισσαν ἐκάλει, τὴν Προκλέους τοῦ Ἐπιδαυρίων τυράννου καὶ Ἐρισθενείας τῆς Ἀριστοκράτους παιδός, ἀδελφῆς δὲἈριστοδήμουθυγατέρα, οἳ σχεδὸν πάσης Ἀρκαδίας ἐπῆρξαν, ὥς φησιν Ἡρακλείδης ὁ Ποντικὸς ἐν τῷ Περὶ ἀρχῆς, παῖδας ἐξ αὐτῆς ἐποίησε δύο, Κύψελον καὶ Λυκόφρονα˙ τὸν μὲν νεώτερον συνετόν, τὸν δὲ πρεσβύτερον ἄφρονα. χρόνῳ δὴ ὑπ' ὀργῆς βαλὼν ὑποβάθρῳ ἢ λακτίσας τὴν γυναῖκα ἔγκυον οὖσαν ἀπέκτεινε, πεισθεὶς διαβολαῖς παλλακίδων, ἃς ὕστερον ἔκαυσε. Τόν τε παῖδα ἀπεκήρυξεν εἰς Κέρκυραν λυπούμενον ἐπὶ τῇ μητρί, ᾧ ὄνομα Λυκόφρων. Κεφ. ζ ΠΕΡΙΑΝΔΡΟΣ ΠΕΡΙΑΝΔΡΟΣ ΠΕΡΙΑΝΔΡΟΣ Ἀριστοδήμου
+
+=== I,94it (Book 1) ===
+Capitolo VII PERIANDRO PERIANDRO che chiamava anche Melissa, figlia di Procle, tiranno di Epidauro, e di Eristenia, figlia di Aristocrate e sorella di Aristodemo, i quali dominarono su quasi tutta l'Arcadia, come attesta Eraclide Pontico nel libroDel regno. Da lei ebbe due figli, Cipselo e Licofrone; di cui il più giovane era intelligente, il più anziano stolto. Successivamente, in un impeto d'ira colpì con uno sgabello o a calci la moglie gravida e l'uccise, cedendo alle insinuazioni delle concubine, che poi bruciò vive. Il figlio Licofrone, che si mostrò addolorato per la sorte toccata alla madre, fu bandito a Corfù.
+
+=== I,95 (Book 1) ===
+ἤδη δὲ ἐν γήρᾳ καθεστὼς μετεπέμπετο αὐτὸν ὅπωςπαραλάβοιτὴν τυραννίδα˙ ὃν φθάσαντες οἱ Κερκυραῖοι διεχρήσαντο. ὅθεν ὀργισθεὶς ἔπεμψε τοὺς παῖδας αὐτῶν πρὸς Ἀλυάττην ἐπ' ἐκτομῇ˙ προσσχούσης δὲ τῆς νεὼς Σάμῳ, ἱκετεύσαντες τὴν Ἥραν ὑπὸ τῶν Σαμίων διεσώθησαν. Καὶ ὃς ἀθυμήσας ἐτελεύτησεν, ἤδη γεγονὼς ἔτη ὀγδοήκοντα. Σωσικράτης δέ φησι πρότερον Κροίσου τελευτῆσαι αὐτὸν ἔτεσι τεσσαράκοντα καὶ ἑνί, πρὸ τῆς τεσσαρακοστῆς ἐνάτης Ὀλυμπιάδος. τοῦτον Ἡρόδοτος ἐν τῇ πρώτῃ ξένον φησὶν εἶναι Θρασυβούλῳ τῷ Μιλησίων τυράννῳ. παραλάβοι
+
+=== I,95it (Book 1) ===
+attesta che morì quarantuno anni prima di Creso, prima della XLIX Olimpiade. Erodoto nel suo primo libro dice che egli fu ospite di Trasibulo, tiranno di Mileto.
+
+=== I,96 (Book 1) ===
+Φησὶ δὲ Ἀρίστιππος ἐν πρώτῳ Περὶ παλαιᾶς τρυφῆς περὶ αὐτοῦ τάδε, ὡς ἄρα ἐρασθεῖσα ἡ μήτηρ αὐτοῦ Κράτεια συνῆν αὐτῷ λάθρα˙ καὶ ὃς ἥδετο. φανεροῦ δὲ γενομένου βαρὺς πᾶσιν ἐγένετο διὰ τὸ ἀλγεῖν ἐπὶ τῇ φωρᾷ. ἀλλὰ καὶ Ἔφορος ἱστορεῖ ὡς εὔξαιτο, εἰ νικήσειεν Ὀλύμπια τεθρίππῳ, χρυσοῦν ἀνδριάντα ἀναθεῖναι˙ νικήσας δὲ καὶ ἀπορῶν χρυσίου, κατά τινα ἑορτὴν ἐπιχώριον κεκοσμημένας ἰδὼν τὰς γυναῖκας πάντα ἀφείλετο τὸν κόσμον, καὶ ἔπεμψε τὸ ἀνάθημα. Λέγουσι δέ τινες ὡς θελήσας αὐτοῦ τὸν τάφον μὴ γνωσθῆναι, τοιοῦτόν τι ἐμηχανήσατο. δυσὶν ἐκέλευσε νεανίσκοις, δείξας τινὰ ὁδόν, ἐξελθεῖν νύκτωρ καὶ τὸν ἀπαντήσαντα ἀνελεῖν καὶ θάψαι˙ ἔπειτα βαδίζεινἄλλους τεκατὰ τούτων τέτταρας, καὶ ἀνελόντας θάψαι˙ πάλιν τε κατὰ τούτων πλείονας. καὶ οὕτως αὐτὸς τοῖς πρώτοις ἐντυχὼν ἀνῃρέθη. Κορίνθιοι δὲ ἐπί τι κενοτάφιον ἐπέγραψαν αὐτῷ τόδε˙ ἄλλους τε
+
+=== I,96it (Book 1) ===
+dice che sua madre Crateia era innamorata di lui ed a lui si univa di nascosto e che egli se ne compiaceva. Divulgatasi la notizia, si addolorò per essere stato scoperto e divenne severissimo con tutti. Eforo inoltre riferisce che Periandro aveva promesso di dedicare al dio una statua d'oro, se avesse vinto a Olimpia con la quadriga. Vinse, ma non aveva l'oro. Allora, come ebbe visto in una festa locale le donne riccamente adorne, le assalì e le privò di tutti gli ornamenti ed inviò al dio il dono promesso. Dicono alcuni che, non volendo che il suo sepolcro fosse riconosciuto, ricorresse a questo espediente. Indicò una strada a due giovinetti e ordinò loro di uscire per quella di notte e di uccidere e seppellire colui che avessero incontrato; poi ordinò ad altri quattro di inseguire costoro, di ucciderli e di seppellirli, ed ancora a parecchi altri d'inseguire i quattro. E così egli imbattutosi nei primi fu ucciso. I Corinzii su un suo cenotafio scrissero il seguente epigramma:
+
+=== I,97 (Book 1) ===
+πλούτου καὶσοφίηςπρύτανιν πατρὶς ἥδε Κόρινθος κόλποιςἀγχιάλοςγῆ Περίανδρον ἔχει. ἔστι καὶ ἡμῶν˙μή ποτε λυπήσῃ σε τὸ μή σε τυχεῖν τινος˙ ἀλλὰ τέρπεο πᾶσιν ὁμῶς οἷσι δίδωσι θεός. καὶ γὰρ ἀθυμήσας ὁ σοφὸς Περίανδρος ἀπέσβη, οὕνεκεν οὐκἔτυχενπρήξιος ἧς ἔθελεν. Τούτου ἐστὶ καὶ τὸ Μηδὲν χρημάτων ἕνεκα πράττειν˙ δεῖν γὰρ τὰ κερδαντὰ κερδαίνειν. ἐποίησε δὲ καὶ ὑποθήκας εἰς ἔπη δισχίλια. εἶπέ τε τοὺς μέλλοντας ἀσφαλῶς τυραννήσειν τῇ εὐνοίᾳ δορυφορεῖσθαι, καὶ μὴ τοῖς ὅπλοις. καί ποτε ἐρωτηθεὶς διὰ τί τυραννεῖ, ἔφη, "ὅτι καὶ τὸ ἑκουσίως ἀποστῆναι καὶ τὸ ἀφαιρεθῆναι κίνδυνον φέρει." ἔλεγε δὲ καὶ τάδε˙ καλὸν ἡσυχία˙ ἐπισφαλὲς προπέτεια˙ κέρδος αἰσχρόν˙*δημοκρατία κρεῖττον τυραννίδος˙ αἱ μὲν ἡδοναὶ φθαρταί, αἱ δὲ τιμαὶ ἀθάνατοι˙ σοφίης ἀγχιάλος ἔτυχεν
+
+=== I,97it (Book 1) ===
+ὑποθῆκαι
+---
+Anche noi gli abbiamo dedicato un epigramma: Mai non t'affliggere se non ottieni una cosa, egualmente godi di ciò che ti concede dio. Ché sdegnato ed avvilito il saggio Periandro se ne andò perché non ottenne quel che voleva. Di lui questo precetto: «Non far nulla per danaro: bisogna guadagnare il guadagnabile». Compose esortazioni per duemila versi. Disse che chi volesse essere un tiranno sicuro doveva armarsi di benevolenza, non di armi. Ed una volta interrogato perché mai facesse il tiranno, rispose: «Perché tanto il tenersi volontariamente in disparte quanto l'essere accantonato pericoloso». Era solito dire pure: la tranquillità cosa bella, la temerarietà pericolosa, il guadagno vergognoso; la democrazia superiore alla tirannide; i piaceri sono effimeri, gli onori immortali.
+
+=== I,98 (Book 1) ===
+εὐτυχῶν μὲν μέτριος ἴσθι, δυστυχῶν δὲ φρόνιμος˙ φίλοις εὐτυχοῦσι καὶἀτυχοῦσινὁ αὐτὸς ἴσθι˙ ὃ ἂν ὁμολογήσῃς, διατήρει˙ λόγων ἀπορρήτων ἐκφορὰν μὴ ποιοῦ˙ μὴ μόνον τοὺς ἁμαρτάνοντας, ἀλλὰ καὶ τοὺς μέλλοντας κόλαζε. Οὗτος πρῶτος δορυφόρους ἔσχε, καὶ τὴν ἀρχὴν εἰς τυραννίδα μετέστησε˙ καὶ οὐκ εἴα ἐν ἄστει ζῆν τοὺς βουλομένους, καθά φησιν Ἔφορος καὶ Ἀριστοτέλης. Ἤκμαζε δὲ περὶ τὴν τριακοστὴν ὀγδόην Ὀλυμπιάδα, καὶ ἐτυράννησεν ἔτη τετταράκοντα. Σωτίων δὲ καὶ Ἡρακλείδης καὶ Παμφίλη ἐν τῷ πέμπτῳ τῶν Ὑπομνημάτων δύο φασὶ ἐν τῷ πέμπτῳ τῶν Ὑπομνημάτων δύο φασὶ Περιάνδρους γεγονέναι, τὸν μὲν τύραννον, τὸν δὲ σοφὸν καὶ Ἀμβρακιώτην. ἀτυχοῦσιν
+
+=== I,98it (Book 1) ===
+ed Aristotele. La sua acme nella XXXVIII Olimpiade; fu tiranno per quarant'anni. Sozione, Eraclide e Panfila nel quinto libro delleMemorieattestano che vi furono due Periandri, l'uno tiranno, l'altro sapiente nato in Ambracia.
+
+=== I,99 (Book 1) ===
+τοῦτο καὶ Νεάνθης φησὶν ὁ Κυζικηνός, ἀνεψιούς τε εἶναι ἀλλήλοις. καὶ Ἀριστοτέλης μὲν τὸν Κορίνθιόν φησιν εἶναι τὸν σοφόν˙ Πλάτων δὲ οὔφησι. Τούτου ἐστί˙ Μελέτη τὸ πᾶν. ἤθελε δὲ καὶ τὸν Ἰσθμὸν διορύξαι. Περίανδρος τοῖς Σοφοῖς Πολλὰ χάρις τῷ Πυθοῖ Ἀπόλλωνι τοῦ εἰς ἓν ἐλθόντας εὑρεῖν. ἀξοῦντί τε καὶ ἐς Κόρινθον ταὶ ἐμαὶ ἐπιστολαί. ἐγὼν δὲ ὑμᾶςἀποδέχομαι, ὡς ἴστε αὐτοί, ὅτι δαμοτικώτατα. πεύθομαι ὡς πέρυτι ἐγένετο ὑμῶν ἁλία παρὰ τὸν Λυδὸν ἐς Σάρδεις. ἤδη ὦν μὴ ὀκνεῖτε καὶ παρ' ἐμὲ φοιτῆν τὸν Κορίνθου τύραννον. ὑμᾶς γὰρ καὶ ἄσμενοι ὄψονται Κορίνθιοι φοιτεῦντας ἐς οἶκον τὸν Περιάνδρου." Περίανδρος Προκλεῖ φησι ἐπιστολή ἀποδέχομαι
+
+=== I,99it (Book 1) ===
+il quale aggiunge che erano legati l'uno all'altro da vincoli di parentela. Ed Aristotele dice che il corinzio il sapiente; Platone lo nega. Di lui l'apoftegma: «Lo zelo tutto». Voleva anche perforare l'Istmo. Di lui si tramandano pure queste epistole: Periandro ai Sapienti. Molte grazie ad Apollo Pitio del trovarvi insieme convenuti. Le mie lettere vi porteranno a Corinto. Io vi accoglierò come sapete, nel modo più civile. So che l'anno scorso teneste adunanze a Sardi alla corte del re lidio. Orbene non indugiate oltre, ad incontrare il tiranno di Corinto. I Corinzii vi vedranno volentieri ospiti nella casa di Periandro. Periandro a Procle.
+
+=== I,100 (Book 1) ===
+Ἐμὶν μὲν ἀκούσιον τᾶς δάμαρτος τὸ ἄγος˙ τὺ δὲ ἑκὼν τῷ παιδίμεἄπο θυμοῦ ποιήσαις ἀδικεῖς. ἢ ὦν παῦσον τὰν ἀπήνειαν τῶ παιδός, ἢ ἐγὼν τὺ ἀμυνοῦμαι. καὶ γὰρ δὴν καὶ αὐτὸς ποινὰς ἔτισα τὶν τᾷ θυγατρί,συγκατακαύσαιςαὐτᾷ τὰπασᾶνΚορινθιᾶν εἵματα." Θρασύβουλος Περιάνδρῳ "Τῷ μὲν κήρυκι σεῦ οὐδὲν ὑπεκρινάμην˙ ἀγαγὼν δὲ αὐτὸν ἐς λήϊον, τοὺς ὑπερφυέας τῶν ἀσταχύων ῥάβδῳ παίων ἀπεθέριζον, ὁμαρτέοντος ἐκείνου. καί σοι ἀναγγελέει εἰ ἐπέροιο ὅ τι μευ ἀκούσειεν ἢ ἴδοι. σὺδὲποίει οὕτως, ἤν γ' ἐθέλῃς καρτύνασθαι τὴν αἰσυμνητίην˙ τοὺς ἐξόχους τῶν πολιτέων ἐξαίρειν, ἤν τέ τις ἐχθρός τοι φαίνηται, ἤν τε μή. ὕποπτος γὰρ ἀνδρὶ αἰσυμνήτῃ καὶ τῶν τις ἑτάρων." με συγκατακαύσαις πασᾶν οὕτω δὲ
+
+=== I,100it (Book 1) ===
+A lui scrisse anche Trasibulo così: Trasibulo a Periandro. Al tuo araldo nulla risposi. Ma lo condussi in un campo di messi, ove io, alla sua presenza, con un bastone colpivo e recidevo le spighe preminenti sulle altre. Se tu l'interrogherai, egli ti riferirà quello che ha sentito e visto di me. Se tu vuoi rinvigorire la tirannide, fa' così: elimina i preminenti fra i cittadini sia che ti sembrino nemici sia amici. Ché ad un tiranno anche gli amici sono sospetti.
+
+=== I,101 (Book 1) ===
+Κεφ. η'. Ἀνάχαρσις ὁ Σκύθης Γνούρου μὲν ἦν υἱός, ἀδελφὸς δὲΚαδουΐδατοῦ Σκυθῶν βασιλέως, μητρὸς δὲ Ἑλληνίδος˙ διὸ καὶ δίγλωττος ἦν. οὗτος ἐποίησε τῶν τε παρὰ τοῖς Σκύθαις νομίμων καὶ τῶν παρὰ τοῖς Ἕλλησιν εἰς εὐτέλειαν βίου καὶ τὰ κατὰτὸνπόλεμον ἔπη ὀκτακόσια. παρέσχε δὲ καὶ ἀφορμὴν παροιμίας διὰ τὸ παρρησιαστὴς εἶναι,τὴνἀπὸ Σκυθῶν ῥῆσιν. Λέγει δὲ αὐτὸν Σωσικράτης ἐλθεῖν εἰς Ἀθήνας κατὰ τὴν τεσσαρακοστὴν ἑβδόμην Ὀλυμπιάδα ἐπὶ ἄρχοντος Εὐκράτους. Ἕρμιππος δὲ πρὸς τὴν Σόλωνος οἰκίαν ἀφικόμενον τῶν θεραπόντων τινὶ κελεῦσαι μηνῦσαι ὅτι παρείη πρὸς αὐτὸν Ἀνάχαρσις,καὶ βούλοιτο αὐτὸν θεάσασθαι, ξένος τε, εἰ οἷόν τε, γενέσθαι. Κεφ. η'. ΑΝΑΧΑΡΣΙΣ Ο ΣΚΨΘΗΣ ΑΝΑΧΑΡΣΙΣ Ο ΣΚΨΘΗΣ ΑΝΑΧΑΡΣΙΣ Ο ΣΚΨΘΗΣ Καδουΐδα τὸν τὴν
+
+=== I,101it (Book 1) ===
+Capitolo VIII ANACARSI LO SCITA ANACARSI LO SCITA sulle istituzioni degli Sciti e dei Greci con riguardo alla semplicità e frugalità della vita e ad argomenti di guerra. Per il suo libero e franco parlare, diede origine a quel detto proverbiale: «espressione scitica». Sosicrate riferisce che venne ad Atene nella XLVII Olimpiade sotto l'arconte Eucrate. Ermippo narra che venuto alla casa di Solone abbia pregato uno dei servi di annunziare la sua presenza a Solone e il suo desiderio di visitarlo e di divenire ospite, se fosse possibile;
+
+=== I,102 (Book 1) ===
+καὶ ὁ θεράπων εἰσαγγείλας ἐκελεύσθη ὑπὸ τοῦ Σόλωνος εἰπεῖν αὐτῷ, ὅτιπερ ἐν ταῖς ἰδίαις πατρίσι ξένους ποιοῦνται. ἔνθεν ὁ Ἀνάχαρσις ἑλὼν ἔφη νῦν αὐτὸν ἐν τῇ πατρίδι εἶναι καὶ προσήκειν αὐτῷ ξένους ποιεῖσθαι. ὁ δὲ καταπλαγεὶς τὴν ἑτοιμότηταεἰσέφρησεναὐτὸν καὶ μέγιστον φίλον ἐποιήσατο. Μετὰ χρόνον δὲ παραγενόμενος εἰς τὴν Σκυθίαν καὶδοκῶντὰ νόμιμα παραλύειν τῆς πατρίδος πολὺς ὢν ἐν τῷ ἑλληνίζειν, τοξευθεὶς ἐν κυνηγεσίῳ πρὸς τἀδελφοῦ τελευτᾷ, εἰπὼν διὰ μὲν τὸν λόγον ἐκ τῆς Ἑλλάδος σωθῆναι, διὰ δὲ τὸν φθόνον ἐν τῇ οἰκείᾳ ἀπολέσθαι. ἔνιοι δὲ τελετὰς Ἑλληνικὰς ἐπιτελοῦντα διαχρησθῆναι. Καὶ ἔστιν ἡμῶν εἰς αὐτόν˙ εἰσέφρησεν δοκῶν
+
+=== I,102it (Book 1) ===
+e gli abbia risposto che egli era nella sua patria e che era per lui conveniente procurarsi ospiti; e che Solone, colpito dalla prontezza della risposta, lo abbia lasciato entrare e lo abbia tenuto per grandissimo amico. Dopo alcun tempo, ritornò nella Scizia e pensava di rinnovare le patrie istituzioni secondo l'indirizzo ellenico che egli aveva assimilato; ma colpito in una battuta di caccia da una saetta scoccata dal fratello morì mentre diceva che la reputazione l'aveva salvato in Grecia, l'invidia l'aveva ucciso in patria. Alcuni dicono che sia stato ucciso mentre celebrava riti greci. Per lui v'è questo nostro epigramma:
+
+=== I,103 (Book 1) ===
+ἐς Σκυθίην Ἀνάχαρσις ὅτ' ἤλυθε, πολλὰ πλανηθεὶς πάντας ἔπειθε βιοῦν ἤθεσιν Ἑλλαδικοῖς. τὸν δ' ἔτι μῦθον ἄκραντον ἐνὶ στομάτεσσιν ἔχοντα πτηνὸς ἐς ἀθανάτους ἥρπασεν ὦκα δόναξ. Οὗτος τὴν ἄμπελον εἶπε τρεῖς φέρειν βότρυς˙ τὸν πρῶτον ἡδονῆς˙ τὸν δεύτερον μέθης˙ τὸν τρίτον ἀηδίας. θαυμάζειν δὲ ἔφη πῶς παρὰ τοῖς Ἕλλησιν ἀγωνίζονται μὲν οἱ τεχνῖται, κρίνουσι δὲ οἱ μὴ τεχνῖται. ἐρωτηθεὶς πῶς οὐκ ἂν γένοιτό τις φιλοπότης, "εἰ πρὸ ὀφθαλμῶν," εἶπεν, "ἔχοι τὰς τῶν μεθυόντων ἀσχημοσύνας." θαυμάζειν τε ἔλεγε πῶς οἱ Ἕλληνες νομοθετοῦντες κατὰ τῶν ὑβριζόντων, τοὺς ἀθλητὰς τιμῶσιν ἐπὶ τῷ τύπτειν ἀλλήλους. μαθὼν τέτταρας δακτύλους εἶναι τὸ πάχος τῆς νεώς, ἀλλήλους,τοσοῦτονἔφη τοῦ θανάτου τοὺς πλέοντας ἀπέχειν. τοσοῦτον
+
+=== I,103it (Book 1) ===
+Egli disse che la vite produce tre grappoli: il primo del piacere, il secondo dell'ubriachezza, il terzo del disgusto. Esprimeva la sua meraviglia per il fatto che in Grecia gli artisti partecipano agli agoni e coloro che artisti non sono giudicano. Interrogato quale fosse il modo per odiare il vino, rispose: «Avere innanzi agli occhi le intemperanze degli ubriachi». Un altro motivo di meraviglia riguardante i Greci era questo: che mentre fanno leggi per punire la violenza, onorano gli atleti perché si battono l'un con l'altro. Dopo aver appreso che lo spessore di una nave era di quattro dita, disse che tanto erano lontani dalla morte i passeggeri.
+
+=== I,104 (Book 1) ===
+Τὸ ἔλαιον μανίας φάρμακον ἔλεγε διὰ τὸ ἀλειφομένους τοὺς ἀθλητὰς ἐπιμαίνεσθαι ἀλλήλοις. πῶς, ἔλεγεν, ἀπαγορεύοντες τὸ ψεύδεσθαι ἐν ταῖς καπηλείαις φανερῶς ψεύδονται; καὶ θαυμάζειν φησὶ πῶς Ἕλληνες ἀρχόμενοι μὲν ἐν μικροῖς πίνουσι, πλησθέντες δὲ ἐν μεγάλοις. ἐπιγράφεται δὲ αὐτοῦ ταῖς εἰκόσι˙ "γλώσσης, γαστρός, αἰδοίων κρατεῖν." ἐρωτηθεὶς εἰ εἰσὶν ἐν Σκύθαις αὐλοί, εἶπεν, "ἀλλ' οὐδὲ ἄμπελοι." ἐρωτηθεὶς τίνα τῶν πλοίων εἰσὶν ἀσφαλέστερα, ἔφη, "τὰ νενεωλκημένα." καὶ τοῦτο ἔφη θαυμασιώτατον ἑωρακέναι παρὰ τοῖς Ἕλλησιν, ὅτι τὸν μὲν καπνὸν ἐν τοῖς ὄρεσι καταλείπουσι, τὰ δὲ ξύλα εἰς τὴν πόλιν κομίζουσι. ἐρωτηθεὶς πότεροι πλείους εἰσίν, οἱ ζῶντες ἢ οἱ νεκροί, ἔφη, "τοὺς οὖν πλέοντας ποῦ τίθης;" ὀνειδιζόμενος ὑπὸ Ἀττικοῦ ὅτι Σκύθης ἐστίν, ἔφη, "ἀλλ'ἐμοῦμὲν ὄνειδος ἡ πατρίς, σὺ δὲτῆς πατρίδος." ἐμοῦ τῆς πατρίδος
+
+=== I,104it (Book 1) ===
+αὐλοί ἄμπελοι
+---
+rispose: «Neppure viti» Interrogato quale nave fosse più sicura, rispose: «Quella tirata in secco». Ma la cosa più strana che diceva di aver vista in Grecia era che i Greci lasciano il fumo sui monti e portano la legna in città. Interrogato se fossero più i vivi che i morti, rispose: «E i naviganti dove li metti?» Insultato da un ateniese perché era scita, disse: «La patria disonora me, tu la tua patria».
+
+=== I,105 (Book 1) ===
+ἐρωτηθεὶς τί ἐστιν ἐν ἀνθρώποις ἀγαθόν τε καὶ φαῦλον,ἔφη, "γλῶσσα."κρεῖττον ἔλεγεν ἕνα φίλον ἔχειν πολλοῦ ἄξιον ἢ πολλοὺς μηδενὸς ἀξίους. τὴν ἀγορὰν ὡρισμένον ἔφη τόπον εἰς τὸ ἀλλήλους ἀπατᾶν καὶ πλεονεκτεῖν. ὑπὸ μειρακίου παρὰ πότον ὑβρισθεὶς ἔφη, "μειράκιον, ἐὰν νέος ὢν τὸν οἶνονοὐφέρῃς, γέρων γενόμενος ὕδωρ οἴσεις."Εὗρε δ' εἰς τὸν βίον ἄγκυράν τε καὶκεραμικὸντροχόν, ὥς τινες.Καὶ ἐπέστειλεν ὧδε˙ Ἀνάχαρσις Κροίσῳ "Ἐγώ, βασιλεῦ Λυδῶν, ἀφῖγμαι εἰς τὴν τῶν Ἑλλήνων, διδαχθησόμενος ἤθη τὰ τούτων καὶ ἐπιτηδεύματα. χρυσοῦ δ' οὐδὲν δέομαι, ἀλλ' ἀπόχρη με ἐπανήκειν ἐς Σκύθας ἄνδρα ἀμείνονα. ἥκω γοῦν ἐς Σάρδεις, πρὸ μεγάλου ποιούμενος ἐν γνώμῃ τοι γενέσθαι." ἔφη, "γλῶσσα." οὐ κεραμικὸν
+
+=== I,105it (Book 1) ===
+Anacarsi a Creso. Io, o re dei Lidi, sono venuto tra i Greci per apprendere i loro costumi ed i loro modi di vita. Non ho bisogno di oro, ma mi basta tornare tra gli Sciti uomo migliore. Sono venuto a Sardi ritenendo cosa grande godere della tua stima.
+
+=== I,106 (Book 1) ===
+Κεφ. θ'. Μύσων Στρύμωνος, ὥς φησι Σωσικράτης Ἕρμιππον παρατιθέμενος, τὸ γένος Χηνεύς, ἀπὸ κώμης τινὸς Οἰταϊκῆς ἢ Λακωνικῆς, σὺν τοῖς ἑπτὰ καταριθμεῖται. φασὶ δὲ αὐτὸν καὶ τυράννου πατρὸς εἶναι. λέγεται δὴ πρός τινος Ἀναχάρσιδος πυνθανομένου εἴ τις αὐτοῦ σοφώτερος εἴη, τὴν Πυθίανἀνελεῖνἅπερ προείρηται ἐν τῷ Θαλοῦ βίῳ ὑπὲρ Χίλωνος. Οἰταῖον τινά φημι Μύσωνα ἐν Χηνὶ γενέσθαι σοῦ μᾶλλον πραπίδεσσιν ἀρηρότα πευκαλίμῃσι. πολυπραγμονήσανταδὲἐλθεῖν εἰς τὴν κώμην καὶ εὑρεῖν αὐτὸν θέρους ἐχέτλην ἀρότρῳ προσαρμόττοντα, καὶ εἰπεῖν, "ἀλλ', ὦ Μύσων, οὐχ ὥρα νῦν ἀρότρου." "καὶ μάλα," εἶπεν, "ὥστε ἐπισκευάζειν." Κεφ. θ'. ΜΥΣΩΝ ΜΥΣΩΝ ΜΥΣΩΝ ἀνελεῖν δὲ
+
+=== I,106it (Book 1) ===
+Capitolo IX MISONE MISONE sull'autorità di Ermippo, nacque a Chene, un villaggio del distretto di Eta o della Laconia. annoverato tra i Sette Sapienti.Dicono che suo padre sia stato un tiranno. Si tramanda da parte di qualcuno che quando Anacarsi chiese se ci fosse altri più saggio di lui, la Pitia diede il responso che noi più su abbiamo riportato nellaVita di Talete, con riferimento a Chilone: Uno di Eta, io dico, Misone nato in Chene che più di te ha la mente fissa alla saggezza. Il sollecito indagatore, Anacarsi, venne al villaggio, e trovò Misone che d'estate adattava la stiva all'aratro, e disse: «Ma, o Misone, non questo il tempo dell'aratro». Gli rispose: «Ma ora sì, che tempo di approntarlo».
+
+=== I,107 (Book 1) ===
+ἄλλοι δὲ τὸν χρησμὸν οὕτως ἔχειν φασί, Ἠτεῖόν τινάφημι˙" καὶ ζητοῦσι τί ἐστιν ὁ Ἠτεῖος.Παρμενίδηςμὲν οὖν δῆμον εἶναι Λακωνικῆς, ὅθεν εἶναι τὸν Μύσωνα. Σωσικράτης δ' ἐν Διαδοχαῖς, ἀπὸ μὲν πατρὸς Ἠτεῖον εἶναι, ἀπὸ δὲ μητρὸς Χηνέα. Εὐθύφρων δ' ὁ Ἡρακλείδου τοῦ Ποντικοῦ, Κρῆτά φησιν εἶναι˙ Ἠτείαν γὰρ πόλιν εἶναι Κρήτης.Ἀναξίλαοςδ' Ἀρκάδα.Μέμνηται δ' αὐτοῦ καὶ Ἱππῶναξ εἰπών˙καὶ Μύσων ὃν Ὡπόλλων ἀνεῖλενἀνδρῶν σωφρονέστατον πάντων. Ἀριστόξενος δέ φησιν ἐντοῖςσποράδην οὐ πόρρω Τίμωνος αὐτὸν καὶ Ἀπημάντου γεγονέναι˙ φημι Παρμενίδης Ἀναξίλαος ἀνεῖλεν τοῖς
+
+=== I,107it (Book 1) ===
+dice che Etis un paese della Laconia, di cui era nativo Misone. Sosicrate nelleSuccessioni dei filosofidice che eteo di padre, cheneo di madre. Eutifrone figlio di Eraclide Pontico dice che cretese, ché Etea una città di Creta. Anassilao lo considera arcade. Di lui fa questa menzione Ipponatte: E Misone che Apollo vaticinò di tutti gli umani il più moderato. Aristosseno nelle sueMemorie sparseafferma che Misone non dissimile da Timone e da Apemanto, ché egli pure era misantropo.
+
+=== I,108 (Book 1) ===
+μισανθρωπεῖν γάρ. ὀφθῆναι γοῦν ἐν Λακεδαίμονι μόνον ἐπ' ἐρημίας γελῶντα˙ ἄφνω δέ τινος ἐπιστάντος καὶ πυθομένου διὰ τί μηδενὸς παρόντος γελᾷ, φάναι, "δι' αὐτὸ τοῦτο." φησὶ δ' Ἀριστόξενος ὅτι ἔνθεν καὶ ἄδοξος ἦν, ὅτιμηδὲπόλεως, ἀλλὰ κώμης, καὶ ταῦτα ἀφανοῦς. ὅθεν διὰ τὴν ἀδοξίαν αὐτοῦ καὶ τὰ αὐτοῦ τιναςΠεισιστράτῳπεριθεῖναι τῷ τυράννῳ, χωρὶς Πλάτωνος τοῦ φιλοσόφου. μέμνηται γὰρ αὐτοῦ καὶ οὗτος ἐν τῷ Πρωταγόρᾳ, ἀντὶ Περιάνδρουθεὶςαὐτόν. Ἔφασκεδὲμὴ ἐκ τῶν λόγων τὰ πράγματα ἀλλ' ἐκ τῶν πραγμάτων τοὺς λόγους ζητεῖν˙ οὐ γὰρ ἕνεκα τῶν λόγων τὰ πράγματα συντελεῖσθαι, ἀλλ' ἕνεκα τῶν πραγμάτων τοὺς λόγους. Κατέστρεψε δὲ βιοὺς ἔτη ἑπτὰ καὶ ἐνενήκοντα. μηδὲ Πεισιστράτῳ θεὶς δὲ
+
+=== I,108it (Book 1) ===
+Era solito dire che non dalle parole bisogna cercare opere, ma le parole dalle opere; ed infatti non con le parole si compiono le opere, ma le parole con le opere. Spirò all'età di novantasette anni.
+
+=== I,109 (Book 1) ===
+Κεφ. ι'. Ἐπιμενίδης, καθά φησι Θεόπομπος καὶ ἄλλοι συχνοί, πατρὸς μὲν ἦν Φαιστίου, οἱ δὲ Δωσιάδα, οἱ δὲ Ἀγησάρχου. Κρὴς τὸ γένος ἀπὸ Κνωσοῦ, καθέσει τῆς κόμης τὸ εἶδος παραλλάσσων. οὗτός ποτε πεμφθεὶςπαρὰτοῦ πατρὸς εἰς ἀγρὸν ἐπὶ πρόβατον, τῆς ὁδοῦ κατὰ μεσημβρίαν ἐκκλίνας ὑπ' ἄντρῳ τινὶ κατεκοιμήθη ἑπτὰ καὶ πεντήκοντα ἔτη. διαναστὰς δὲ μετὰ ταῦτα ἐζήτει τὸ πρόβατον, νομίζων ἐπ' ὀλίγον κεκοιμῆσθαι. ὡς δὲ οὐχ εὕρισκε, παρεγένετο εἰς τὸν ἀγρόν, καὶ μετεσκευασμένα πάντα καταλαβὼν καὶ παρ' ἑτέρῳ τὴν κτῆσιν, πάλιν ἧκεν εἰς ἄστυ διαπορούμενος. κἀκεῖ δὲ εἰς τὴν ἑαυτοῦ εἰσιὼν οἰκίαν περιέτυχε τοῖς πυνθανομένοις τίς εἴη, ἕως τὸν νεώτερον ἀδελφὸν εὑρὼν τότε ἤδη γέροντα ὄντα, πᾶσαν ἔμαθε παρ' ἐκείνου τὴν ἀλήθειαν. Κεφ. ι'. ΕΠΙΜΕΝΙΔΗΣ ΕΠΙΜΕΝΙΔΗΣ ΕΠΙΜΕΝΙΔΗΣ παρὰ
+
+=== I,109it (Book 1) ===
+Capitolo X EPIMENIDE EPIMENIDE e parecchi altri riferiscono che padre di Epimenide fu Festio, altri Dosiade, altri ancora Agesarco. Cretese di stirpe, da Cnosso, portava i capelli lunghi contro la consuetudine locale. Epimenide fu una volta mandato dal padre in campagna a cercare una pecora, ma verso mezzogiorno deviò dal cammino e s'addormentò sotto un antro per cinquantasette anni. Svegliatosi, dopo, cercava la pecora, credendo di aver dormito per poco tempo. Poiché non la trovava, si diresse al campo, che trovò però tutto cambiato ed in possesso di un altro, per cui fece ritorno in città, in preda al dubbio ed all'incertezza. Ivi giunto entrò nella sua casa, ma quelli in cui s'imbatté gli domandarono chi fosse; alla fine trovò il fratello minore, allora già vecchio, dal quale apprese tutta la verità.
+
+=== I,110 (Book 1) ===
+γνωσθεὶς δὲ παρὰ τοῖς Ἕλλησι θεοφιλέστατος εἶναι ὑπελήφθη.Τότεκαὶ Ἀθηναίοις τότε λοιμῷ κατεχομένοις ἔχρησεν ἡ Πυθία καθῆραι τὴν πόλιν˙ οἱ δὲ πέμπουσι ναῦν τε καὶ Νικίαν τὸν Νικηράτου εἰς Κρήτην, καλοῦντες τὸν Ἐπιμενίδην. καὶ ὃς ἐλθὼν Ὀλυμπιάδι τεσσαρακοστῇ ἕκτῃ ἐκάθηρεν αὐτῶν τὴν πόλιν καὶ ἔπαυσε τὸν λοιμὸν τοῦτον τὸν τρόπον. λαβὼν πρόβατα μελανά τε καὶ λευκὰ ἤγαγε πρὸς τὸν Ἄρειον πάγον. κἀκεῖθεν εἴασεν ἰέναι οἷ βούλοιντο, προστάξας τοῖς ἀκολούθοις ἔνθα ἂνκατακλίνοιαὐτῶν ἕκαστον, θύειν τῷ προσήκοντι θεῷ˙ καὶ οὕτω λῆξαι τὸ κακόν. ὅθεν ἔτι καὶ νῦν ἔστιν εὑρεῖν κατὰ τοὺς δήμους τῶν Ἀθηναίων βωμοὺς ἀνωνύμους, ὑπόμνημα τῆς τότε γενομένης ἐξιλάσεως. οἱ δὲ τὴν αἰτίαν εἰπεῖν τοῦ λοιμοῦ τὸ Κυλώνειον ἄγος σημαίνειν τε τὴν ἀπαλλαγήν˙ καὶ διὰ τοῦτο ἀποθανεῖν δύο νεανίας, Κρατῖνον καὶ Κτησίβιον, καὶ λυθῆναι τὴν συμφοράν. Τότε κατακλίνοι
+
+=== I,110it (Book 1) ===
+Egli vi giunse nella XLVI Olimpiade e purificò la loro città e fece cessare la peste in questo modo. Prese delle pecore dal vello nero e bianco, le guidò al colle di Ares e di lì le lasciò andare dove volessero, dopo aver ordinato a coloro che le seguivano che dove ciascuna di esse si fosse adagiata ivi fosse sacrificata al dio del luogo: così ebbe fine il morbo. Sì che ancora oggi nei demi di Atene possibile rinvenire altari senza nomi, ricordo dell'espiazione avvenuta in quel tempo. Altri narrano che Epimenide attribuì la causa della pestilenza al sacrilegio di Cilone e indicò il modo di allontanarla. Per questo infatti furono mandati a morte due giovani, Cratino e Ctesibio e fu eliminata la sciagura.
+
+=== I,111 (Book 1) ===
+Ἀθηναῖοι δὲ τάλαντον ἐψηφίσαντο δοῦναι αὐτῷ καὶ ναῦν τὴνἐςΚρήτην ἀπάξουσαν αὐτόν. ὁ δὲ τὸ μὲν ἀργύριον οὐ προσήκατο˙ φιλίαν δὲ καὶ συμμαχίαν ἐποιήσατο Κνωσίων καὶ Ἀθηναίων. Καὶ ἐπανελθὼν ἐπ' οἴκου μετ' οὐ πολὺ μετήλλαξεν, ὥς φησι Φλέγων ἐν τῷ Περὶ μακροβίων, βιοὺς ἔτη ἑπτὰ καὶ πεντήκοντα καὶ ἑκατόν˙ ὡς δὲ Κρῆτες λέγουσιν, ἑνὸς δέοντα τριακόσια˙ ὡς δὲ Ξενοφάνης ὁ Κολοφώνιος ἀκηκοέναι φησί, τέτταρα πρὸς τοῖς πεντήκοντα καὶ ἑκατόν. Ἐποίησε δὲ Κουρήτων καὶ Κορυβάντων γένεσιν καὶΘεογονίαν, ἔπη πεντακισχίλια, Ἀργοῦς ναυπηγίαν τε καὶ Ἰάσονος εἰς Κόλχους ἀπόπλουν ἔπη ἑξακισχίλια πεντακόσια. ἐς Θεογονίαν
+
+=== I,111it (Book 1) ===
+nel libroDei longevi, all'età di centocinquantasette anni; come dicono i Cretesi, all'età di duecentonovantanove; come dice di avere udito Senofane di Colofone, all'età di centocinquantaquattro. Compose unaNascita dei Cureti e dei Coribantie unaTeogonia, in cinquemila versi. Cantò in seimilacinquecento versi la costruzione della nave Argo ed il viaggio di Giasone fra i Colchi.
+
+=== I,112 (Book 1) ===
+συνέγραψε δὲ καὶ καταλογάδην περὶ θυσιῶν καὶ τῆς ἐν Κρήτῃ πολιτείας καὶ περὶ Μίνω καὶ Ῥαδαμάνθυος εἰς ἔπη τετρακισχίλια. ἱδρύσατο δὲ καὶ παρ' Ἀθηναίοις τὸ ἱερὸν τῶν Σεμνῶν θεῶν, ὥς φησι Λόβων ὁ Ἀργεῖος ἐν τῷ Περὶ ποιητῶν. λέγεται δὲ καὶ πρῶτος οἰκίας καὶ ἀγροὺς καθῆραι καὶ ἱερὰ ἱδρύσασθαι. εἰσὶ δ' οἳ μὴ κοιμηθῆναι αὐτὸν λέγουσιν, ἀλλὰ χρόνον τινὰ ἐκπατῆσαι ἀσχολούμενον περὶ ῥιζοτομίαν. Φέρεται δ' αὐτοῦ καὶ ἐπιστολὴ πρὸς Σόλωνα τὸν νομοθέτην, περιέχουσα πολιτείαν ἣν διέταξε Κρησὶ Μίνως. ἀλλὰ Δημήτριος ὁ Μάγνης ἐν τοῖς Περὶ ὁμωνύμων ποιητῶν τε καὶ συγγραφέων διελέγχειν πειρᾶται τὴν ἐπιστολὴν ὡς νεαρὰν καὶ μὴ τῇ Κρητικῇ φωνῇ γεγραμμένην, Ἀτθίδι δὲ καὶ ταύτῃ νέᾳ. ἐγὼ δὲ καὶ ἄλλην εὗρον ἐπιστολὴν ἔχουσαν οὕτως˙
+
+=== I,112it (Book 1) ===
+Fondò anche in Atene il tempio delle Dee Venerande, come attesta Lobone Argivo nel libroDei poeti. Si dice che sia stato il primo a fare la purificazione delle case e dei campi, ed il primo costruttore di templi. V'è anche chi dice che egli non si addormentò, ma si appartò dagli uomini per un certo tempo e si dedicò al taglio delle radici. Si tramanda di lui anche un'epistola al legislatore Solone, in cui tratta della costituzione data ai Cretesi da Minosse. Ma Demetrio di Magnesia nella sua operaDei poeti e scrittori omonimicerca di inficiarne l'autenticità, dimostrando che recenziore e che non scritta in dialetto cretese, ma in attico, pure esso tardo. Io rinvenni pure questa altra lettera:Epimenide a Solone.
+
+=== I,113 (Book 1) ===
+"Θάρρει, ὦ ἑταῖρε. αἰ γὰρ ἔτι θητευόντεσσιν Ἀθηναίοις καὶ μὴ εὐνομημένοις ἐπεθήκατο Πεισίστρατος, εἶχέ κα τὰν ἀρχὰν ἀεί, ἀνδραποδιξάμενος τὼςπολιήτας˙ νῦν δὲ οὐ κακὼς ἄνδρας δουλῶται˙ τοὶ μεμνάμενοι τᾶς Σόλωνος μανύσιος ἀλγιόντιπεδ'αἰσχύνας οὐδὲ ἀνεξοῦνταιτυραννούμενοι. ἀλλ' αἴ κα Πεισίστρατος〈αὐτὸς〉 κατασχέθῃτὰν πόλιν, οὐ μὰν ἐς παῖδάςγετήνω ἔλπομαι τὸ κράτοςἵξεσθαι˙ δυσμάχανον γὰρ ἀνθρώπως ἐλευθεριάξαντας ἐν τεθμοῖς ἀρίστοις δούλως ἦμεν. τὺ δὲ μὴ ἀλᾶσθαι, ἀλλ' ἕρπε ἐς Κρήτην ποθ' ἁμέ. τουτᾶ γὰρ οὐκ ἐσεῖταί τιν δεινὸς ὁμόναρχος˙ αἰ δέ πηἐπ'ἀλατείᾳ ἐγκύρσωντί τοιτοὶ τήνωφίλοι, δειμαίνω μή τι δεινὸν πάθῃς." πολιήτας πεδ' τυραννούμενοι 〈αὐτὸς〉 κατασχέθῃ γε ἵξεσθαι μόναρχος ἐπ' τοὶ τήνω
+
+=== I,113it (Book 1) ===
+Abbi fede, o amico. Se Pisistrato avesse imposto il suo dominio su Ateniesi schiavi e privi di buona costituzione, dominerebbe per sempre, avendo reso schiavi i cittadini, ma egli non ha imposto la schiavitù ad uomini vili ed incolti. Essi, memori del monito di Solone, avranno e dolore e vergogna insieme né sopporteranno, oltre, la tirannide. Ma se pure Pisistrato dovesse mantenere la città, io non credo che il potere perverrà ai suoi figli. impossibile che uomini educati al culto della libertà ed all'eccellenza delle leggi siano schiavi. Tu non andare vagando, ma vieni mio ospite a Creta. Qui nulla avrai da temere dal tiranno; se nel viaggio ti dovessi imbattere nei suoi amici, temo ti possa accadere qualcosa di grave.
+
+=== I,114 (Book 1) ===
+Καὶ οὗτος μὲν ὧδε. φησὶ δὲ Δημήτριός τινας ἱστορεῖν ὡς λάβοι παρὰ Νυμφῶν ἔδεσμά τι καὶ φυλάττοι ἐν χηλῇ βοός˙ προσφερόμενός τε κατ' ὀλίγον μηδεμιᾷ κενοῦσθαι ἀποκρίσει μηδὲ ὀφθῆναί ποτε ἐσθίων. μέμνηται αὐτοῦ καὶ Τίμαιος ἐν τῇ δευτέρᾳ. λέγουσι δέ τινες ὅτι Κρῆτες αὐτῷ θύουσιν ὡς θεῷ˙ φασὶ γὰρ καὶ 〈προ〉γνωστικώτατον γεγονέναι. ἰδόντα γοῦν τὴνΜουνιχίανπαρ' Ἀθηναίοις ἀγνοεῖν φάναι αὐτοὺς ὅσων κακῶν αἴτιον ἔσται τοῦτο τὸ χωρίον αὐτοῖς˙ ἐπεὶ κἂν τοῖς ὀδοῦσιν αὐτὸ διαφορῆσαι˙ ταῦτα ἔλεγε τοσούτοις πρότερον χρόνοις. λέγεται δὲ ὡς καὶπρῶτοςαὐτὸν Αἰακὸν λέγοι, καὶ Λακεδαιμονίοις προείποι τὴν ὑπ' Ἀρκάδων ἅλωσιν προσποιηθῆναί τε πολλάκις ἀναβεβιωκέναι. Μουνιχίαν πρῶτος
+
+=== I,114it (Book 1) ===
+nel suo secondo libro. Dicono alcuni che i Cretesi sacrificano a lui, come a un dio; si tramanda infatti anche che egli fu espertissimo nell'arte divinatoria. Visto il colle di Munichia in Atene, disse che gli Ateniesi ignoravano di quanti mali sarebbe stato loro causa quel piccolo luogo e che se l'avessero saputo l'avrebbero tolto via con i denti. Queste cose egli diceva tanti anni prima. Si dice che fu il primo a chiamarsi Eaco, e che predisse agli Spartani la conquista da parte degli Arcadi, e che finse di essere resuscitato più di una volta.
+
+=== I,115 (Book 1) ===
+Θεόπομπος δ' ἐν τοῖς Θαυμασίοις, κατασκευάζοντος αὐτοῦ τὸ τῶν Νυμφῶν ἱερὸν ῥαγῆναι φωνὴν ἐξ οὐρανοῦ, Ἐπιμενίδη, μὴ Νυμφῶν, ἀλλὰ Διός˙" Κρησί τε προειπεῖν τὴν Λακεδαιμονίων ἧττανὑπ'Ἀρκάδων, καθάπερ προείρηται˙ καὶ δὴ καὶ ἐλήφθησαν πρὸς Ὀρχομενῷ. Γηρᾶσαί τ' ἐν τοσαύταις ἡμέραις αὐτὸν ὅσαπερ ἔτη κατεκοιμήθη˙ καὶ γὰρ τοῦτό φησι Θεόπομπος. Μυρωνιανὸς δὲ ἐν Ὁμοίοις φησὶν ὅτι Κούρητα αὐτὸν ἐκάλουν Κρῆτες˙ καὶ τὸ σῶμα αὐτοῦ φυλάττουσι Λακεδαιμόνιοι παρ' ἑαυτοῖς κατά τι λόγιον, ὥς φησι Σωσίβιος ὁ Λάκων.Γεγόνασι δὲ καὶ Ἐπιμενίδαι ἄλλοι δύο, ὅ τε γενεαλόγος καὶ τρίτος ὁ Δωρίδι γεγραφὼς περὶ Ῥόδου. ὑπ'
+
+=== I,115it (Book 1) ===
+nei suoiMirabilinarra che, mentre costruiva il tempio delle Ninfe, una voce eruppe dal cielo: «Epimenide, non delle Ninfe, ma di Zeus» e che ai Cretesi predisse che gli Spartani sarebbero stati sconfitti dagli Arcadi, come sopra abbiamo detto: ed invero furono catturati ad Orcomeno. Che egli sia invecchiato in tanti giorni per quanti anni dormì attestato anche da Teopompo. Mironiano nei suoiSimilidice che i Cretesi lo chiamavano Curete; Sosibio Lacone riferisce che gli Spartani custodiscono presso di loro il suo corpo, secondo un oracolo. Ve ne furono altri due col nome di Epimenide, l'uno scrittore di genealogie, l'altro che compose un'opera su Rodi in dialetto dorico.
+
+=== I,116 (Book 1) ===
+Κεφ. ια'. Φερεκύδης Βάβυος Σύριος, καθά φησιν Ἀλέξανδρος ἐν Διαδοχαῖς, Πιττακοῦ διακήκοεν. τοῦτόν φησι Θεόπομπος πρῶτον περὶ φύσεως καὶ θεῶν Ἔλλησι γράψαι. Πολλὰ δὲ καὶ θαυμάσια λέγεται περὶ αὐτοῦ. καὶ γὰρ παρὰ τὸν αἰγιαλὸν τῆς Σάμου περιπατοῦντα καὶ ναῦν οὐριοδρομοῦσαν ἰδόντα εἰπεῖν ὡς οὐμετὰπολὺ καταδύσεται˙ καὶ ἐν ὀφθαλμοῖς αὐτοῦ καταδῦναι. καὶ ἀνιμηθέντος ἐκ φρέατος ὕδατος πιόντα προειπεῖν ὡς εἰς τρίτην ἡμέραν ἔσοιτο σεισμός, καὶ γενέσθαι. ἀνιόντα τε ἐξ Ὀλυμπίας εἰς Μεσσήνην τῷ ξένῳ Περιλάῳ συμβουλεῦσαι ἐξοικῆσαι μετὰ τῶν οἰκείων˙ καὶ τὸν μὴ πεισθῆναι, Μεσσήνην δὲ ἑαλωκέναι. Κεφ. ια'. ΦΕΡΕΚΥΔΗΣ ΦΕΡΕΚΥΔΗΣ ΦΕΡΕΚΥΔΗΣ μετὰ
+
+=== I,116it (Book 1) ===
+Capitolo XI FERECIDE FERECIDE nelleSuccessioni dei filosofi, e fu uditore di Pittaco. Teopompo dice che fu il primo a scrivere per i Greci intorno alla natura ed 〈all'origine〉 degli dèi. Molte e meravigliose cose si narrano di lui. Passeggiava una volta lungo il lido di Samo quando vide una nave correre col vento in poppa e predisse che fra non molto sarebbe affondata: affondò dinanzi ai suoi occhi. Attinta l'acqua da un pozzo e bevutala, predisse che entro tre giorni sarebbe avvenuto un terremoto: così avvenne. Venuto da Olimpia a Messene consigliò all'ospite Perilao di trasferirsi insieme con i suoi; quello non gli diede retta: Messene fu conquistata.
+
+=== I,117 (Book 1) ===
+Καὶ Λακεδαιμονίοις εἰπεῖν μήτε χρυσὸν τιμᾶν μήτε ἄργυρον, ὥς φησι Θεόπομπος ἐν Θαυμασίοις˙ προστάξαιδὲαὐτῷ ὄναρ τοῦτο τὸν Ἡρακλέα, ὃν καὶ τῆς αὐτῆς νυκτὸς τοῖς βασιλεῦσι κελεῦσαι Φερεκύδῃ πείθεσθαι. ἔνιοι δὲ Πυθαγόρᾳ περιάπτουσι ταῦτα. Φησὶ δ' Ἕρμιππος πολέμου συνεστῶτος Ἐφεσίοις καὶ Μάγνησι βουλόμενον τοὺς Ἐφεσίους νικῆσαι πυθέσθαι τινὸς παριόντος πόθεν εἴη, τοῦ δ' εἰπόντος "ἐξ Ἐφέσου," "ἕλκυσόν με τοίνυν, ἔφη, τῶν σκελῶν καὶ θὲς εἰς τὴν τῶν Μαγνήτων χώραν, καὶ ἀπάγγειλόν σου τοῖς πολίταις μετὰ τὸ νικῆσαι αὐτόθι με θάψαι˙ ἐπεσκηφέναι τε ταῦτα Φερεκύδην." δὲ
+
+=== I,117it (Book 1) ===
+neiMirabili, il quale dice pure che Eracle apparsogli in sogno gli ordinò ciò e che nella stessa notte apparve ai re ed ordinò loro di obbedire a Ferecide. Alcuni attribuiscono questi fatti a Pitagora. Ermippo narra che scoppiata la guerra tra Efesii e Magnesii egli, volendo che gli Efesii vincessero, chiese ad un passante donde fosse ed appreso che era di Efeso, disse: «Trascinami per le gambe e ponimi nella terra dei Magnesii ed annunzia ai tuoi cittadini che dopo la vittoria ivi mi seppelliscano: così ha ordinato Ferecide».
+
+=== I,118 (Book 1) ===
+ὁ μὲν 〈οὖν〉 ἀπήγγειλεν˙ οἱ δὲ μετὰ μίαν ἐπελθόντες κρατοῦσι τῶν Μαγνήτων, καὶ τόν τε Φερεκύδην μεταλλάξανταθάπτουσιαὐτόθι καὶ μεγαλοπρεπῶς τιμῶσιν. ἔνιοι δέ φασιν ἐλθόντα εἰς Δελφοὺς ἀπὸ τοῦ Κωρυκίου ὄρους αὑτὸν δισκῆσαι. Ἀριστόξενος δ' ἐν τῷ Περὶ Πυθαγόρου καὶ τῶν γνωρίμων αὐτοῦ φησι νοσήσαντα αὐτὸν ὑπὸ Πυθαγόρου ταφῆναι ἐν Δήλῳ. οἱ δὲ φθειριάσαντα τὸν βίον τελευτῆσαι˙ ὅτε καὶ Πυθαγόρου παραγενομένου καὶ πυνθανομένου πῶς διακέοιτο, διαβαλόντα τῆς θύρας τὸν δάκτυλον εἰπεῖν, "χροῒ δῆλα"˙ καὶ τοὐντεῦθεν παρὰ τοῖς φιλολόγοις ἡ λέξις ἐπὶ τῶν χειρόνων τάττεται, οἱ δ' ἐπὶ τῶν βελτίστων χρώμενοι διαμαρτάνουσιν. θάπτουσι
+
+=== I,118it (Book 1) ===
+Alcuni però dicono che egli nel venire a Delfi si sia gettato dal monte Corico; Aristosseno nel libroDi Pitagora e dei Pitagoricidice che Ferecide ammalatosi fu sepolto da Pitagora in Delo; altri dicono che morì di ftiriasi. Quando Pitagora gli andò a far visita e gli chiese come stesse, Ferecide fece passare il dito attraverso l'apertura della porta e disse: «Appare dalla pelle», la quale espressione adoperata dai filologi per le opere mal riuscite, da altri erroneamente per le opere di gran pregio.
+
+=== I,119 (Book 1) ===
+ἔλεγέ τε ὅτι οἱ θεοὶ τὴν τράπεζαν θυωρὸν καλοῦσιν.Ἄνδρων δ' ὁ Ἐφέσιός φησι δύο γεγονέναι Φερεκύδας Συρίους, τὸν μὲν ἀστρολόγον, τὸν δὲ θεολόγον υἱὸν Βάβυος, ᾧ καὶ Πυθαγόραν σχολάσαι. Ἐρατοσθένης δ' ἕνα μόνον, καὶ ἕτερον Ἀθηναῖον, γενεαλόγον. Σώζεται δὲ τοῦ Συρίου τό τε βιβλίον ὃ συνέγραψεν, οὗ ἡ ἀρχή˙"Ζὰς μὲν καὶ Χρόνος ἦσαν ἀεὶ καὶ Χθονίη˙ Χθονίῃ δὲ ὄνομα ἐγένετο Γῆ ἐπειδὴ αὐτῇ Ζὰς γῆν γέρας διδοῖ."σώζεται δὲ καὶ ἡλιοτρόπιον ἐν Σύρῳ τῇ νήσῳ. Φησὶ δὲ Δοῦρις ἐν τῷ δευτέρῳ τῶνὩρῶνἐπιγεγράφθαι αὐτῷ τὸ ἐπίγραμμα τόδε˙ Ὡρῶν
+
+=== I,119it (Book 1) ===
+θυωρὸς Γῆ γῆ
+---
+Androne di Efeso dice che vi furono due Ferecidi di Siro, l'uno astrologo, l'altro teologo, figlio di Babis, di cui fu alunno Pitagora; Eratostene dice che ve ne fu uno solo di Siro, ed un altro ateniese, genealogo. Di Ferecide di Siro si conserva il libro ch'egli scrisse, il cui inizio Zas (Zeus), Crono e Ctonia furono sempre: e Ctonia fu chiamata Gea perché ad essa Zas diede la sua terra come ricompensa. Si conserva anche la sua meridiana nell'isola di Siro. Duride attesta nel secondo libro delleOre che sul suo sepolcro fu iscritto questo epigramma:
+
+=== I,120 (Book 1) ===
+τῆς σοφίης πάσης ἐν ἐμοὶ τέλος˙ ἢν δέ τι πλεῖον Πυθαγόρῃ τὠμῷ λέγε ταῦθ' ὅτι πρῶτος ἁπάντων ἔστιν ἀν' Ἑλλάδα γῆν˙ οὐ ψεύδομαι ὧδ' ἀγορεύων. Ἴων δ' ὁ Χῖός φησιν περὶ αὐτοῦ˙ὣς ὃ μὲν ἠνορέῃ τε κεκασμένος ἠδὲ καὶ αἰδοῖ καὶ φθίμενος ψυχῇ τερπνὸν ἔχει βίοτον, εἴπερ Πυθαγόρης ἐτύμωςὁσοφὸς περὶ πάντων ἀνθρώπων γνώμας εἶδεκαξέμαθεν. Ἔστι καὶ ἡμῶν οὕτως ἔχον τῷ μέτρῳ τῷ Φερεκρατείῳ˙ ὁ καξέμαθεν
+
+=== I,120it (Book 1) ===
+Ione di Chio dice di lui: Così egli, insigne per virile vigore e pudore, anche dopo morte ha vita soave per la sua anima, anche se in verità Pitagora il saggio al di sopra di tutti gli uomini le menti vide e conobbe. V'è anche questo nostro epigramma scritto in metro ferecrateo:
+
+=== I,121 (Book 1) ===
+ἐς φθεῖρας λόγος ἐστὶν ἀλλάξαι τὸ πρὶν εἶδος, θεῖναί τ'εὐθὺκελεύειν Μαγνήτων, ἵνα νίκην δοίη τοῖς Ἐφέσοιο γενναίοις πολιήταις. ἦν γὰρ χρησμός, ὃν ᾔδει μοῦνος, τοῦτο κελεύων˙ καὶ θνήσκει παρ' ἐκείνοις. οὖν τοῦτ' ἄρ' ἀληθές˙ ἢν ᾖ τις σοφὸς ὄντως, καὶ ζῶν ἐστιν ὄνησις, χὤταν μηκέθ' ὑπάρχῃ. Γέγονε δὲ κατὰ τὴν πεντηκοστὴν καὶ ἐνάτην Ὀλυμπιάδα. καὶ ἐπέστειλεν ὧδε˙ Φερεκύδης Θαλῇ εὐθὺ ἦν
+
+=== I,121it (Book 1) ===
+Scrisse questa lettera: Ferecide a Talete.
+
+=== I,122 (Book 1) ===
+"Εὖ θνήσκοις ὅταν τοι τὸ χρεὼν ἥκῃ. νοῦσός με καταλελάβηκε δεδεγμένον τὰ παρὰ σέο γράμματα. φθειρῶνἔβρυονπᾶς καί με εἶχεν ἠπίαλος. ἐπέσκηψα δ' ὦν τοῖσιν οἰκιήτῃσιν, ἐπήν με καταθάψωσιν, ἐς σὲ τὴν γραφὴν ἐνέγκαι. σὺ δὲ ἢν δοκιμώσῃς σὺν τοῖς ἄλλοις σοφοῖς, οὕτω μιν φῆνον˙ ἢν δὲ οὐ δοκιμώσητε, μὴ φήνῃς. ἐμοὶ μὲν γὰρ οὔκω ἥνδανεν. ἔστι δὲ οὐκἀτρεκηΐηπρηγμάτων οὐδ'ὑπίσχομαι τἀληθὲςεἰδέναι˙ ἅσσα δ' ἂνἐπιλέγῃθεολογέων˙ τὰ ἄλλα χρὴ νοέειν˙ ἅπαντα γὰρ αἰνίσσομαι. τῇ δὲ νούσῳ πιεζόμενος ἐπὶ μᾶλλον οὔτε τῶν τινα ἰητρῶν οὔτε τοὺς ἑταίρους ἐσιέμην˙ προσεστεῶσι δὲ τῇ θύρῃ καὶ εἰρομένοις ὁκοῖόν τι εἴη, διεὶς δάκτυλον ἐκ τῆςκληΐθρηςἔδειξ' ἂν ὡςἔβρυοντοῦ κακοῦ. καὶ προεῖπααὐτοῖσιἥκειν ἐς τὴν ὑστεραίην ἐπὶ τὰς Φερεκύδεω ταφάς." Καὶ οὗτοι μὲν οἱ κληθέντες σοφοί, οἷς τινες καὶ Πεισίστρατον τὸν τύραννον προσκαταλέγουσι. λεκτέον δὲ περὶ τῶν φιλοσόφων˙ καὶ πρῶτόν γε ἀρκτέον ἀπὸ τῆς Ἰωνικῆς φιλοσοφίας, ἧς καθηγήσατο Θαλῆς, οὗ διήκουσεν Ἀναξίμανδρος. ἔβρυον ἀτρεκηΐη ὑπίσχομαι τἀληθὲς ἐπιλέγῃ κληΐθρης ἔβρυον αὐτοῖσι
+
+=== I,122it (Book 1) ===
+Il resto bisogna intuirlo; ché a tutto io alludo per enigmi. Oppresso dal morbo ogni giorno di più, né medici né amici io introducevo; a chi stava innanzi alla porta e chiedeva notizie della mia salute infilavo il dito dall'apertura della porta e mostravo da quale male io fossi afflitto. E ammonivo di tornare il dì seguente, all'esequie di Ferecide. Questi dunque sono i Sette Sapienti, a cui alcuni aggiungono il tiranno Pisistrato. Ora bisogna parlare dei filosofi a cominciare dalla filosofia ionica, iniziata da Talete, di cui fu alunno Anassimandro.
+

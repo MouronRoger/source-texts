@@ -1,2 +1,5 @@
 # Ignore checkpoints folder
 scaffold-source-texts/data/checkpoints/
+
+# Ignore specstory history
+.specstory/history/
